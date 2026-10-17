@@ -1,0 +1,691 @@
+{
+  "categories": [
+    {
+      "id": "endothermic-suppression",
+      "name": {
+        "en": "Endothermic Fire Suppression Systems",
+        "tr": "Endotermik Söndürme Sistemleri",
+        "de": "Endotherme Löschsysteme"
+      },
+      "image": "/assets/images/products/cold-fire.jpg",
+      "sfaUrl": "/products/demofire",
+      "subcategories": []
+    },
+    {
+      "id": "f500-suppression",
+      "name": {
+        "en": "F500 Fire Suppression Technology",
+        "tr": "F500 Yangın Söndürme Teknolojisi",
+        "de": "F500 Feuerlöschtechnologie"
+      },
+      "image": "/assets/images/products/f500.jpg",
+      "sfaUrl": "/products/demofire",
+      "subcategories": []
+    }
+  ],
+  "products": [
+    {
+      "id": "cold-fire",
+      "categoryId": "endothermic-suppression",
+      "subcategoryId": null,
+      "title": {
+        "en": "Cold Fire Endothermic Agent",
+        "tr": "Cold Fire Endotermik Söndürme Ajanı",
+        "de": "Cold Fire Endothermes Löschmittel"
+      },
+      "description": {
+        "en": "Environmentally friendly, organic, and ultra-fast cooling endothermic fire suppression agent.",
+        "tr": "Çevre dostu, organik ve yüksek hızlı soğutma etkili endotermik söndürme ajanı.",
+        "de": "Umweltfreundliches, organisches und ultraschnell abkühlendes endothermes Löschmittel."
+      },
+      "longDescription": {
+        "en": "Cold Fire is an eco-friendly and organic fire suppression agent that works by instantly breaking the heat leg of the fire triangle. The agent encapsulates fuel molecules to prevent re-flash (re-ignition). It is non-corrosive, non-toxic, and 100% biodegradable, making it safe for both operations and the environment.",
+        "tr": "Cold Fire, yangın üçgenindeki ısı halkasını anında kırarak çalışan çevre dostu ve organik bir yangın söndürme ajanıdır. Ajan, yakıtın moleküler yapısını enkapsüle ederek (hapsederek) yeniden alev almayı (re-flash) önler. Korozif değildir, toksik madde içermez ve %100 doğada çözünür.",
+        "de": "Cold Fire is ein umweltfreundliches und organisches Löschmittel, das die Wärme des Feuerdreiecks sofort entzieht. Das Mittel kapselt die Brennstoffmoleküle ein, um ein Wiederentflammen zu verhindern. Es ist ungiftig, nicht korrosiv und zu 100 % biologisch abbaubar."
+      },
+      "image": "/assets/images/products/cold-fire.jpg",
+      "gallery": [
+        "/assets/images/products/cold-fire.jpg"
+      ],
+      "features": {
+        "en": [
+          "Highly effective on Class A, B, D and Lithium-Ion battery fires",
+          "Prevents re-flash by encapsulating the fuel source",
+          "100% biodegradable and zero toxicity",
+          "Non-corrosive, safe for machinery and electronic components"
+        ],
+        "tr": [
+          "A, B, D ve Lityum-İyon pil yangınlarında yüksek söndürme hızı",
+          "Yakıtı hapsederek yeniden alevlenmeyi (re-flash) kesin olarak önler",
+          "%100 biyolojik olarak parçalanabilir ve sıfır toksisite",
+          "Korozif değildir, endüstriyel makine ve ekipmanlara zarar vermez"
+        ],
+        "de": [
+          "Sehr effektiv bei Bränden der Klassen A, B, D und Lithium-Ionen-Batterien",
+          "Verhindert Wiederentflammen durch Einkapselung der Brennstoffquelle",
+          "100 % biologisch abbaubar und ungiftig",
+          "Nicht korrosiv, sicher für Maschinen und Elektronikkomponenten"
+        ]
+      },
+      "specs": {
+        "Concentration Rate / Kullanım Oranı": "1% - 10%",
+        "Freezing Point / Donma Noktası": "-1°C",
+        "pH Level / pH Seviyesi": "7.5 (Neutral / Nötr)",
+        "Environmental Impact / Çevresel Etki": "100% Biodegradable / Doğa Dostu"
+      },
+      "sfaUrl": "/products/demofire/cold-fire"
+    },
+    {
+      "id": "flame-blocker",
+      "categoryId": "endothermic-suppression",
+      "subcategoryId": null,
+      "title": {
+        "en": "Flame Blocker Fire Retardant",
+        "tr": "Flame Blocker Yangın Önleyici ve Geciktirici",
+        "de": "Flame Blocker Flammhemmer"
+      },
+      "description": {
+        "en": "Protective barrier agent that prevents heat transfer and propagation on flammable surfaces.",
+        "tr": "Yüzeylerde ısı geçişini engelleyen ve yangın yayılımını durduran koruyucu bariyer.",
+        "de": "Schutzbarriere, die Wärmeübertragung und Brandausbreitung auf brennbaren Oberflächen verhindert."
+      },
+      "longDescription": {
+        "en": "Flame Blocker creates an endothermic protective layer that restricts heat and oxygen transfer on treated surfaces. Formulated specifically to stop flame propagation on wood, fabric, cables, and other combustible industrial materials.",
+        "tr": "Flame Blocker, uygulandığı yüzeyde ısı ve oksijen transferini engelleyen endotermik bir koruma katmanı oluşturur. Ahşap, tekstil, kablolar ve diğer yanıcı endüstriyel malzemeler üzerinde alev ilerlemesini durdurmak üzere formüle edilmiştir.",
+        "de": "Flame Blocker erzeugt eine endotherme Schutzschicht, die Wärme- und Sauerstoffübertragung auf behandelten Oberflächen einschränkt. Speziell entwickelt, um die Flammausbreitung auf Holz, Textilien, Kabeln und anderen brennbaren Materialien zu stoppen."
+      },
+      "image": "/assets/images/products/flame-blocker.jpg",
+      "gallery": [
+        "/assets/images/products/flame-blocker.jpg"
+      ],
+      "features": {
+        "en": [
+          "Creates a non-flammable protective layer on treated materials",
+          "Slows thermal radiation and flame propagation significantly",
+          "Odorless and colorless formulation, does not affect aesthetic integrity",
+          "Suitable for wide range of porous and combustible surfaces"
+        ],
+        "tr": [
+          "Uygulanan yüzeyde alev almaz, koruyucu bir bariyer katmanı oluşturur",
+          "Termal radyasyonu ve alev yayılım hızını önemli ölçüde yavaşlatır",
+          "Kokusuz ve renksizdir, uygulandığı malzemenin görüntüsünü bozmaz",
+          "Gözenekli ve yanıcı tüm yüzeylerde geniş uygulama yelpazesi"
+        ],
+        "de": [
+          "Erzeugt eine nicht brennbare Schutzschicht auf behandelten Materialien",
+          "Verzögert Wärmestrahlung und Flammausbreitung erheblich",
+          "Geruchlose und farblose Formulierung, beeinträchtigt das Aussehen nicht",
+          "Geeignet für eine Vielzahl poröser und brennbarer Oberflächen"
+        ]
+      },
+      "specs": {
+        "Application Temperature / Uygulama Sıcaklığı": "+5°C to +40°C",
+        "Drying Time / Kuruma Süresi": "2 - 4 Hours / Saat",
+        "Density / Yoğunluk": "1.05 g/cm³",
+        "pH Level / pH Seviyesi": "6.8"
+      },
+      "sfaUrl": "/products/demofire/flame-blocker"
+    },
+    {
+      "id": "arac-ici-sondurme",
+      "categoryId": "endothermic-suppression",
+      "subcategoryId": null,
+      "title": {
+        "en": "In-Vehicle Engine Bay Suppression Systems",
+        "tr": "Araç İçi ve Motor Bölmesi Söndürme Sistemleri",
+        "de": "Fahrzeug-Motorraum-Löschsysteme"
+      },
+      "description": {
+        "en": "Automatic fire detection and suppression solutions for buses, heavy machinery, and military vehicles.",
+        "tr": "Otobüs, iş makinesi ve askeri araç motor bölmeleri için otomatik yangın algılama ve söndürme çözümü.",
+        "de": "Automatische Brandmelde- und Löschsysteme für Busse, schwere Baumaschinen und Militärfahrzeuge."
+      },
+      "longDescription": {
+        "en": "Designed for challenging environments subject to high vibration, dust, and extreme temperature fluctuations. Using pressurized polymer linear detection tubing, the system automatically detects flames at the source, rupturing to release the suppression agent directly onto the fire.",
+        "tr": "Araç içi ve motor bölmesi yangın söndürme sistemleri, yüksek titreşim, toz ve sıcaklık değişimlerinin yaşandığı zorlu motor bölmeleri için tasarlanmıştır. Basınçlı doğrusal algılama hortumu sayesinde alevi kaynağında tespit ederek söndürücü ajanı doğrudan yangın noktasına püskürtür.",
+        "de": "Konzipiert für anspruchsvolle Umgebungen mit hohen Vibrationen, Staub und extremen Temperaturschwankungen. Durch druckbeaufschlagte lineare Detektionsschläuche erkennt das System Brände an der Quelle und entlädt das Löschmittel direkt."
+      },
+      "image": "/assets/images/products/arac-ici-sondurme.jpg",
+      "gallery": [
+        "/assets/images/products/arac-ici-sondurme.jpg"
+      ],
+      "features": {
+        "en": [
+          "Robust design resistant to heavy vehicle vibrations and shocks",
+          "Mechanical pneumatic activation requiring no external electrical power",
+          "Fast detection through flexible polymer sensor tubing",
+          "Integrated with eco-friendly Cold Fire endothermic liquid agent"
+        ],
+        "tr": [
+          "Titreşime ve ağır araç koşullarına dayanıklı sarsılmaz tasarım",
+          "Elektriksel güç kaynağı gerektirmeden pnömatik mekanik aktivasyon",
+          "Esnek polimer algılama hortumu ile milisaniyeler içinde hızlı tespit",
+          "Çevre dostu Cold Fire endotermik sıvı söndürücü ajan entegrasyonu"
+        ],
+        "de": [
+          "Robuste Konstruktion, vibrationsfest gegen Fahrzeugerschütterungen",
+          "Pneumatisch-mechanische Aktivierung ohne externe Stromversorgung",
+          "Schnelle Erkennung durch flexiblen Polymersensorschlauch",
+          "Integriert mit umweltfreundlichem endothermem Cold Fire Flüssiglöschmittel"
+        ]
+      },
+      "specs": {
+        "Operating Pressure / Çalışma Basıncı": "15 Bar",
+        "Activation Temp / Tetikleme Sıcaklığı": "110°C / 180°C",
+        "Cylinder Capacity / Silindir Kapasitesi": "4L - 9L",
+        "Suppression Agent / Söndürücü Ajan": "Cold Fire Liquid / Endotermik Sıvı"
+      },
+      "sfaUrl": "/products/demofire/arac-ici-sondurme"
+    },
+    {
+      "id": "backpack-sondurme",
+      "categoryId": "endothermic-suppression",
+      "subcategoryId": null,
+      "title": {
+        "en": "Backpack Portable Suppression Systems",
+        "tr": "Sırt Tipi (Backpack) Taşınabilir Söndürme Sistemleri",
+        "de": "Rucksack-Tragbare Löschsysteme"
+      },
+      "description": {
+        "en": "Highly mobile backpack high-pressure watermist fire suppression units for emergency response.",
+        "tr": "İtfaiye ve acil durum ekipleri için yüksek mobiliteli, sırt tipi yüksek basınçlı söndürme ünitesi.",
+        "de": "Tragbare Rucksack-Hochdruck-Wassernebelsysteme für die schnelle Brandbekämpfung."
+      },
+      "longDescription": {
+        "en": "Backpack fire suppression systems offer high performance in narrow spaces, forest areas, or remote locations where vehicle access is restricted. It combines high-pressure watermist technology with endothermic agent additives to maximize cooling and suppress fires with minimal water use.",
+        "tr": "Sırt tipi taşınabilir söndürme sistemleri, araçların giremediği dar alanlarda, orman yangınlarında veya ilk müdahale gerektiren durumlarda yüksek performans sunar. Düşük su tüketimiyle maksimum soğutma sağlayan su sisi (watermist) ve endotermik katkı teknolojisini birleştirir.",
+        "de": "Rucksack-Löschsysteme bieten hohe Leistung in engen Räumen, Waldgebieten oder abgelegenen Orten, wo kein Fahrzeugzugang möglich ist. Sie kombiniert Hochdruck-Wassernebel mit endothermen Additiven für maximale Kühlung."
+      },
+      "image": "/assets/images/products/backpack-sondurme.jpg",
+      "gallery": [
+        "/assets/images/products/backpack-sondurme.jpg"
+      ],
+      "features": {
+        "en": [
+          "Ergonomic, lightweight backpack frame designed for user comfort",
+          "Low water consumption paired with high suppression capability",
+          "Dual-effect spray nozzle (mist and straight jet modes)",
+          "Rapid deployment and simple refill process in the field"
+        ],
+        "tr": [
+          "Ergonomik ve kullanıcı konforu göz önünde bulundurulmuş hafif sırt askı tasarımı",
+          "Çok düşük su tüketimi ile yüksek söndürme ve soğutma kapasitesi",
+          "Sis (su sisi) ve jet (noktasal atış) modlarına sahip çift etkili lans",
+          "Hızlı saha kurulumu ve kolay basınçlandırma/yeniden dolum"
+        ],
+        "de": [
+          "Ergonomischer, leichter Rucksackrahmen für hohen Tragekomfort",
+          "Geringer Wasserverbrauch kombiniert mit hoher Löschleistung",
+          "Doppeleffekt-Sprühdüse (Nebel- und Punktstrahlmodus)",
+          "Schnelle Bereitstellung und einfache Wiederbefüllung im Feld"
+        ]
+      },
+      "specs": {
+        "Water Capacity / Su Kapasitesi": "12L - 15L",
+        "Operating Pressure / Çalışma Basıncı": "6 - 8 Bar",
+        "Discharge Range / Atış Mesafesi": "6m - 10m",
+        "Dry Weight / Ağırlık (Boş)": "4.5 kg"
+      },
+      "sfaUrl": "/products/demofire/backpack-sondurme"
+    },
+    {
+      "id": "pano-ici-sondurme",
+      "categoryId": "endothermic-suppression",
+      "subcategoryId": null,
+      "title": {
+        "en": "In-Cabinet Automatic Suppression Systems",
+        "tr": "Mikro Pano İçi Otomatik Söndürme Sistemleri",
+        "de": "Schaltschrank-Kleinlöschsysteme"
+      },
+      "description": {
+        "en": "Micro-scale fire detection and suppression directly inside electrical cabinets and server racks.",
+        "tr": "Elektrik panoları ve server kabinleri için mikro ölçekli, kaynaktan yangın algılama sistemi.",
+        "de": "Automatische Brandmeldung und -löschung im Mikromaßstab direkt in Schaltschränken und Serverracks."
+      },
+      "longDescription": {
+        "en": "Designed to extinguish fires inside critical cabinets (electrical control panels, server racks, switchgear enclosures) before they spread. A polymer tubing routed inside the cabinet ruptures at the exact hot spot when temperature exceeds 110°C, releasing clean agent or Cold Fire directly onto the arc or flame.",
+        "tr": "Elektrik panoları, sunucu kabinleri ve kontrol üniteleri gibi kritik noktalarda çıkan yangınları büyümeden söndürmek için tasarlanmıştır. Panonun içine döşenen özel polimer hortum, sıcaklık 110°C'yi geçtiğinde yırtılarak söndürücü ajanı doğrudan arkın veya alevin başladığı noktaya deşarj eder.",
+        "de": "Konzipiert, um Brände in kritischen Schränken (Schaltschränke, Serverracks) zu löschen, bevor sie sich ausbreiten. Ein flexibler Polymerschlauch platzt bei über 110°C und entlädt das Löschmittel direkt am Entstehungspunkt."
+      },
+      "image": "/assets/images/products/pano-ici-sondurme.jpg",
+      "gallery": [
+        "/assets/images/products/pano-ici-sondurme.jpg"
+      ],
+      "features": {
+        "en": [
+          "Direct fire suppression at the exact point of ignition",
+          "Completely self-contained, requires no electrical power or batteries",
+          "Ideal for critical server cabinets and high-voltage panels",
+          "Compatible with clean gas agents (Novec, FM200) or Cold Fire liquid"
+        ],
+        "tr": [
+          "Doğrudan alevin kaynağına deşarj olan sistem tasarımı (Direct System)",
+          "Elektrik bağlantısı, batarya veya elektronik dedektör gerektirmez",
+          "Kritik veri merkezleri, server kabinleri ve OG panoları için en güvenli çözüm",
+          "Temiz gaz (Novec, FM200) veya Cold Fire sıvı söndürücü ajan seçenekleri"
+        ],
+        "de": [
+          "Direkte Brandlöschung genau am Entstehungspunkt des Feuers",
+          "Vollständig autark, benötigt keine Stromversorgung oder Batterien",
+          "Ideal für kritische Serverschränke und Hochspannungsschaltanlagen",
+          "Kompatibel mit sauberen Gasen (Novec, FM200) oder Cold Fire-Flüssigkeit"
+        ]
+      },
+      "specs": {
+        "Detection Tubing / Algılama Hortumu": "Polymer Sensor Tubing / Polimer Hortum",
+        "Activation Temp / Tetikleme Sıcaklığı": "110°C",
+        "Cylinder Options / Silindir Boyutu": "1kg - 4kg",
+        "Response Time / Tepki Süresi": "< 5 Seconds / Saniye"
+      },
+      "sfaUrl": "/products/demofire/pano-ici-sondurme"
+    },
+    {
+      "id": "davlumbaz-sondurme",
+      "categoryId": "endothermic-suppression",
+      "subcategoryId": null,
+      "title": {
+        "en": "Kitchen Hood Automatic Suppression Systems",
+        "tr": "Otomatik Mutfak Davlumbaz Söndürme Sistemleri",
+        "de": "Küchenhauben-Löschsysteme"
+      },
+      "description": {
+        "en": "Wet chemical fire suppression solution for industrial kitchen hoods, deep fryers, and grills.",
+        "tr": "Endüstriyel mutfaklar ve restoran davlumbazları için sıvı kimyasal bazlı yangın koruma çözümü.",
+        "de": "Nasschemische Brandlöschung für industrielle Dunstabzugshauben, Fritteusen und Grills."
+      },
+      "longDescription": {
+        "en": "Industrial kitchen hoods are prone to extremely hot fat and grease fires. Demofire kitchen hood suppression systems use specialized wet chemical agents that react with hot grease to create a foam blanket (saponification), cutting off oxygen supply and rapidly cooling the area down to prevent re-ignition.",
+        "tr": "Mutfak davlumbaz söndürme sistemleri, endüstriyel mutfaklarda yağların tutuşmasıyla başlayan yüksek sıcaklıklı yangınları engellemek üzere tasarlanmıştır. Özel sıvı kimyasal söndürücü, yanan yağın üzerinde köpük benzeri bir sabunlaşma (saponification) katmanı oluşturarak oksijen temasını keser ve hızlıca soğutur.",
+        "de": "Gewerbliche Dunstabzugshauben sind anfällig für Fettbrände. Küchenhauben-Löschsysteme nutzen spezielle flüssige Chemikalien, die mit dem Fett reagieren und eine Schaumschicht (Verseifung) bilden, die den Sauerstoff entzieht."
+      },
+      "image": "/assets/images/products/davlumbaz-sondurme.jpg",
+      "gallery": [
+        "/assets/images/products/davlumbaz-sondurme.jpg"
+      ],
+      "features": {
+        "en": [
+          "Instant grease fire suppression via advanced saponification",
+          "Automatic gas/power shut-off valve integration",
+          "Designed and certified in compliance with NFPA 17A and NFPA 96",
+          "Stainless steel piping and nozzles for aesthetic kitchen design"
+        ],
+        "tr": [
+          "Kızgın yağ yangınlarında sabunlaşma etkisi ile çok hızlı sönme",
+          "Eşzamanlı gaz kesme vanası (shut-off valve) ve elektrik kesme entegrasyonu",
+          "NFPA 17A ve NFPA 96 uluslararası standartlarına tam uyumlu tasarım",
+          "Paslanmaz çelik borulama ve nozullar ile hijyenik/şık görünüm"
+        ],
+        "de": [
+          "Sofortige Fettbrandlöschung durch fortschrittliche Verseifung",
+          "Automatische Integration von Gas- und Stromabschaltventilen",
+          "Entwickelt und zertifiziert nach NFPA 17A und NFPA 96 Standards",
+          "Edelstahlrohre und -düsen für ein ästhetisches Küchendesign"
+        ]
+      },
+      "specs": {
+        "Suppression Agent / Söndürücü Ajan": "Potassium Carbonate Liquid / Sıvı Kimyasal",
+        "Activation Mechanism / Tetikleme Tipi": "Fusible Link / Ergiyen Sigorta",
+        "Fusible Temperature / Sigorta Derecesi": "141°C / 182°C",
+        "Storage Capacity / Tüp Kapasitesi": "11L - 22L"
+      },
+      "sfaUrl": "/products/demofire/davlumbaz-sondurme"
+    },
+    {
+      "id": "metal-clad-sondurme",
+      "categoryId": "endothermic-suppression",
+      "subcategoryId": null,
+      "title": {
+        "en": "Metal Clad Switchgear Suppression Systems",
+        "tr": "Metal Clad Hücre Yangın Söndürme Sistemleri",
+        "de": "Metal Clad Schaltanlagen-Löschsysteme"
+      },
+      "description": {
+        "en": "Dedicated non-corrosive fire protection tailored for medium voltage metal-clad switchgears.",
+        "tr": "Orta gerilim metal-clad ve metal-enclosed hücreler için tasarlanmış özel yangın koruması.",
+        "de": "Spezieller nicht korrosiver Brandschutz für Mittelspannungs-Schaltanlagen."
+      },
+      "longDescription": {
+        "en": "Designed to protect high-value electrical switchgear blocks. It detects electrical arcs and cable insulation failures early. The non-corrosive, non-conductive gaseous or endothermic liquid agent suppresses the fire inside the sealed cell within seconds without damaging the switchgear's delicate electronic relays.",
+        "tr": "Metal Clad hücre söndürme sistemleri, orta gerilim şalt tesislerindeki kablo veya bara bağlantı noktalarında oluşabilecek ark yangınlarını hızlıca bastırmak üzere tasarlanmıştır. Panelin iç hacmine ve elektriksel yalıtım özelliklerine zarar vermeyen, iletken ve korozif olmayan ajanlar kullanılır.",
+        "de": "Konzipiert zum Schutz hochwertiger elektrischer Schaltanlagen. Erkennt Lichtbögen und Isolationsfehler frühzeitig. Das nicht korrosive Löschmittel löscht den Brand innerhalb von Sekunden, ohne Relais zu beschädigen."
+      },
+      "image": "/assets/images/products/metal-clad-sondurme.jpg",
+      "gallery": [
+        "/assets/images/products/metal-clad-sondurme.jpg"
+      ],
+      "features": {
+        "en": [
+          "Non-conductive agent with high dielectric strength",
+          "Blast-resistant steel nozzle placement inside the enclosure",
+          "Dry contact signal outputs to substation control systems (SCADA)",
+          "Pressure-monitored high durability cylinders"
+        ],
+        "tr": [
+          "Yüksek elektriksel yalıtkanlık (dielektrik) değerine sahip özel söndürücü ajan",
+          "Hücre içi yüksek basınçlı ark patlamalarına dayanıklı çelik nozul yerleşimi",
+          "SCADA veya şalt otomasyon sistemlerine doğrudan kuru kontak çıkışı",
+          "Manometre göstergeli, sızdırmazlığı onaylı dayanıklı tüp tasarımı"
+        ],
+        "de": [
+          "Nicht leitendes Löschmittel mit hoher dielektrischer Festigkeit",
+          "Druckfeste Düsenanordnung im Inneren der Schaltanlage",
+          "Signalausgänge (Trockenkontakte) an Stationsleitsysteme (SCADA)",
+          "Drucküberwachte, hochbeständige Stahlflaschen"
+        ]
+      },
+      "specs": {
+        "Cylinder Options / Tüp Kapasitesi": "2kg - 6kg",
+        "Operating Temp / Çalışma Sıcaklığı": "-20°C / +60°C",
+        "Discharge Time / Deşarj Süresi": "< 10 Seconds / Saniye",
+        "Compliance / Standart": "EN 15004 / NFPA 2001"
+      },
+      "sfaUrl": "/products/demofire/metal-clad-sondurme"
+    },
+    {
+      "id": "tayfun-askili-sistem",
+      "categoryId": "endothermic-suppression",
+      "subcategoryId": null,
+      "title": {
+        "en": "Typhoon Suspended Automatic Suppression Systems",
+        "tr": "Tayfun Tipi Askılı Otomatik Söndürme Sistemleri",
+        "de": "Typhoon Hängende automatische Löschsysteme"
+      },
+      "description": {
+        "en": "Ceiling-mounted, temperature-sensitive glass bulb automatic local fire suppression unit.",
+        "tr": "Tavan montajlı, ısıya duyarlı sprink başlığı ile otomatik çalışan bağımsız söndürme ünitesi.",
+        "de": "Deckenmontierte automatische Löscheinheit mit wärmeempfindlicher Glasfass-Auslösung."
+      },
+      "longDescription": {
+        "en": "Typhoon type suspended automatic extinguishing units are mounted on ceilings above potential hazards. The heat-sensitive glass bulb breaks automatically when the ambient temperature reaches a predefined level (usually 68°C), releasing the pressurized extinguishing agent in a wide spray pattern. It requires no electrical connection or sensor cables.",
+        "tr": "Tayfun tipi askılı otomatik söndürme üniteleri, korumak istenen alanın tavanına asılarak monte edilir. Üzerindeki sprink cam tüpü, ortam sıcaklığı belirlenen dereceye (genellikle 68°C) ulaştığında patlayarak silindir içerisindeki söndürücü ajanı geniş bir açıyla püskürtür. Elektrik bağlantısı veya kablolama gerektirmez.",
+        "de": "Hängende Typhoon-Löscheinheiten werden an der Decke montiert. Die Glassichel platzt bei Erreichen von 68°C automatisch und sprüht das Löschmittel in einem weiten Winkel aus. Keine Kabel oder Strom nötig."
+      },
+      "image": "/assets/images/products/tayfun-askili-sistem.jpg",
+      "gallery": [
+        "/assets/images/products/tayfun-askili-sistem.jpg"
+      ],
+      "features": {
+        "en": [
+          "Easy ceiling mounting, ideal for localized stand-alone fire protection",
+          "Completely mechanical system requiring no external electrical wiring",
+          "High reliability trigger bulb detects temperature shifts rapidly",
+          "Available with dry chemical powder or clean gas agents"
+        ],
+        "tr": [
+          "Tavana asma tipi montaj ile son derece kolay ve bağımsız lokal koruma",
+          "Tamamen mekanik çalışma prensibi, hiçbir kablo bağlantısı gerektirmez",
+          "Isıya duyarlı yüksek hassasiyetli cam tüp tetikleme mekanizması",
+          "Kuru kimyevi toz veya gazlı söndürücü ajan seçenekleri"
+        ],
+        "de": [
+          "Einfache Deckenmontage, ideal für den lokalen Brandschutz",
+          "Komplett mechanisches System ohne Verkabelung oder Steuersignale",
+          "Zuverlässige Glasfass-Auslösung erkennt Temperaturänderungen schnell",
+          "Verfügbar mit Löschpulver oder sauberen Gaslöschmitteln"
+        ]
+      },
+      "specs": {
+        "Activation Temp / Tetikleme Sıcaklığı": "68°C (Optional 79°C/93°C)",
+        "Capacity Options / Kapasite": "6kg - 12kg",
+        "Coverage Area / Koruma Alanı": "9 m² - 12 m²",
+        "Operating Pressure / Çalışma Basıncı": "15 Bar"
+      },
+      "sfaUrl": "/products/demofire/tayfun-askili-sistem"
+    },
+    {
+      "id": "tasinabilir-sonduruculer",
+      "categoryId": "endothermic-suppression",
+      "subcategoryId": null,
+      "title": {
+        "en": "Portable Endothermic Fire Extinguishers",
+        "tr": "Taşınabilir Endotermik Yangın Söndürücüler",
+        "de": "Tragbare endotherme Feuerlöscher"
+      },
+      "description": {
+        "en": "Cold Fire-enriched portable hand extinguishers with outstanding cooling and smothering capabilities.",
+        "tr": "Cold Fire katkılı, yüksek soğutma ve boğma özellikli taşınabilir el söndürücüleri.",
+        "de": "Mit Cold Fire angereicherte tragbare Handfeuerlöscher mit hervorragender Kühlwirkung."
+      },
+      "longDescription": {
+        "en": "Unlike standard dry chemical powder extinguishers, portable endothermic extinguishers work by creating an instantaneous cooling reaction (endothermic effect) at the flame core. Since they use clean organic agents, they leave no hazardous or hard-to-clean chemical residues, making them ideal for modern facilities, offices, and kitchens.",
+        "tr": "Taşınabilir endotermik yangın söndürücüler, standart tozlu söndürme tüplerinin aksine, yangın yüzeyinde ani bir soğutma (endotermik reaksiyon) gerçekleştirir. Çevreye zarar vermeyen ve geride toz kalıntısı bırakmayan yapısıyla ofisler, endüstriyel tesisler ve evler için mükemmel bir alternatiftir.",
+        "de": "Im Gegensatz zu herkömmlichen Pulverlöschern kühlen tragbare endotherme Löscher den Brandherd sofort ab. Da sie saubere organische Mittel nutzen, hinterlassen sie keine schwer zu reinigenden Rückstände."
+      },
+      "image": "/assets/images/products/tasinabilir-sonduruculer.jpg",
+      "gallery": [
+        "/assets/images/products/tasinabilir-sonduruculer.jpg"
+      ],
+      "features": {
+        "en": [
+          "Ultra-fast cooling rate suppresses flames in seconds",
+          "Fine spray mist maintains complete user visibility during discharge",
+          "Eco-friendly organic formula makes cleanup easy and safe",
+          "Exceptional performance on local Lithium-Ion battery device fires"
+        ],
+        "tr": [
+          "Sıra dışı soğutma hızı ile alevi saniyeler içinde etkisiz hale getirir",
+          "Uygulama esnasında görüşü engellemeyen temiz su sisi püskürtme yapısı",
+          "Çevre dostu organik içerik sayesinde deşarj sonrası kolay temizlik",
+          "Lityum-İyon pilli elektronik cihaz yangınlarında yüksek başarı oranı"
+        ],
+        "de": [
+          "Ultraschnelle Abkühlung löscht Flammen in Sekundenschnelle",
+          "Feiner Sprühnebel beeinträchtigt die Sicht beim Löschen nicht",
+          "Umweltfreundliche organische Formel ermöglicht einfache Reinigung",
+          "Hervorragende Leistung bei Bränden von Lithium-Ionen-Geräten"
+        ]
+      },
+      "specs": {
+        "Capacity Options / Kapasite": "2L - 6L - 9L",
+        "Test Pressure / Test Basıncı": "25 Bar",
+        "Body Material / Gövde Malzemesi": "Stainless Steel / Paslanmaz Çelik",
+        "Propellant / İtici Gaz": "Nitrogen (N2) / Azot"
+      },
+      "sfaUrl": "/products/demofire/tasinabilir-sonduruculer"
+    },
+    {
+      "id": "watermist-sistem",
+      "categoryId": "endothermic-suppression",
+      "subcategoryId": null,
+      "title": {
+        "en": "Endothermic Watermist Suppression Systems",
+        "tr": "Endotermik Watermist Söndürme Sistemleri",
+        "de": "Endotherme Wassernebel-Löschsysteme"
+      },
+      "description": {
+        "en": "High-pressure watermist fire suppression systems enhanced with endothermic cooling agents.",
+        "tr": "Yüksek basınçlı su sisi teknolojisini endotermik ajanlar ile birleştiren yangın koruması.",
+        "de": "Hochdruck-Wassernebellöschung verbessert mit endothermen Kühlmitteln."
+      },
+      "longDescription": {
+        "en": "High-pressure watermist systems divide water into micron-sized droplets. Adding an endothermic agent to this fine mist increases the speed of heat absorption. This generates rapid steam conversion which displaces oxygen around the flame, achieving highly effective fire suppression with minimal water volume.",
+        "tr": "Endotermik watermist (su sisi) sistemleri, suyu çok yüksek basınç altında mikron seviyesinde damlacıklara bölerek püskürtür. Bu mikron düzeyindeki su bulutuna eklenen endotermik katkı maddesi, ısının emilme hızını katlar ve oksijeni yangın odağından uzaklaştırarak minimum su tüketimiyle maksimum söndürme performansı sağlar.",
+        "de": "Hochdruck-Wassernebelsysteme teilen Wasser in mikrometergroße Tröpfchen. Die Zugabe eines endothermen Mittels zu diesem feinen Nebel beschleunigt die Wärmeaufnahme und verdrängt den Sauerstoff."
+      },
+      "image": "/assets/images/products/watermist-sistem.jpg",
+      "gallery": [
+        "/assets/images/products/watermist-sistem.jpg"
+      ],
+      "features": {
+        "en": [
+          "Micron-sized droplets minimize water consumption and damage",
+          "High thermal absorption capacity via endothermic agents",
+          "Rapid oxygen displacement at the fire zone",
+          "Extremely safe for server rooms, historical libraries, and museums"
+        ],
+        "tr": [
+          "Mikron seviyesindeki deşarj damlacıkları sayesinde minimum su hasarı",
+          "Endotermik ajanlar sayesinde çok yüksek ısı yutma kapasitesi",
+          "Hızlı su sisi buharlaşması ile alev çevresinde oksijen boğma",
+          "Bilgi işlem odaları, arşivler, müzeler ve tarihi yapılar için güvenli koruma"
+        ],
+        "de": [
+          "Mikrometergroße Tröpfchen minimieren den Wasserverbrauch und -schäden",
+          "Hohe Wärmeaufnahmekapazität durch endotherme Additive",
+          "Schnelle Sauerstoffverdrängung am Brandherd",
+          "Sicher für Serverräume, historische Archive und Museen"
+        ]
+      },
+      "specs": {
+        "Operating Pressure / Çalışma Basıncı": "60 - 140 Bar",
+        "Droplet Size / Damlacık Boyutu": "10 - 100 Microns / Mikron",
+        "Additive Ratio / Katkı Oranı": "1% - 3% Cold Fire",
+        "Nozzle Type / Nozul Tipi": "Stainless Steel Micro-orifice / Paslanmaz"
+      },
+      "sfaUrl": "/products/demofire/watermist-sistem"
+    },
+    {
+      "id": "askili-otomatik-sondurme",
+      "categoryId": "endothermic-suppression",
+      "subcategoryId": null,
+      "title": {
+        "en": "Suspended Automatic Suppression Modules",
+        "tr": "Askılı Otomatik Yangın Söndürme Modülleri",
+        "de": "Hängende automatische Löschmodule"
+      },
+      "description": {
+        "en": "Modular ceiling-suspended fire suppression units for cable galleries, archives, and small storage facilities.",
+        "tr": "Kablo galerileri, arşivler ve küçük depolama alanları için modüler asma tavan tipi üniteler.",
+        "de": "Modulare deckenhängende Löscheinheiten für Kabelkanäle, Archive und kleine Lager."
+      },
+      "longDescription": {
+        "en": "Developed for localized fire protection in ceiling voids, raised floors, small archive rooms, or isolated compartments. These independent modules activate automatically via a heat-sensitive sprinkler head, requiring no elaborate pipe network.",
+        "tr": "Askılı otomatik yangın söndürme modülleri, tavan boşlukları, yükseltilmiş taban altları, arşiv odaları gibi dar veya erişilmesi zor hacimlerin lokal yangın koruması için geliştirilmiştir. Isı etkisiyle otomatik devreye giren sprink tetikleme kafasına sahiptir.",
+        "de": "Entwickelt für den lokalen Brandschutz in Deckenhohlräumen, Doppelböden oder kleinen Archiven. Diese eigenständigen Module aktivieren sich automatisch über einen wärmeempfindlichen Sprinklerkopf."
+      },
+      "image": "/assets/images/products/askili-otomatik-sondurme.jpg",
+      "gallery": [
+        "/assets/images/products/askili-otomatik-sondurme.jpg"
+      ],
+      "features": {
+        "en": [
+          "Compact suspended layout ideal for small, crowded, or isolated spaces",
+          "Independent stand-alone design requiring no piping network",
+          "Available with clean gas, dry chemical powder, or liquid agents",
+          "Maintenance-free design featuring direct pressure gauge"
+        ],
+        "tr": [
+          "Dar, kalabalık ve ulaşılması zor alanlar için ideal asılabilir yapı",
+          "Boru tesisatı döşemeyi gerektirmeyen bağımsız söndürme modülü",
+          "Temiz gaz, kuru kimyevi toz veya sıvı söndürücü ajan seçenekleri",
+          "Bakım gerektirmeyen, kolay kontrol edilebilir manometreli gövde"
+        ],
+        "de": [
+          "Kompakter Hängeaufbau, ideal für kleine oder isolierte Räume",
+          "Eigenständiges Design ohne aufwendiges Rohrleitungsnetz",
+          "Erhältlich mit Gas, Löschpulver oder flüssigen Löschmitteln",
+          "Wartungsfreies Design mit direktem Manometer"
+        ]
+      },
+      "specs": {
+        "Capacity / Kapasite": "6kg - 9kg",
+        "Trigger Bulb Temp / Tetikleme Sıcaklığı": "68°C Glass Bulb / Cam Tüp",
+        "Cylinder Test Pressure / Test Basıncı": "25 Bar",
+        "Mounting Height / Montaj Yüksekliği": "2.5m - 4.5m"
+      },
+      "sfaUrl": "/products/demofire/askili-otomatik-sondurme"
+    },
+    {
+      "id": "trafo-sondurme",
+      "categoryId": "endothermic-suppression",
+      "subcategoryId": null,
+      "title": {
+        "en": "Power Transformer Fire Suppression Systems",
+        "tr": "Güç Transformatörleri Söndürme Sistemleri",
+        "de": "Transformator-Brandschutzsysteme"
+      },
+      "description": {
+        "en": "High-volume automatic deluge, watermist, or nitrogen injection fire protection for power transformers.",
+        "tr": "Büyük güç trafoları ve şalt sahaları için yüksek debili otomatik söndürme çözümü.",
+        "de": "Hochleistungs-Löschsysteme für große Leistungstransformatoren und Umspannwerke."
+      },
+      "longDescription": {
+        "en": "High-voltage power transformers contain thousands of liters of highly flammable insulating oil. Demofire transformer fire protection systems use fast sensors to detect internal faults and immediately initiate nitrogen injection oil drainage (preventing tanks from exploding) or release high-flow watermist/deluge foam to suppress external oil fires within seconds.",
+        "tr": "Güç transformatörleri, içerdikleri binlerce litre yanıcı yalıtım yağı nedeniyle yüksek yangın riski taşır. Trafo yangın söndürme sistemleri; hızlı algılama sensörleri, azot enjeksiyonlu yağ boşaltma (tankın patlamasını önleyen sistem) veya yüksek debili endotermik su sisi/köpük sistemleriyle yangını saniyeler içinde kontrol altına alır.",
+        "de": "Transformatoren enthalten tausende Liter brennbares Isolieröl. Transformator-Löschsysteme nutzen schnelle Sensoren, um Fehler zu erkennen, und leiten sofort eine Stickstoffinjektion ein (verhindert Explosionen) oder sprühen Hochdruck-Wassernebel."
+      },
+      "image": "/assets/images/products/trafo-sondurme.jpg",
+      "gallery": [
+        "/assets/images/products/trafo-sondurme.jpg"
+      ],
+      "features": {
+        "en": [
+          "Nitrogen injection prevents tank explosion by draining oil and injecting gas",
+          "Multi-sensor array integration (combustible gas, heat, pressure)",
+          "Fully integrated with substation control systems (SCADA)",
+          "Engineered for extreme outdoor conditions and industrial environments"
+        ],
+        "tr": [
+          "Yağı tahliye edip azot basarak trafo tankının patlamasını önleyen koruma sistemi",
+          "Çoklu dedektör entegrasyonu (gaz birikimi, ani basınç yükselmesi ve ısı)",
+          "SCADA veya şalt sahası otomasyon kontrol merkezleriyle tam entegrasyon",
+          "Zorlu endüstriyel dış mekan ve kış şartlarına tam dayanıklılık"
+        ],
+        "de": [
+          "Stickstoffinjektion verhindert Tankexplosionen durch Ölablass",
+          "Integration mehrerer Sensoren (brennbares Gas, Hitze, Druck)",
+          "Vollständig in die Stationsleittechnik (SCADA) integriert",
+          "Konzipiert für extreme Außenbedingungen und raue Industrieumgebungen"
+        ]
+      },
+      "specs": {
+        "Suppression Method / Söndürme Yöntemi": "Nitrogen Injection / Stickstoff / High-Pressure Watermist",
+        "Detection Response / Algılama Süresi": "< 2 Seconds / Saniye",
+        "Operating Temp / Çalışma Sıcaklığı": "-40°C to +85°C",
+        "Control System / Kontrol Ünitesi": "PLC Based Smart Panel / PLC Tabanlı Panel"
+      },
+      "sfaUrl": "/products/demofire/trafo-sondurme"
+    },
+    {
+      "id": "f500",
+      "categoryId": "f500-suppression",
+      "subcategoryId": null,
+      "title": {
+        "en": "F-500 Encapsulator Fire Suppression Agent",
+        "tr": "F-500 Enkapsülatör Ajanlı Yangın Söndürme Teknolojisi",
+        "de": "F-500 Encapsulator Löschmittel-Technologie"
+      },
+      "description": {
+        "en": "Revolutionary micelle-based encapsulator technology designed for Lithium-Ion batteries, coal, and Class D metals.",
+        "tr": "Lityum-İyon piller, kömür tozları ve Class D metal yangınları için devrim niteliğinde söndürme ajanı.",
+        "de": "Revolutionäre einkapselnde Mizellentechnologie für Lithium-Ionen-Batterien, Kohle und Metalle."
+      },
+      "longDescription": {
+        "en": "F-500 is a patented encapsulator agent using advanced Micelle technology, developed for critical fires where traditional foam and water fail. It absorbs thermal energy 6 to 10 times faster than water (endothermic cooling), interrupts the chemical chain reaction by blocking free radicals, and encapsulates fuel molecules to eliminate flashover. It is internationally recognized as the most effective technology for suppressing Lithium-Ion battery (BESS/ESS) thermal runaway fires.",
+        "tr": "F-500, geleneksel köpük ve suyun yetersiz kaldığı kritik yangın sınıfları için geliştirilmiş patentli Micelle (mizelleşme) teknolojisine sahip bir enkapsülatör ajandır. Isıyı sudan 6 ila 10 kat daha hızlı absorbe eder (endotermik soğutma). Yangın ortamındaki serbest radikalleri bloke ederek kimyasal zincirleme reaksiyonu keser ve yakıt moleküllerini kaplayarak patlama/parlama riskini sıfıra indirir. Özellikle Lityum-İyon pil (BESS/ESS) yangınlarında dünyada kabul görmüş en etkili söndürme teknolojisidir.",
+        "de": "F-500 ist ein patentiertes Löschmittel mit Mizellentechnologie für kritische Brände. Es absorbiert Wärmeenergie 6- bis 10-mal schneller als Wasser, unterbricht Kettenreaktionen und kapselt Brennstoffmoleküle ein. Weltweit anerkannt als effektivste Methode zur Bekämpfung von Lithium-Ionen-Batteriebränden (BESS)."
+      },
+      "image": "/assets/images/products/f500.jpg",
+      "gallery": [
+        "/assets/images/products/f500.jpg"
+      ],
+      "features": {
+        "en": [
+          "Definitive solution to control and suppress Lithium-Ion battery thermal runaway",
+          "Exceptional cooling speed (absorbs heat instantly from battery cells)",
+          "Chemical barrier effect that blocks free radicals and stops toxic smoke",
+          "Outstanding success on coal dust, plastics, tires, and Class D metal fires"
+        ],
+        "tr": [
+          "Lityum-İyon pil termal kaçak (thermal runaway) yangınlarında kesin ve kalıcı çözüm",
+          "Sıra dışı soğutma hızı (ısıyı hücre seviyesinde anında emer)",
+          "Serbest radikalleri bloke eden kimyasal bariyer ile zehirli gaz çıkışını azaltır",
+          "Kömür tozları, plastikler, kauçuk ve D sınıfı metal yangınlarında yüksek başarı"
+        ],
+        "de": [
+          "Ultimative Lösung zur Kontrolle von thermischem Durchgehen in Li-Ionen-Batterien",
+          "Außergewöhnliche Kühlgeschwindigkeit entzieht Batteriezellen sofort die Hitze",
+          "Chemischer Barriereeffekt blockiert freie Radikale und stoppt giftigen Rauch",
+          "Hervorragende Leistung bei Bränden von Kohlenstaub, Kunststoffen und Metallen"
+        ]
+      },
+      "specs": {
+        "Concentration Rates / Kullanım Oranı": "Class A: 1%, Class B: 3%, Lithium-Ion: 3%",
+        "Toxicity / Toksisite": "Non-toxic, leaves no hazardous residue / Toksik Değildir",
+        "Approvals & Listings / Onaylar": "UL, ULC Listed, Compliant with EN 1568-3",
+        "Biodegradability / Doğada Çözünme": "100% Biodegradable within 21 days / 21 Günde %100"
+      },
+      "sfaUrl": "/products/demofire/f500"
+    }
+  ]
+}

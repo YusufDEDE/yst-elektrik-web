@@ -1,0 +1,1122 @@
+{
+  "categories": [
+    {
+      "id": "mv-switchgears",
+      "name": {
+        "en": "MV Switchgears",
+        "tr": "OG Anahtarlama Çözümleri",
+        "de": "Mittelspannungs-Schaltanlagen"
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2020/11/OG-Hucre-Cozumleri.jpg",
+      "sfaUrl": "https://sfaelectric.com/en/urun-kategori/mv-switchgears/",
+      "subcategories": [
+        {
+          "id": "sf6-gas-insulated-rmu-secondary",
+          "name": {
+            "en": "SF6 Gas Insulated RMU (Secondary)",
+            "tr": "SF6 Gazlı Yalıtımlı RMU (Sekonder)",
+            "de": "SF6-gasisolierte RMU (Sekundär)"
+          }
+        },
+        {
+          "id": "air-insulated-metal-enclosed-switchgear-primary",
+          "name": {
+            "en": "Air Insulated Metal Enclosed Switchgear (Primary)",
+            "tr": "Hava Yalıtımlı Metal Muhafazalı Anahtarlama (Primer)",
+            "de": "Luftisolierte metallgekapselte Schaltanlage (Primär)"
+          }
+        },
+        {
+          "id": "air-insulated-metal-enclosed-switchgear-secondary",
+          "name": {
+            "en": "Air Insulated Metal Enclosed Switchgear (Secondary)",
+            "tr": "Hava Yalıtımlı Metal Muhafazalı Anahtarlama (Sekonder)",
+            "de": "Luftisolierte metallgekapselte Schaltanlage (Sekundär)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oem-components",
+      "name": {
+        "en": "OEM Components",
+        "tr": "OEM Komponentler",
+        "de": "OEM-Komponenten"
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2020/11/Komponent-Cozumleri.jpg",
+      "sfaUrl": "https://sfaelectric.com/en/urun-kategori/oem-components/",
+      "subcategories": []
+    },
+    {
+      "id": "compact-transformer-substations",
+      "name": {
+        "en": "Compact Transformer Substations",
+        "tr": "Kompakt Trafo Merkezleri",
+        "de": "Kompakt-Transformatorstationen"
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2020/11/betonmuhafazalitrafo_sld_2.jpg",
+      "sfaUrl": "https://sfaelectric.com/en/urun-kategori/compact-transformer-substations/",
+      "subcategories": [
+        {
+          "id": "concrete-kiosks",
+          "name": {
+            "en": "Concrete Kiosks",
+            "tr": "Beton Köşkler",
+            "de": "Betonkioske"
+          }
+        },
+        {
+          "id": "metal-sheet-substations",
+          "name": {
+            "en": "Metal-Sheet Substations",
+            "tr": "Sac Trafo Merkezleri",
+            "de": "Blechgehäuse-Stationen"
+          }
+        },
+        {
+          "id": "mobile-substations",
+          "name": {
+            "en": "Mobile Substations",
+            "tr": "Mobil Trafo Merkezleri",
+            "de": "Mobile Stationen"
+          }
+        },
+        {
+          "id": "outdoor-type-switchgear-cabinet",
+          "name": {
+            "en": "Outdoor Type Switchgear Cabinet",
+            "tr": "Açık Tip Şalt Kabini",
+            "de": "Freiluft-Schaltschrank"
+          }
+        },
+        {
+          "id": "skid-solutions",
+          "name": {
+            "en": "SKID Solutions",
+            "tr": "SKID Çözümleri",
+            "de": "SKID-Lösungen"
+          }
+        }
+      ]
+    },
+    {
+      "id": "distribution-automation",
+      "name": {
+        "en": "Distribution Automation Solutions",
+        "tr": "Dağıtım Otomasyon Çözümleri",
+        "de": "Verteilungsautomatisierung"
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2020/11/Dagitim-Otomasyon-Cozumleri-.jpg",
+      "sfaUrl": "https://sfaelectric.com/en/urun-kategori/distribution-automation-solutions/",
+      "subcategories": []
+    },
+    {
+      "id": "cables",
+      "name": {
+        "en": "Cables and Cable Accessories",
+        "tr": "Kablo ve Kablo Aksesuarları",
+        "de": "Kabel und Kabelzubehör"
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2020/11/Kablo-ve-kablo-aksesuari-cozumleri-.jpg",
+      "sfaUrl": "https://sfaelectric.com/en/urun-kategori/cables-and-cable-accessories/",
+      "subcategories": []
+    },
+    {
+      "id": "transformers",
+      "name": {
+        "en": "Distribution and Power Transformers",
+        "tr": "Dağıtım ve Güç Trafoları",
+        "de": "Verteilungs- und Leistungstransformatoren"
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2020/11/OG-Trafo-.jpg",
+      "sfaUrl": "https://sfaelectric.com/en/urun-kategori/distribution-and-power-transformers/",
+      "subcategories": []
+    }
+  ],
+  "products": [
+    {
+      "id": "12-17-5kv-solutions",
+      "categoryId": "mv-switchgears",
+      "subcategoryId": "sf6-gas-insulated-rmu-secondary",
+      "title": {
+        "en": "12-17.5kV Solutions",
+        "tr": "12-17,5kV Çözümler",
+        "de": "12-17,5kV Lösungen"
+      },
+      "description": {
+        "en": "SFA-RM12 and SFA-RM17.5 type switchgears; compact or modular SF6 gas insulated switching and control arrangements designed for medium voltage electricity distribution networks.",
+        "tr": "SFA-RM12 ve SFA-RM17.5 tipi anahtarlama cihazları; orta gerilim elektrik dağıtım şebekeleri için tasarlanmış kompakt veya modüler SF6 gazlı yalıtımlı anahtarlama ve kontrol düzenekleri.",
+        "de": "Schaltgeräte vom Typ SFA-RM12 und SFA-RM17.5; kompakte oder modulare SF6-gasisolierte Schalt- und Steuerungsanordnungen für Mittelspannungs-Stromverteilungsnetze."
+      },
+      "longDescription": {
+        "en": "SFA-RM12 and SFA-RM17.5 type switchgears are compact or modular SF6 GAS INSULATED switching and control arrangements designed for medium voltage electricity distribution networks. They are highly reliable, safe and require zero maintenance throughout their lifespan. Suitable for severe atmospheric conditions with both indoor and outdoor options available.",
+        "tr": "SFA-RM12 ve SFA-RM17.5 tipi anahtarlama cihazları, orta gerilim elektrik dağıtım şebekeleri için tasarlanmış kompakt veya modüler SF6 GAZLI YALITIMLI anahtarlama ve kontrol düzenekleridir. Son derece güvenilir, emniyetli olup kullanım ömürleri boyunca sıfır bakım gerektirirler. Ağır atmosferik koşullara uygun, iç ve dış mekan seçenekleri mevcuttur.",
+        "de": "Schaltgeräte vom Typ SFA-RM12 und SFA-RM17.5 sind kompakte oder modulare SF6-GASISOLIERTE Schalt- und Steuerungsanordnungen für Mittelspannungs-Stromverteilungsnetze. Sie sind äußerst zuverlässig, sicher und wartungsfrei über ihre gesamte Lebensdauer. Geeignet für schwierige atmosphärische Bedingungen mit Innen- und Außenoptionen."
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2020/11/12-17.5kV-Cozumler.jpg",
+      "gallery": [
+        "https://sfaelectric.com/wp-content/uploads/2020/11/12-17.5kV-Cozumler.jpg"
+      ],
+      "features": {
+        "en": [
+          "Suitable for Self-Powered Relay for VCB Switchgear",
+          "Consecutive interlocking systems prevent incorrect operation",
+          "Access to cable and fuse compartments only in earthed position",
+          "Internal arc tested and sealed for life",
+          "Surveillance window for visual verification"
+        ],
+        "tr": [
+          "VCB Anahtarlama için Kendinden Beslemeli Röle desteği",
+          "Ardışık kilit sistemleri hatalı çalışmayı önler",
+          "Kablo ve sigorta bölmelerine yalnızca topraklanmış konumda erişim",
+          "İç ark testli ve ömür boyu sızdırmaz",
+          "Görsel doğrulama için gözetleme penceresi"
+        ],
+        "de": [
+          "Geeignet für eigenversorgte Relais für VCB-Schaltanlagen",
+          "Aufeinanderfolgende Verriegelungssysteme verhindern Fehlbedienung",
+          "Zugang zu Kabel- und Sicherungsfächern nur in geerdeter Position",
+          "Innerer Lichtbogen geprüft und lebenslang versiegelt",
+          "Überwachungsfenster zur visuellen Überprüfung"
+        ]
+      },
+      "specs": {
+        "Rated Voltage": "12 / 17.5 kV",
+        "Rated Normal Current": "400-630 A",
+        "Rated Frequency": "50/60 Hz",
+        "Rated Short-Circuit Current": "21/25 kA – 1s"
+      },
+      "sfaUrl": "https://sfaelectric.com/en/urun/mv-switchgears/sf6-gas-insulated-rmu-secondary/12-17-5kv-solutions-2/",
+      "catalogUrl": "https://sfaelectric.com/wp-content/uploads/2020/11/SFA-RM-17_5_son-1.pdf"
+    },
+    {
+      "id": "24kv-solutions",
+      "categoryId": "mv-switchgears",
+      "subcategoryId": "sf6-gas-insulated-rmu-secondary",
+      "title": {
+        "en": "24kV Solutions",
+        "tr": "24kV Çözümler",
+        "de": "24kV Lösungen"
+      },
+      "description": {
+        "en": "SFA-RM24 type switchgears; compact or modular SF6 gas insulated switching and control arrangements designed for 24kV medium voltage electricity distribution networks.",
+        "tr": "SFA-RM24 tipi anahtarlama cihazları; 24kV orta gerilim elektrik dağıtım şebekeleri için tasarlanmış kompakt veya modüler SF6 gazlı yalıtımlı anahtarlama ve kontrol düzenekleri.",
+        "de": "Schaltgeräte vom Typ SFA-RM24; kompakte oder modulare SF6-gasisolierte Schalt- und Steuerungsanordnungen für 24kV Mittelspannungs-Verteilungsnetze."
+      },
+      "longDescription": {
+        "en": "SFA-RM24 type switchgears are compact or modular SF6 GAS INSULATED switching and control arrangements designed for 24kV medium voltage electricity distribution networks. They are highly reliable, safe and require zero maintenance throughout their lifespan.",
+        "tr": "SFA-RM24 tipi anahtarlama cihazları, 24kV orta gerilim elektrik dağıtım şebekeleri için tasarlanmış kompakt veya modüler SF6 GAZLI YALITIMLI anahtarlama ve kontrol düzenekleridir. Son derece güvenilir, emniyetli olup kullanım ömürleri boyunca sıfır bakım gerektirirler.",
+        "de": "Schaltgeräte vom Typ SFA-RM24 sind kompakte oder modulare SF6-GASISOLIERTE Schalt- und Steuerungsanordnungen für 24kV Mittelspannungs-Verteilungsnetze. Sie sind äußerst zuverlässig, sicher und wartungsfrei."
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2020/11/24kV-Cozumler.jpg",
+      "gallery": [
+        "https://sfaelectric.com/wp-content/uploads/2020/11/24kV-Cozumler.jpg",
+        "https://sfaelectric.com/wp-content/uploads/2020/11/24kV-Cozumler-1.jpg"
+      ],
+      "features": {
+        "en": [
+          "Hermetically sealed tank with low SF6 gas pressure",
+          "Consecutive interlocking systems prevent incorrect operation",
+          "Internal arc tested and sealed for life",
+          "Compact design for space-constrained environments"
+        ],
+        "tr": [
+          "Düşük SF6 gaz basınçlı hermetik sızdırmaz tank",
+          "Ardışık kilit sistemleri hatalı çalışmayı önler",
+          "İç ark testli ve ömür boyu sızdırmaz",
+          "Alan kısıtlı ortamlar için kompakt tasarım"
+        ],
+        "de": [
+          "Hermetisch versiegelter Tank mit niedrigem SF6-Gasdruck",
+          "Aufeinanderfolgende Verriegelungssysteme verhindern Fehlbedienung",
+          "Innerer Lichtbogen geprüft und lebenslang versiegelt",
+          "Kompaktes Design für platzbeschränkte Umgebungen"
+        ]
+      },
+      "specs": {
+        "Rated Voltage": "24 kV",
+        "Rated Normal Current": "630 A",
+        "Rated Frequency": "50/60 Hz"
+      },
+      "sfaUrl": "https://sfaelectric.com/en/urun/mv-switchgears/sf6-gas-insulated-rmu-secondary/24kv-solutions/"
+    },
+    {
+      "id": "36-40-5kv-solutions",
+      "categoryId": "mv-switchgears",
+      "subcategoryId": "sf6-gas-insulated-rmu-secondary",
+      "title": {
+        "en": "36/40.5kV Solutions",
+        "tr": "36/40,5kV Çözümler",
+        "de": "36/40,5kV Lösungen"
+      },
+      "description": {
+        "en": "SFA-RM36 type switchgears; compact or modular SF6 gas insulated switching and control arrangements for 36/40.5kV networks. Features the lowest SF6 gas pressure in Turkey.",
+        "tr": "SFA-RM36 tipi anahtarlama cihazları; 36/40,5kV şebekeler için kompakt veya modüler SF6 gazlı yalıtımlı çözümler. Türkiye'deki en düşük SF6 gaz basıncına sahiptir.",
+        "de": "Schaltgeräte vom Typ SFA-RM36; kompakte oder modulare SF6-gasisolierte Lösungen für 36/40,5kV Netze. Niedrigster SF6-Gasdruck in der Türkei."
+      },
+      "longDescription": {
+        "en": "SFA-RM36 type switchgears are compact or modular SF6 GAS INSULATED switching and control arrangements designed for 36/40.5 kV medium voltage distribution networks. They feature the lowest SF6 gas pressure in Turkey. Available in multiple cubicle configurations including Switch-Disconnector (SFA-RM36.S), Vacuum Circuit Breaker (SFA-RM36.B), and Metering (SFA-RM36.M) cubicles.",
+        "tr": "SFA-RM36 tipi anahtarlama cihazları, 36/40,5 kV orta gerilim dağıtım şebekeleri için tasarlanmış kompakt veya modüler SF6 GAZLI YALITIMLI anahtarlama ve kontrol düzenekleridir. Türkiye'deki en düşük SF6 gaz basıncına sahiptir. Ayırıcı (SFA-RM36.S), Vakumlu Kesici (SFA-RM36.B) ve Ölçüm (SFA-RM36.M) hücreleri dahil birden fazla konfigürasyonda mevcuttur.",
+        "de": "Schaltgeräte vom Typ SFA-RM36 sind kompakte oder modulare SF6-GASISOLIERTE Schalt- und Steuerungsanordnungen für 36/40,5 kV Mittelspannungs-Verteilungsnetze. Sie verfügen über den niedrigsten SF6-Gasdruck in der Türkei. Verfügbar in mehreren Konfigurationen: Lasttrennschalter (SFA-RM36.S), Vakuum-Leistungsschalter (SFA-RM36.B) und Messfeld (SFA-RM36.M)."
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2020/11/36-40.5kV-Cozumler-2.jpg",
+      "gallery": [
+        "https://sfaelectric.com/wp-content/uploads/2020/11/36-40.5kV-Cozumler-2.jpg",
+        "https://sfaelectric.com/wp-content/uploads/2020/11/36-40.5kV-Cozumler-1.jpg"
+      ],
+      "features": {
+        "en": [
+          "Lowest SF6 gas pressure in Turkey",
+          "Hermetically sealed (<0.5% annual leakage)",
+          "Internal Arc Classification: A(FL) 16kA/1s",
+          "Multiple cubicle configurations available",
+          "Operating temperature up to 40°C, altitude up to 2000m"
+        ],
+        "tr": [
+          "Türkiye'deki en düşük SF6 gaz basıncı",
+          "Hermetik sızdırmaz (<%0,5 yıllık kaçak)",
+          "İç Ark Sınıflandırması: A(FL) 16kA/1s",
+          "Çoklu hücre konfigürasyonları mevcut",
+          "40°C'ye kadar çalışma sıcaklığı, 2000m'ye kadar yükseklik"
+        ],
+        "de": [
+          "Niedrigster SF6-Gasdruck in der Türkei",
+          "Hermetisch versiegelt (<0,5% jährliche Leckage)",
+          "Innere Lichtbogenklassifizierung: A(FL) 16kA/1s",
+          "Mehrere Schaltfeldkonfigurationen verfügbar",
+          "Betriebstemperatur bis 40°C, Höhe bis 2000m"
+        ]
+      },
+      "specs": {
+        "Rated Voltage": "36 kV",
+        "Rated Normal Current": "630 A",
+        "Rated Frequency": "50/60 Hz",
+        "Power Frequency Withstand": "70/80 kV (rms)",
+        "Lightning Impulse Withstand": "170/195 kV (peak)",
+        "Short-Circuit Current": "16 kA/1s or 21 kA/3s",
+        "SF6 Gas Filling Pressure": "1.10 bar (rated)",
+        "Internal Arc": "A(FL) 16kA/1s"
+      },
+      "sfaUrl": "https://sfaelectric.com/en/urun/mv-switchgears/sf6-gas-insulated-rmu-secondary/36-40-5kv-solutions/"
+    },
+    {
+      "id": "smart-rmu",
+      "categoryId": "mv-switchgears",
+      "subcategoryId": "sf6-gas-insulated-rmu-secondary",
+      "title": {
+        "en": "Smart RMU",
+        "tr": "Akıllı RMU",
+        "de": "Intelligente RMU"
+      },
+      "description": {
+        "en": "Intelligent Ring Main Unit with advanced automation features for smart grid applications. Integrates SCADA and remote monitoring capabilities.",
+        "tr": "Akıllı şebeke uygulamaları için gelişmiş otomasyon özelliklerine sahip Akıllı Ring Ana Ünite. SCADA ve uzaktan izleme kapasitelerini entegre eder.",
+        "de": "Intelligente Ringkabelverteilung mit fortschrittlichen Automatisierungsfunktionen für Smart-Grid-Anwendungen. Integriert SCADA und Fernüberwachung."
+      },
+      "longDescription": {
+        "en": "The Smart RMU is an intelligent version of the Ring Main Unit designed for smart grid applications. It integrates advanced automation features, SCADA connectivity, and remote monitoring capabilities for modern distribution networks.",
+        "tr": "Akıllı RMU, akıllı şebeke uygulamaları için tasarlanmış Ring Ana Ünitenin akıllı versiyonudur. Modern dağıtım şebekeleri için gelişmiş otomasyon özellikleri, SCADA bağlantısı ve uzaktan izleme kapasitelerini entegre eder.",
+        "de": "Die intelligente RMU ist eine smarte Version der Ringkabelverteilung für Smart-Grid-Anwendungen. Sie integriert fortschrittliche Automatisierung, SCADA-Konnektivität und Fernüberwachung für moderne Verteilungsnetze."
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2020/11/12-17.5kV-Cozumler.jpg",
+      "gallery": [
+        "https://sfaelectric.com/wp-content/uploads/2020/11/12-17.5kV-Cozumler.jpg"
+      ],
+      "features": {
+        "en": [
+          "SCADA integration for remote monitoring and control",
+          "Real-time data collection and analytics",
+          "Automated fault detection and isolation",
+          "Remote switching operations",
+          "Smart grid ready"
+        ],
+        "tr": [
+          "Uzaktan izleme ve kontrol için SCADA entegrasyonu",
+          "Gerçek zamanlı veri toplama ve analiz",
+          "Otomatik arıza algılama ve izolasyon",
+          "Uzaktan anahtarlama işlemleri",
+          "Akıllı şebeke uyumlu"
+        ],
+        "de": [
+          "SCADA-Integration für Fernüberwachung und -steuerung",
+          "Echtzeit-Datenerfassung und -analyse",
+          "Automatische Fehlererkennung und -isolierung",
+          "Fernschaltoperationen",
+          "Smart-Grid-fähig"
+        ]
+      },
+      "specs": {},
+      "sfaUrl": "https://sfaelectric.com/en/urun/mv-switchgears/sf6-gas-insulated-rmu-secondary/smart-rmu/"
+    },
+    {
+      "id": "alfa12-metal-clad-switchgear",
+      "categoryId": "mv-switchgears",
+      "subcategoryId": "air-insulated-metal-enclosed-switchgear-primary",
+      "title": {
+        "en": "12/17.5 kV Metal Clad Switchgear — Type alfa12",
+        "tr": "12/17,5 kV Metal Kaplamalı Şalt — Tip alfa12",
+        "de": "12/17,5 kV Metallgekapselte Schaltanlage — Typ alfa12"
+      },
+      "description": {
+        "en": "Primary air-insulated metal-clad switchgear type-tested to latest IEC standards. Features earthing switch that can be closed under short-circuit conditions.",
+        "tr": "En güncel IEC standartlarına göre tip testli primer hava yalıtımlı metal kaplamalı anahtarlama cihazı. Kısa devre koşullarında kapatılabilen topraklama anahtarı özelliğine sahiptir.",
+        "de": "Primäre luftisolierte metallgekapselte Schaltanlage, typgeprüft nach neuesten IEC-Normen. Mit Erdungsschalter, der unter Kurzschlussbedingungen geschlossen werden kann."
+      },
+      "longDescription": {
+        "en": "The alfa12 is a primary air-insulated metal-clad switchgear designed and type-tested according to the latest IEC standards. It features an earthing switch that can be closed under short-circuit conditions, ensuring maximum operator safety.",
+        "tr": "alfa12, en güncel IEC standartlarına göre tasarlanmış ve tip testinden geçirilmiş primer hava yalıtımlı metal kaplamalı anahtarlama cihazıdır. Kısa devre koşullarında kapatılabilen topraklama anahtarı ile maksimum operatör güvenliği sağlar.",
+        "de": "Die alfa12 ist eine primäre luftisolierte metallgekapselte Schaltanlage, entworfen und typgeprüft nach neuesten IEC-Normen. Der Erdungsschalter kann unter Kurzschlussbedingungen geschlossen werden und gewährleistet maximale Bediensicherheit."
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2021/06/12-17.5-Kv-metal-clad-switchgear-type-alfa12-600x455.png",
+      "gallery": [
+        "https://sfaelectric.com/wp-content/uploads/2021/06/12-17.5-Kv-metal-clad-switchgear-type-alfa12-600x455.png"
+      ],
+      "features": {
+        "en": [
+          "Type-tested to latest IEC standards",
+          "Earthing switch closable under short-circuit conditions",
+          "Modular design for flexible configurations",
+          "High reliability with epoxy resin cast components"
+        ],
+        "tr": [
+          "En güncel IEC standartlarına göre tip testli",
+          "Kısa devre koşullarında kapatılabilir topraklama anahtarı",
+          "Esnek konfigürasyonlar için modüler tasarım",
+          "Epoksi reçine döküm bileşenlerle yüksek güvenilirlik"
+        ],
+        "de": [
+          "Typgeprüft nach neuesten IEC-Normen",
+          "Erdungsschalter unter Kurzschlussbedingungen schließbar",
+          "Modulares Design für flexible Konfigurationen",
+          "Hohe Zuverlässigkeit mit Epoxidharz-Gussteilen"
+        ]
+      },
+      "specs": {
+        "Rated Voltage": "12 / 17.5 kV",
+        "Standard": "IEC 62271-200"
+      },
+      "sfaUrl": "https://sfaelectric.com/en/urun/mv-switchgears/air-insulated-metal-enclosed-switchgear-primary/12-17-5-kv-metal-clad-switchgear-type-alfa12-2/"
+    },
+    {
+      "id": "ansi-15kv-metal-clad",
+      "categoryId": "mv-switchgears",
+      "subcategoryId": "air-insulated-metal-enclosed-switchgear-primary",
+      "title": {
+        "en": "15 kV Metal Clad — ANSI Type Switchgear",
+        "tr": "15 kV Metal Kaplamalı — ANSI Tipi Şalt",
+        "de": "15 kV Metallgekapselt — ANSI-Typ Schaltanlage"
+      },
+      "description": {
+        "en": "15 kV metal-clad air-insulated switchgear designed per ANSI standards. Engineered for reliable switching in primary distribution networks.",
+        "tr": "ANSI standartlarına göre tasarlanmış 15 kV metal kaplamalı hava yalıtımlı anahtarlama cihazı. Primer dağıtım şebekelerinde güvenilir anahtarlama için tasarlanmıştır.",
+        "de": "15 kV metallgekapselte luftisolierte Schaltanlage nach ANSI-Normen. Entwickelt für zuverlässiges Schalten in Primärverteilungsnetzen."
+      },
+      "longDescription": {
+        "en": "The 15 kV ANSI type metal-clad air-insulated switchgear is designed for primary distribution networks requiring ANSI standard compliance. It provides reliable switching and protection in demanding industrial and utility environments.",
+        "tr": "15 kV ANSI tipi metal kaplamalı hava yalıtımlı anahtarlama cihazı, ANSI standart uyumluluğu gerektiren primer dağıtım şebekeleri için tasarlanmıştır. Zorlu endüstriyel ve enerji ortamlarında güvenilir anahtarlama ve koruma sağlar.",
+        "de": "Die 15 kV ANSI-Typ metallgekapselte luftisolierte Schaltanlage ist für Primärverteilungsnetze mit ANSI-Konformität konzipiert. Sie bietet zuverlässiges Schalten und Schutz in anspruchsvollen Industrie- und Versorgungsumgebungen."
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2020/11/15-KV-metal-clad-switchgear-type-ANSI-switchgear.jpg",
+      "gallery": [
+        "https://sfaelectric.com/wp-content/uploads/2020/11/15-KV-metal-clad-switchgear-type-ANSI-switchgear.jpg"
+      ],
+      "features": {
+        "en": [
+          "ANSI standard compliant design",
+          "Metal-clad air-insulated construction",
+          "Suitable for industrial and utility environments",
+          "Fully interlocked for operator safety"
+        ],
+        "tr": [
+          "ANSI standart uyumlu tasarım",
+          "Metal kaplamalı hava yalıtımlı yapı",
+          "Endüstriyel ve enerji ortamlarına uygun",
+          "Operatör güvenliği için tam kilitli"
+        ],
+        "de": [
+          "ANSI-normkonformes Design",
+          "Metallgekapselte luftisolierte Bauweise",
+          "Geeignet für Industrie- und Versorgungsumgebungen",
+          "Vollständig verriegelt für Bediensicherheit"
+        ]
+      },
+      "specs": {
+        "Rated Voltage": "15 kV",
+        "Standard": "ANSI C37"
+      },
+      "sfaUrl": "https://sfaelectric.com/en/urun/mv-switchgears/air-insulated-metal-enclosed-switchgear-primary/15-kv-metal-kaplamali-ansi-tipi-metal-kaplamali-hava-yalitimli-salt/"
+    },
+    {
+      "id": "nes-h-17-5kv-metal-clad",
+      "categoryId": "mv-switchgears",
+      "subcategoryId": "air-insulated-metal-enclosed-switchgear-primary",
+      "title": {
+        "en": "17.5 kV Metal Clad — Type NES-H",
+        "tr": "17,5 kV Metal Kaplamalı — Tip NES-H",
+        "de": "17,5 kV Metallgekapselt — Typ NES-H"
+      },
+      "description": {
+        "en": "17.5 kV metal-clad air-insulated switchgear solution. NES-H type provides superior performance for primary distribution systems.",
+        "tr": "17,5 kV metal kaplamalı hava yalıtımlı anahtarlama çözümü. NES-H tipi, primer dağıtım sistemleri için üstün performans sağlar.",
+        "de": "17,5 kV metallgekapselte luftisolierte Schaltanlage. Der Typ NES-H bietet überlegene Leistung für Primärverteilungssysteme."
+      },
+      "longDescription": {
+        "en": "The 17.5 kV NES-H type metal-clad air-insulated switchgear is designed for primary distribution systems requiring high voltage, high current, and high reliability. The NES-H type offers superior arc fault containment and operator safety.",
+        "tr": "17,5 kV NES-H tipi metal kaplamalı hava yalıtımlı anahtarlama cihazı, yüksek gerilim, yüksek akım ve yüksek güvenilirlik gerektiren primer dağıtım sistemleri için tasarlanmıştır. NES-H tipi, üstün ark arızası muhafazası ve operatör güvenliği sunar.",
+        "de": "Die 17,5 kV NES-H-Typ metallgekapselte luftisolierte Schaltanlage ist für Primärverteilungssysteme mit hoher Spannung, hohem Strom und hoher Zuverlässigkeit konzipiert. Der Typ NES-H bietet überlegenen Störlichtbogenschutz und Bediensicherheit."
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2020/11/17.5-KV-metal-clad-switchgear-type-NES-H.jpg",
+      "gallery": [
+        "https://sfaelectric.com/wp-content/uploads/2020/11/17.5-KV-metal-clad-switchgear-type-NES-H.jpg"
+      ],
+      "features": {
+        "en": [
+          "Superior arc fault containment",
+          "Metal-clad air-insulated construction",
+          "High voltage and high current rated",
+          "Enhanced operator safety features"
+        ],
+        "tr": [
+          "Üstün ark arızası muhafazası",
+          "Metal kaplamalı hava yalıtımlı yapı",
+          "Yüksek gerilim ve yüksek akım değerli",
+          "Geliştirilmiş operatör güvenliği özellikleri"
+        ],
+        "de": [
+          "Überlegener Störlichtbogenschutz",
+          "Metallgekapselte luftisolierte Bauweise",
+          "Hochspannung und Hochstrom bemessen",
+          "Erweiterte Bediensicherheitsfunktionen"
+        ]
+      },
+      "specs": {
+        "Rated Voltage": "17.5 kV"
+      },
+      "sfaUrl": "https://sfaelectric.com/en/urun/mv-switchgears/air-insulated-metal-enclosed-switchgear-primary/17-5-kv-metal-clad-switchgear-type-nes-h/"
+    },
+    {
+      "id": "sfa-ais36",
+      "categoryId": "mv-switchgears",
+      "subcategoryId": "air-insulated-metal-enclosed-switchgear-secondary",
+      "title": {
+        "en": "SFA-AIS36",
+        "tr": "SFA-AIS36",
+        "de": "SFA-AIS36"
+      },
+      "description": {
+        "en": "36 kV air insulated metal enclosed switchgear for secondary distribution networks. Available in multiple configurations for various application requirements.",
+        "tr": "Sekonder dağıtım şebekeleri için 36 kV hava yalıtımlı metal muhafazalı anahtarlama cihazı. Çeşitli uygulama gereksinimlerine yönelik birden fazla konfigürasyonda mevcuttur.",
+        "de": "36 kV luftisolierte metallgekapselte Schaltanlage für Sekundärverteilungsnetze. Verfügbar in mehreren Konfigurationen für verschiedene Anwendungsanforderungen."
+      },
+      "longDescription": {
+        "en": "The SFA-AIS36 is a 36 kV air insulated metal enclosed switchgear designed for secondary distribution networks. It is available in multiple configurations including SFA-AIS36.B (circuit breaker), SFA-AIS36.C (contactor), SFA-AIS36.M (metering), SFA-AIS36.BC (breaker-contactor), and SFA-AIS36.OTP (outgoing transformer protection).",
+        "tr": "SFA-AIS36, sekonder dağıtım şebekeleri için tasarlanmış 36 kV hava yalıtımlı metal muhafazalı anahtarlama cihazıdır. SFA-AIS36.B (kesici), SFA-AIS36.C (kontaktör), SFA-AIS36.M (ölçüm), SFA-AIS36.BC (kesici-kontaktör) ve SFA-AIS36.OTP (trafo koruma) dahil birden fazla konfigürasyonda mevcuttur.",
+        "de": "Die SFA-AIS36 ist eine 36 kV luftisolierte metallgekapselte Schaltanlage für Sekundärverteilungsnetze. Verfügbar in: SFA-AIS36.B (Leistungsschalter), SFA-AIS36.C (Schütz), SFA-AIS36.M (Messfeld), SFA-AIS36.BC (Schalter-Schütz) und SFA-AIS36.OTP (Transformatorschutz)."
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2020/11/SFA-AIS36-.jpg",
+      "gallery": [
+        "https://sfaelectric.com/wp-content/uploads/2020/11/SFA-AIS36-.jpg",
+        "https://sfaelectric.com/wp-content/uploads/2020/11/SFA-AIS36-2.jpg"
+      ],
+      "features": {
+        "en": [
+          "Multiple configurations: B, C, M, BC, OTP",
+          "36 kV rated voltage",
+          "Air insulated design",
+          "Metal enclosed construction",
+          "Suitable for secondary distribution networks"
+        ],
+        "tr": [
+          "Çoklu konfigürasyon: B, C, M, BC, OTP",
+          "36 kV anma gerilimi",
+          "Hava yalıtımlı tasarım",
+          "Metal muhafazalı yapı",
+          "Sekonder dağıtım şebekelerine uygun"
+        ],
+        "de": [
+          "Mehrere Konfigurationen: B, C, M, BC, OTP",
+          "36 kV Nennspannung",
+          "Luftisoliertes Design",
+          "Metallgekapselte Bauweise",
+          "Geeignet für Sekundärverteilungsnetze"
+        ]
+      },
+      "specs": {
+        "Rated Voltage": "36 kV",
+        "Configurations": "SFA-AIS36.B, SFA-AIS36.C, SFA-AIS36.M, SFA-AIS36.BC, SFA-AIS36.OTP"
+      },
+      "sfaUrl": "https://sfaelectric.com/en/urun/mv-switchgears/air-insulated-metal-enclosed-switchgear-secondary/sfa-ais36/"
+    },
+    {
+      "id": "earthing-switch",
+      "categoryId": "oem-components",
+      "subcategoryId": null,
+      "title": {
+        "en": "Earthing Switch",
+        "tr": "Topraklama Anahtarı",
+        "de": "Erdungsschalter"
+      },
+      "description": {
+        "en": "Safety earthing switch for grounding medium voltage systems during maintenance operations. Ensures operator safety through reliable grounding.",
+        "tr": "Bakım çalışmaları sırasında orta gerilim sistemlerini topraklamak için güvenlik topraklama anahtarı. Güvenilir topraklama ile operatör güvenliğini sağlar.",
+        "de": "Sicherheits-Erdungsschalter zur Erdung von Mittelspannungssystemen während Wartungsarbeiten. Gewährleistet Bediensicherheit durch zuverlässige Erdung."
+      },
+      "longDescription": {
+        "en": "The SFA Earthing Switch is a critical safety component designed for grounding medium voltage systems during maintenance operations. It ensures operator safety through reliable and rapid grounding of live electrical equipment.",
+        "tr": "SFA Topraklama Anahtarı, bakım çalışmaları sırasında orta gerilim sistemlerini topraklamak için tasarlanmış kritik bir güvenlik bileşenidir. Enerji altındaki ekipmanın güvenilir ve hızlı topraklanması ile operatör güvenliğini sağlar.",
+        "de": "Der SFA-Erdungsschalter ist ein kritisches Sicherheitsbauteil zur Erdung von Mittelspannungssystemen während Wartungsarbeiten. Er gewährleistet Bediensicherheit durch zuverlässige und schnelle Erdung unter Spannung stehender Anlagen."
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2021/05/topraklayici-2.jpg",
+      "gallery": [
+        "https://sfaelectric.com/wp-content/uploads/2021/05/topraklayici-2.jpg",
+        "https://sfaelectric.com/wp-content/uploads/2021/05/topraklayici-1.jpg"
+      ],
+      "features": {
+        "en": [
+          "Reliable and rapid grounding mechanism",
+          "Operator safety during maintenance",
+          "Compatible with various switchgear platforms",
+          "Interlocked with circuit breaker operations"
+        ],
+        "tr": [
+          "Güvenilir ve hızlı topraklama mekanizması",
+          "Bakım sırasında operatör güvenliği",
+          "Çeşitli anahtarlama platformlarıyla uyumlu",
+          "Kesici işlemleriyle kilitli"
+        ],
+        "de": [
+          "Zuverlässiger und schneller Erdungsmechanismus",
+          "Bediensicherheit während der Wartung",
+          "Kompatibel mit verschiedenen Schaltanlagenplattformen",
+          "Verriegelt mit Leistungsschalteroperationen"
+        ]
+      },
+      "specs": {},
+      "sfaUrl": "https://sfaelectric.com/en/urun/oem-components/earthing-switch/"
+    },
+    {
+      "id": "load-break-switch",
+      "categoryId": "oem-components",
+      "subcategoryId": null,
+      "title": {
+        "en": "Load Break Switch",
+        "tr": "Yük Ayırıcı",
+        "de": "Lasttrennschalter"
+      },
+      "description": {
+        "en": "Medium voltage load break switch for load current interruption. Designed for safe and reliable switching operations in distribution networks.",
+        "tr": "Yük akımı kesintisi için orta gerilim yük ayırıcı. Dağıtım şebekelerinde güvenli ve güvenilir anahtarlama işlemleri için tasarlanmıştır.",
+        "de": "Mittelspannungs-Lasttrennschalter zur Laststromunter­brechung. Konstruiert für sichere und zuverlässige Schaltoperationen in Verteilungsnetzen."
+      },
+      "longDescription": {
+        "en": "The SFA Load Break Switch is designed for safe and reliable load current interruption in medium voltage distribution networks. Available in SF6 and vacuum interruption types.",
+        "tr": "SFA Yük Ayırıcı, orta gerilim dağıtım şebekelerinde güvenli ve güvenilir yük akımı kesintisi için tasarlanmıştır. SF6 ve vakum kesme tiplerinde mevcuttur.",
+        "de": "Der SFA-Lasttrennschalter ist für sichere und zuverlässige Laststromunter­brechung in Mittelspannungs-Verteilungsnetzen konzipiert. Verfügbar in SF6- und Vakuum-Unterbrechungstypen."
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2021/05/yuk-ayirici-1.jpg",
+      "gallery": [
+        "https://sfaelectric.com/wp-content/uploads/2021/05/yuk-ayirici-1.jpg"
+      ],
+      "features": {
+        "en": [
+          "Safe and reliable load current interruption",
+          "Cost-effective switching solution",
+          "Available in SF6 and vacuum types",
+          "Suitable for routine operations and maintenance"
+        ],
+        "tr": [
+          "Güvenli ve güvenilir yük akımı kesintisi",
+          "Uygun maliyetli anahtarlama çözümü",
+          "SF6 ve vakum tiplerinde mevcut",
+          "Rutin işlemler ve bakım için uygun"
+        ],
+        "de": [
+          "Sichere und zuverlässige Laststromunter­brechung",
+          "Kostengünstige Schaltlösung",
+          "Verfügbar in SF6- und Vakuumtypen",
+          "Geeignet für Routinebetrieb und Wartung"
+        ]
+      },
+      "specs": {
+        "Rated Voltage": "12/24/36 kV"
+      },
+      "sfaUrl": "https://sfaelectric.com/en/urun/oem-components/load-break-switch/"
+    },
+    {
+      "id": "sf6-insulated-circuit-breaker",
+      "categoryId": "oem-components",
+      "subcategoryId": null,
+      "title": {
+        "en": "SF6 Insulated Circuit Breaker",
+        "tr": "SF6 Yalıtımlı Kesici",
+        "de": "SF6-isolierter Leistungsschalter"
+      },
+      "description": {
+        "en": "SF6 gas insulated circuit breaker for medium voltage systems. Provides superior interruption capabilities and long electrical endurance.",
+        "tr": "Orta gerilim sistemleri için SF6 gazlı yalıtımlı kesici. Üstün kesme kapasitesi ve uzun elektriksel dayanıklılık sağlar.",
+        "de": "SF6-gasisolierter Leistungsschalter für Mittelspannungssysteme. Bietet überlegene Unterbrechungsfähigkeit und lange elektrische Lebensdauer."
+      },
+      "longDescription": {
+        "en": "The SFA SF6 Insulated Circuit Breaker is designed for medium voltage systems requiring superior interruption capabilities and long electrical endurance. Suitable for primary and secondary distribution applications.",
+        "tr": "SFA SF6 Yalıtımlı Kesici, üstün kesme kapasitesi ve uzun elektriksel dayanıklılık gerektiren orta gerilim sistemleri için tasarlanmıştır. Primer ve sekonder dağıtım uygulamalarına uygundur.",
+        "de": "Der SFA SF6-isolierte Leistungsschalter ist für Mittelspannungssysteme mit überlegener Unterbrechungsfähigkeit und langer elektrischer Lebensdauer konzipiert. Geeignet für Primär- und Sekundärverteilungsanwendungen."
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2020/11/sf6-gazli-kesici.jpg",
+      "gallery": [
+        "https://sfaelectric.com/wp-content/uploads/2020/11/sf6-gazli-kesici.jpg"
+      ],
+      "features": {
+        "en": [
+          "Superior interruption capabilities",
+          "Long electrical endurance",
+          "Compact SF6 gas insulated design",
+          "Suitable for primary and secondary distribution"
+        ],
+        "tr": [
+          "Üstün kesme kapasitesi",
+          "Uzun elektriksel dayanıklılık",
+          "Kompakt SF6 gazlı yalıtımlı tasarım",
+          "Primer ve sekonder dağıtıma uygun"
+        ],
+        "de": [
+          "Überlegene Unterbrechungsfähigkeit",
+          "Lange elektrische Lebensdauer",
+          "Kompaktes SF6-gasisoliertes Design",
+          "Geeignet für Primär- und Sekundärverteilung"
+        ]
+      },
+      "specs": {},
+      "sfaUrl": "https://sfaelectric.com/en/urun/oem-components/sf6-insulated-circuit-breaker/"
+    },
+    {
+      "id": "vacuum-circuit-breaker",
+      "categoryId": "oem-components",
+      "subcategoryId": null,
+      "title": {
+        "en": "Vacuum Circuit Breaker",
+        "tr": "Vakumlu Kesici",
+        "de": "Vakuum-Leistungsschalter"
+      },
+      "description": {
+        "en": "High-performance vacuum circuit breaker with stored-energy operating mechanism. Offers excellent interruption capabilities for MV applications.",
+        "tr": "Depolanmış enerji çalıştırma mekanizmalı yüksek performanslı vakumlu kesici. OG uygulamaları için mükemmel kesme kapasitesi sunar.",
+        "de": "Hochleistungs-Vakuum-Leistungsschalter mit Federspeicherantrieb. Bietet hervorragende Unterbrechungsfähigkeit für Mittelspannungsanwendungen."
+      },
+      "longDescription": {
+        "en": "The SFA Vacuum Circuit Breaker is a high-performance medium voltage circuit breaker featuring a stored-energy operating mechanism. It can be operated manually or with a motor-driven mechanism.",
+        "tr": "SFA Vakumlu Kesici, depolanmış enerji çalıştırma mekanizmasına sahip yüksek performanslı orta gerilim kesicisidir. Manuel veya motor tahrikli mekanizma ile çalıştırılabilir.",
+        "de": "Der SFA Vakuum-Leistungsschalter ist ein Hochleistungs-Mittelspannungsschalter mit Federspeicherantrieb. Kann manuell oder motorisch betätigt werden."
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2021/05/vakumlu_175_2-300x300-1.png",
+      "gallery": [
+        "https://sfaelectric.com/wp-content/uploads/2021/05/vakumlu_175_2-300x300-1.png",
+        "https://sfaelectric.com/wp-content/uploads/2021/05/vakumlu-kesiciler.png"
+      ],
+      "features": {
+        "en": [
+          "Stored-energy operating mechanism (manual or motorized)",
+          "Excellent arc quenching in vacuum",
+          "Long electrical endurance",
+          "Environmentally friendly — no SF6 gas"
+        ],
+        "tr": [
+          "Depolanmış enerji çalıştırma mekanizması (manuel veya motorlu)",
+          "Vakumda mükemmel ark söndürme",
+          "Uzun elektriksel dayanıklılık",
+          "Çevre dostu — SF6 gazı yok"
+        ],
+        "de": [
+          "Federspeicherantrieb (manuell oder motorisch)",
+          "Hervorragende Lichtbogenlöschung im Vakuum",
+          "Lange elektrische Lebensdauer",
+          "Umweltfreundlich — kein SF6-Gas"
+        ]
+      },
+      "specs": {},
+      "sfaUrl": "https://sfaelectric.com/en/urun/oem-components/vacuum-circuit-breaker/"
+    },
+    {
+      "id": "compact-transformer-substation",
+      "categoryId": "compact-transformer-substations",
+      "subcategoryId": "concrete-kiosks",
+      "title": {
+        "en": "Compact Transformer Substation",
+        "tr": "Kompakt Trafo Merkezi",
+        "de": "Kompakt-Transformatorstation"
+      },
+      "description": {
+        "en": "Three-section compact transformer substation with concrete enclosure. Integrates MV switchgear, transformer, and LV panel in a single unit.",
+        "tr": "Beton muhafazalı üç bölümlü kompakt trafo merkezi. OG anahtarlama, trafo ve AG panoyu tek ünitede entegre eder.",
+        "de": "Dreisektions-Kompakt-Transformatorstation mit Betongehäuse. Integriert Mittelspannungs-Schaltanlage, Transformator und NS-Verteilung in einer Einheit."
+      },
+      "longDescription": {
+        "en": "The SFA Compact Transformer Substation (SFA-SBK) is a three-section substation integrating MV Cell Section, MV/LV Transformer Section, and LV Panel Section. Designed according to IEC 62271-202 standards. Earthquake resistance verified by METU.",
+        "tr": "SFA Kompakt Trafo Merkezi (SFA-SBK), OG Hücre Bölümü, OG/AG Trafo Bölümü ve AG Pano Bölümünü entegre eden üç bölümlü bir trafo merkezidir. IEC 62271-202 standartlarına göre tasarlanmıştır. Deprem dayanıklılığı ODTÜ tarafından doğrulanmıştır.",
+        "de": "Die SFA Kompakt-Transformatorstation (SFA-SBK) ist eine Dreisektions-Station mit MS-Schaltfeld, MS/NS-Transformator und NS-Verteilung. Entworfen nach IEC 62271-202. Erdbebenbeständigkeit durch METU verifiziert."
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2021/05/betonmuhafazalitrafo_sld_3-600x600-1.jpg",
+      "gallery": [
+        "https://sfaelectric.com/wp-content/uploads/2021/05/betonmuhafazalitrafo_sld_3-600x600-1.jpg",
+        "https://sfaelectric.com/wp-content/uploads/2021/05/betonmuhafazalitrafo_sld_1-600x600-1.jpg"
+      ],
+      "features": {
+        "en": [
+          "Three-section integrated design (MV + Transformer + LV)",
+          "IEC 62271-202 compliant",
+          "Internal Arc Withstand: 16 kA – 1 second",
+          "Protection Class: IP 23D",
+          "Earthquake resistance verified",
+          "Safe for public areas, small footprint"
+        ],
+        "tr": [
+          "Üç bölümlü entegre tasarım (OG + Trafo + AG)",
+          "IEC 62271-202 uyumlu",
+          "İç Ark Dayanımı: 16 kA – 1 saniye",
+          "Koruma Sınıfı: IP 23D",
+          "Deprem dayanıklılığı doğrulanmış",
+          "Kamusal alanlara uygun, küçük ayak izi"
+        ],
+        "de": [
+          "Dreisektions-Integriertes Design (MS + Trafo + NS)",
+          "IEC 62271-202 konform",
+          "Innere Störlichtbogenfestigkeit: 16 kA – 1 Sekunde",
+          "Schutzklasse: IP 23D",
+          "Erdbebenbeständigkeit verifiziert",
+          "Sicher für öffentliche Bereiche, kleiner Platzbedarf"
+        ]
+      },
+      "specs": {
+        "Standard": "IEC 62271-202",
+        "Internal Arc Withstand": "16 kA – 1s",
+        "Protection Class": "IP 23D",
+        "Models": "SFA-3750, SFA-4250, SFA-5350"
+      },
+      "sfaUrl": "https://sfaelectric.com/en/urun/compact-transformer-substations/compact-transformer-substation/"
+    },
+    {
+      "id": "mobile-substations",
+      "categoryId": "compact-transformer-substations",
+      "subcategoryId": "mobile-substations",
+      "title": {
+        "en": "Mobile Substations",
+        "tr": "Mobil Trafo Merkezleri",
+        "de": "Mobile Stationen"
+      },
+      "description": {
+        "en": "Portable substation units for rapid deployment, emergency power, or temporary grid support. Designed for easy transport and quick installation.",
+        "tr": "Hızlı kurulum, acil durum enerjisi veya geçici şebeke desteği için taşınabilir trafo merkezi üniteleri. Kolay taşıma ve hızlı kurulum için tasarlanmıştır.",
+        "de": "Tragbare Stationseinheiten für schnelle Bereitstellung, Notstromversorgung oder temporäre Netzunterstützung. Konzipiert für einfachen Transport und schnelle Installation."
+      },
+      "longDescription": {
+        "en": "SFA Mobile Substations are portable substation units designed for rapid deployment in emergency situations, temporary grid support, or field operations. Ideal for disaster relief, construction sites, and temporary power needs.",
+        "tr": "SFA Mobil Trafo Merkezleri, acil durumlar, geçici şebeke desteği veya saha operasyonları için hızlı kuruluma yönelik taşınabilir ünitelerdir. Afet yardımı, şantiyeler ve geçici enerji ihtiyaçları için idealdir.",
+        "de": "SFA Mobile Stationen sind tragbare Einheiten für schnelle Bereitstellung in Notfällen, temporäre Netzunterstützung oder Feldeinsätze. Ideal für Katastrophenhilfe, Baustellen und temporären Strombedarf."
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2021/06/jpgmobile-600x544.jpg",
+      "gallery": [
+        "https://sfaelectric.com/wp-content/uploads/2021/06/jpgmobile-600x544.jpg"
+      ],
+      "features": {
+        "en": [
+          "Rapid deployment and quick installation",
+          "Fully equipped with MV switchgear and transformers",
+          "Transportable on standard trailers",
+          "Ideal for emergency and temporary power"
+        ],
+        "tr": [
+          "Hızlı kurulum ve çabuk montaj",
+          "OG anahtarlama ve trafolarla tam donanımlı",
+          "Standart treylerlerde taşınabilir",
+          "Acil durum ve geçici enerji için ideal"
+        ],
+        "de": [
+          "Schnelle Bereitstellung und Installation",
+          "Vollständig ausgestattet mit MS-Schaltanlage und Transformatoren",
+          "Transportierbar auf Standardanhängern",
+          "Ideal für Not- und temporäre Stromversorgung"
+        ]
+      },
+      "specs": {},
+      "sfaUrl": "https://sfaelectric.com/en/urun/compact-transformer-substations/mobile-substations/mobile-substations/"
+    },
+    {
+      "id": "outdoor-switchgears",
+      "categoryId": "compact-transformer-substations",
+      "subcategoryId": "outdoor-type-switchgear-cabinet",
+      "title": {
+        "en": "Outdoor Switchgears",
+        "tr": "Açık Tip Şalt Kabinleri",
+        "de": "Freiluft-Schaltanlagen"
+      },
+      "description": {
+        "en": "Outdoor type switchgear cabinets designed for exposed installations. Weather-resistant enclosures with full protection against environmental conditions.",
+        "tr": "Açık hava kurulumları için tasarlanmış açık tip şalt kabinleri. Çevresel koşullara karşı tam korumalı hava koşullarına dayanıklı muhafazalar.",
+        "de": "Freiluft-Schaltschränke für exponierte Installationen. Witterungsbeständige Gehäuse mit vollständigem Schutz gegen Umwelteinflüsse."
+      },
+      "longDescription": {
+        "en": "SFA Outdoor Switchgear Cabinets are designed for exposed outdoor installations where indoor substations are not feasible. The weather-resistant enclosures provide full protection against rain, snow, dust, and temperature extremes.",
+        "tr": "SFA Açık Tip Şalt Kabinleri, iç mekan trafo merkezlerinin mümkün olmadığı açık hava kurulumları için tasarlanmıştır. Hava koşullarına dayanıklı muhafazalar yağmur, kar, toz ve aşırı sıcaklıklara karşı tam koruma sağlar.",
+        "de": "SFA Freiluft-Schaltschränke sind für exponierte Außeninstallationen konzipiert, wo Innenstationen nicht möglich sind. Die witterungsbeständigen Gehäuse bieten vollständigen Schutz gegen Regen, Schnee, Staub und Temperaturextreme."
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2021/06/outdoor.png",
+      "gallery": [
+        "https://sfaelectric.com/wp-content/uploads/2021/06/outdoor.png"
+      ],
+      "features": {
+        "en": [
+          "Weather-resistant outdoor enclosure",
+          "Protection against rain, snow, dust, and temperature extremes",
+          "No separate building required",
+          "Low maintenance design"
+        ],
+        "tr": [
+          "Hava koşullarına dayanıklı dış mekan muhafazası",
+          "Yağmur, kar, toz ve aşırı sıcaklıklara karşı koruma",
+          "Ayrı bina gerektirmez",
+          "Düşük bakım gereksinimli tasarım"
+        ],
+        "de": [
+          "Witterungsbeständiges Außengehäuse",
+          "Schutz gegen Regen, Schnee, Staub und Temperaturextreme",
+          "Kein separates Gebäude erforderlich",
+          "Wartungsarmes Design"
+        ]
+      },
+      "specs": {},
+      "sfaUrl": "https://sfaelectric.com/en/urun/compact-transformer-substations/outdoor-type-switchgear-cabinet/outdoor-switchgears/"
+    },
+    {
+      "id": "solutions-for-renewable-pps",
+      "categoryId": "compact-transformer-substations",
+      "subcategoryId": "concrete-kiosks",
+      "title": {
+        "en": "Solutions for Renewable Power Plants",
+        "tr": "Yenilenebilir Enerji Santralleri Çözümleri",
+        "de": "Lösungen für Erneuerbare-Energien-Kraftwerke"
+      },
+      "description": {
+        "en": "Specialized concrete kiosk solutions designed for renewable energy power plants including solar and wind farm applications.",
+        "tr": "Güneş ve rüzgar enerjisi santralleri dahil yenilenebilir enerji santralleri için tasarlanmış özel beton köşk çözümleri.",
+        "de": "Spezialisierte Betonkiosklösungen für Erneuerbare-Energien-Kraftwerke einschließlich Solar- und Windparkanwendungen."
+      },
+      "longDescription": {
+        "en": "SFA provides specialized concrete kiosk solutions designed specifically for renewable energy power plants. These substations are optimized for solar farms and wind farm applications.",
+        "tr": "SFA, yenilenebilir enerji santralleri için özel olarak tasarlanmış beton köşk çözümleri sunar. Bu trafo merkezleri güneş çiftlikleri ve rüzgar çiftliği uygulamaları için optimize edilmiştir.",
+        "de": "SFA bietet spezialisierte Betonkiosklösungen für Erneuerbare-Energien-Kraftwerke. Diese Stationen sind für Solar- und Windparkanwendungen optimiert."
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2021/06/beton-koskler-11-600x520.jpg",
+      "gallery": [
+        "https://sfaelectric.com/wp-content/uploads/2021/06/beton-koskler-11-600x520.jpg"
+      ],
+      "features": {
+        "en": [
+          "Optimized for solar and wind farm applications",
+          "Robust weather protection",
+          "Integrated monitoring systems",
+          "Grid connection compliant"
+        ],
+        "tr": [
+          "Güneş ve rüzgar enerjisi uygulamaları için optimize edilmiş",
+          "Sağlam hava koşulu koruması",
+          "Entegre izleme sistemleri",
+          "Şebeke bağlantısı uyumlu"
+        ],
+        "de": [
+          "Optimiert für Solar- und Windparkanwendungen",
+          "Robuster Wetterschutz",
+          "Integrierte Überwachungssysteme",
+          "Netzanschlusskonform"
+        ]
+      },
+      "specs": {},
+      "sfaUrl": "https://sfaelectric.com/en/urun/compact-transformer-substations/concrete-kiosks/solutions-for-renewable-pps/"
+    },
+    {
+      "id": "skid-solutions",
+      "categoryId": "compact-transformer-substations",
+      "subcategoryId": "skid-solutions",
+      "title": {
+        "en": "SKID Solutions",
+        "tr": "SKID Çözümleri",
+        "de": "SKID-Lösungen"
+      },
+      "description": {
+        "en": "Customized skid-mounted power solutions for renewable energy projects. Pre-assembled and factory-tested for rapid field deployment.",
+        "tr": "Yenilenebilir enerji projeleri için özelleştirilmiş skid üzerine monte edilmiş enerji çözümleri. Hızlı saha kurulumu için ön montajlı ve fabrikada test edilmiş.",
+        "de": "Maßgeschneiderte skidbefestigte Energielösungen für Erneuerbare-Energien-Projekte. Vormontiert und werksgeprüft für schnelle Feldbereitstellung."
+      },
+      "longDescription": {
+        "en": "SFA SKID Solutions are customized skid-mounted power solutions designed primarily for renewable energy projects. These pre-assembled and factory-tested units enable rapid field deployment with minimal on-site assembly time.",
+        "tr": "SFA SKID Çözümleri, öncelikli olarak yenilenebilir enerji projeleri için tasarlanmış özelleştirilmiş skid üzerine monte edilmiş enerji çözümleridir. Ön montajlı ve fabrikada test edilmiş bu üniteler, minimum sahada montaj süresi ile hızlı saha kurulumunu mümkün kılar.",
+        "de": "SFA SKID-Lösungen sind maßgeschneiderte skidbefestigte Energielösungen für Erneuerbare-Energien-Projekte. Diese vormontierten und werksgeprüften Einheiten ermöglichen schnelle Feldbereitstellung mit minimaler Vor-Ort-Montage."
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2021/06/son-600x491.png",
+      "gallery": [
+        "https://sfaelectric.com/wp-content/uploads/2021/06/son-600x491.png"
+      ],
+      "features": {
+        "en": [
+          "Pre-assembled and factory-tested",
+          "Rapid field deployment",
+          "Customized for renewable energy projects",
+          "Minimal on-site assembly required"
+        ],
+        "tr": [
+          "Ön montajlı ve fabrikada test edilmiş",
+          "Hızlı saha kurulumu",
+          "Yenilenebilir enerji projeleri için özelleştirilmiş",
+          "Minimum sahada montaj gereksinimi"
+        ],
+        "de": [
+          "Vormontiert und werksgeprüft",
+          "Schnelle Feldbereitstellung",
+          "Maßgeschneidert für Erneuerbare-Energien-Projekte",
+          "Minimale Vor-Ort-Montage erforderlich"
+        ]
+      },
+      "specs": {},
+      "sfaUrl": "https://sfaelectric.com/en/urun/compact-transformer-substations/skid-solutions/solutions-for-renewable-pps-2/"
+    },
+    {
+      "id": "distribution-automation",
+      "categoryId": "distribution-automation",
+      "subcategoryId": null,
+      "title": {
+        "en": "SCADA & RTU Systems",
+        "tr": "SCADA ve RTU Sistemleri",
+        "de": "SCADA- und RTU-Systeme"
+      },
+      "description": {
+        "en": "Smart distribution automation solutions featuring modern RTUs and SCADA integration for real-time monitoring and control of smart grids.",
+        "tr": "Akıllı şebekelerin gerçek zamanlı izlenmesi ve kontrolü için modern RTU'lar ve SCADA entegrasyonuna sahip akıllı dağıtım otomasyon çözümleri.",
+        "de": "Intelligente Verteilungsautomatisierungslösungen mit modernen RTUs und SCADA-Integration für Echtzeit-Überwachung und -Steuerung von Smart Grids."
+      },
+      "longDescription": {
+        "en": "SFA Distribution Automation Solutions provide comprehensive smart grid technologies including SCADA systems, Remote Terminal Units (RTUs), fault passage indicators, and arc flash protection systems.",
+        "tr": "SFA Dağıtım Otomasyon Çözümleri, SCADA sistemleri, Uzak Terminal Üniteleri (RTU), arıza geçiş göstergeleri ve ark flaş koruma sistemleri dahil kapsamlı akıllı şebeke teknolojileri sunar.",
+        "de": "SFA Verteilungsautomatisierungslösungen bieten umfassende Smart-Grid-Technologien einschließlich SCADA-Systeme, Fernwirkgeräte (RTUs), Kurzschlussanzeiger und Störlichtbogenschutzsysteme."
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2020/11/12-17.5kV-Cozumler.jpg",
+      "gallery": [
+        "https://sfaelectric.com/wp-content/uploads/2020/11/12-17.5kV-Cozumler.jpg"
+      ],
+      "features": {
+        "en": [
+          "SCADA integration for centralized monitoring",
+          "RTU devices for remote data collection",
+          "Fault passage indicator systems",
+          "Arc flash protection systems",
+          "Smart grid ready infrastructure"
+        ],
+        "tr": [
+          "Merkezi izleme için SCADA entegrasyonu",
+          "Uzaktan veri toplama için RTU cihazları",
+          "Arıza geçiş göstergesi sistemleri",
+          "Ark flaş koruma sistemleri",
+          "Akıllı şebeke uyumlu altyapı"
+        ],
+        "de": [
+          "SCADA-Integration für zentrale Überwachung",
+          "RTU-Geräte für Ferndatenerfassung",
+          "Kurzschlussanzeigersysteme",
+          "Störlichtbogenschutzsysteme",
+          "Smart-Grid-fähige Infrastruktur"
+        ]
+      },
+      "specs": {},
+      "sfaUrl": "https://sfaelectric.com/en/urun/distribution-automation-solutions/12-17-5kv-solutions/"
+    },
+    {
+      "id": "cables-and-accessories",
+      "categoryId": "cables",
+      "subcategoryId": null,
+      "title": {
+        "en": "MV Cables & Cable Accessories",
+        "tr": "OG Kablo ve Kablo Aksesuarları",
+        "de": "MS-Kabel und Kabelzubehör"
+      },
+      "description": {
+        "en": "Comprehensive range of medium voltage cables and cable accessories including terminations, joints, and separable connectors for distribution networks.",
+        "tr": "Dağıtım şebekeleri için sonlandırmalar, ekler ve ayrılabilir konnektörler dahil kapsamlı orta gerilim kablo ve kablo aksesuarları yelpazesi.",
+        "de": "Umfassendes Sortiment an Mittelspannungskabeln und Kabelzubehör einschließlich Endverschlüsse, Muffen und trennbare Steckverbinder für Verteilungsnetze."
+      },
+      "longDescription": {
+        "en": "SFA provides a comprehensive range of medium voltage cables and cable accessories designed for distribution networks. The product line includes cable terminations, cable joints, separable connectors (L-Type, T-Type), and MV cables.",
+        "tr": "SFA, dağıtım şebekeleri için tasarlanmış kapsamlı bir orta gerilim kablo ve kablo aksesuarları yelpazesi sunar. Ürün hattı kablo sonlandırmaları, kablo ekleri, ayrılabilir konnektörler (L-Tip, T-Tip) ve OG kablolarını içerir.",
+        "de": "SFA bietet ein umfassendes Sortiment an Mittelspannungskabeln und Kabelzubehör für Verteilungsnetze. Das Produktprogramm umfasst Kabelendverschlüsse, Kabelmuffen, trennbare Steckverbinder (L-Typ, T-Typ) und MS-Kabel."
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2020/11/Kablo-ve-kablo-aksesuari-cozumleri-.jpg",
+      "gallery": [
+        "https://sfaelectric.com/wp-content/uploads/2020/11/Kablo-ve-kablo-aksesuari-cozumleri-.jpg"
+      ],
+      "features": {
+        "en": [
+          "Cable terminations for indoor and outdoor use",
+          "Cable joints for various cable types",
+          "Separable connectors (L-Type, T-Type)",
+          "Tested according to international standards"
+        ],
+        "tr": [
+          "İç ve dış mekan kullanımı için kablo sonlandırmaları",
+          "Çeşitli kablo tipleri için kablo ekleri",
+          "Ayrılabilir konnektörler (L-Tip, T-Tip)",
+          "Uluslararası standartlara göre test edilmiş"
+        ],
+        "de": [
+          "Kabelendverschlüsse für Innen- und Außenbereich",
+          "Kabelmuffen für verschiedene Kabeltypen",
+          "Trennbare Steckverbinder (L-Typ, T-Typ)",
+          "Nach internationalen Normen geprüft"
+        ]
+      },
+      "specs": {},
+      "sfaUrl": "https://sfaelectric.com/en/urun-kategori/cables-and-cable-accessories/"
+    },
+    {
+      "id": "distribution-power-transformers",
+      "categoryId": "transformers",
+      "subcategoryId": null,
+      "title": {
+        "en": "Distribution & Power Transformers",
+        "tr": "Dağıtım ve Güç Trafoları",
+        "de": "Verteilungs- und Leistungstransformatoren"
+      },
+      "description": {
+        "en": "Oil-immersed and dry-type distribution transformers along with power transformers for various capacity requirements in electrical distribution systems.",
+        "tr": "Elektrik dağıtım sistemlerindeki çeşitli kapasite gereksinimleri için yağlı ve kuru tip dağıtım trafoları ile güç trafoları.",
+        "de": "Ölgetauchte und Trockentransformatoren sowie Leistungstransformatoren für verschiedene Kapazitätsanforderungen in elektrischen Verteilungssystemen."
+      },
+      "longDescription": {
+        "en": "SFA offers a comprehensive range of distribution and power transformers including oil-immersed distribution transformers, dry-type distribution transformers, and power transformers. All transformers are manufactured to international standards.",
+        "tr": "SFA, yağlı tip dağıtım trafoları, kuru tip dağıtım trafoları ve güç trafoları dahil kapsamlı bir dağıtım ve güç trafosu yelpazesi sunar. Tüm trafolar uluslararası standartlara göre üretilmektedir.",
+        "de": "SFA bietet ein umfassendes Sortiment an Verteilungs- und Leistungstransformatoren, einschließlich ölgetauchter Verteilungstransformatoren, Trockentransformatoren und Leistungstransformatoren. Alle nach internationalen Normen gefertigt."
+      },
+      "image": "https://sfaelectric.com/wp-content/uploads/2020/11/OG-Trafo-.jpg",
+      "gallery": [
+        "https://sfaelectric.com/wp-content/uploads/2020/11/OG-Trafo-.jpg"
+      ],
+      "features": {
+        "en": [
+          "Oil-immersed distribution transformers",
+          "Dry-type distribution transformers",
+          "Power transformers for high capacity needs",
+          "Customized to project specifications"
+        ],
+        "tr": [
+          "Yağlı tip dağıtım trafoları",
+          "Kuru tip dağıtım trafoları",
+          "Yüksek kapasite ihtiyaçları için güç trafoları",
+          "Proje özelliklerine göre özelleştirilmiş"
+        ],
+        "de": [
+          "Ölgetauchte Verteilungstransformatoren",
+          "Trockentransformatoren",
+          "Leistungstransformatoren für hohe Kapazitäten",
+          "Maßgeschneidert nach Projektspezifikationen"
+        ]
+      },
+      "specs": {},
+      "sfaUrl": "https://sfaelectric.com/en/urun-kategori/distribution-and-power-transformers/"
+    }
+  ]
+}

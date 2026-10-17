@@ -1,0 +1,471 @@
+[
+  {
+    "id": "piyasa",
+    "title": "Elektrik Piyasası Piyasa Kurul Kararları",
+    "subGroups": [
+      {
+        "id": "onlisans-lisans",
+        "title": "Önlisans ve Lisans",
+        "subGroups": [
+          {
+            "id": "basvuru",
+            "title": "Başvuru",
+            "items": []
+          },
+          {
+            "id": "asgari-sermaye",
+            "title": "Asgari Sermaye ve Teminat",
+            "items": []
+          },
+          {
+            "id": "onlisans-suresi",
+            "title": "Önlisans Süreleri ile Tesis Tamamlanma Tarihinin Belirlenmesinde Referans Alınacak İnşaat Süreleri",
+            "items": []
+          },
+          {
+            "id": "onlisans-diger",
+            "title": "Önlisans ve Lisansa İlişkin Diğer Kararlar",
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "piyasa-kisitlari",
+        "title": "Piyasa Kısıtları",
+        "subGroups": [
+          {
+            "id": "lisans-satis",
+            "title": "Lisansa Kayıtlı Olan Yıllık Elektrik Enerjisi Üretim Miktarının Piyasada Satılabileceği Oranına İlişkin Kurul Kararları",
+            "items": []
+          },
+          {
+            "id": "uretim-satin",
+            "title": "Üretim Şirketinin Piyasalardan Satın Alabileceği Toplam Elektrik Enerjisi Miktarına İlişkin Kurul Kararı",
+            "items": []
+          },
+          {
+            "id": "yenilenebilir-uretim",
+            "title": "Yenilenebilir Enerji Kaynaklarından Elektrik Enerjisi Üreten Tesislerin Önlisans veya Üretim Lisanslarına Derç Edilecek Yıllık Elektrik Enerjisi Üretim Miktarına İlişkin Kurul Kararı",
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "iletim",
+        "title": "İletim Faaliyeti",
+        "subGroups": [
+          {
+            "id": "baglanti-anlasmalar",
+            "title": "Bağlantı, Sistem Kullanım ve Enterkonneksiyon Kullanım Anlaşmalarına İlişkin Kurul Kararları",
+            "subGroups": [
+              {
+                "id": "baglanti-kararlar",
+                "title": "Bağlantı, Sistem Kullanım ve Enterkonneksiyon Kullanım Anlaşmalarına İlişkin Kurul Kararları",
+                "items": []
+              },
+              {
+                "id": "baglanti-mulga",
+                "title": "Bağlantı, Sistem Kullanım ve Enterkonneksiyon Kullanım Anlaşmalarına İlişkin Mülga Kararlar",
+                "items": []
+              }
+            ]
+          },
+          {
+            "id": "geri-odeme",
+            "title": "Geri Ödemeye Esas Gerçekleşen Yatırım Tutarı Tespit Metodolojisine İlişkin Kurul Kararları",
+            "subGroups": [
+              {
+                "id": "geri-odeme-kararlar",
+                "title": "Geri Ödemeye Esas Gerçekleşen Yatırım Tutarı Tespit Metodolojisine İlişkin Kurul Kararları",
+                "items": []
+              },
+              {
+                "id": "geri-odeme-mulga",
+                "title": "Geri Ödemeye Esas Gerçekleşen Yatırım Tutarı Tespit Metodolojisine İlişkin Mülga Kararlar",
+                "items": []
+              }
+            ]
+          },
+          {
+            "id": "yan-hizmetler",
+            "title": "Yan Hizmetlere İlişkin Kurul Kararları",
+            "items": []
+          },
+          {
+            "id": "ithalat-ihracat",
+            "title": "Elektrik İthalat ve İhracatına İlişkin Kurul Kararları",
+            "items": []
+          },
+          {
+            "id": "iletim-diger",
+            "title": "İletim Faaliyetine İlişkin Diğer Kurul Kararları",
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "dagitim",
+        "title": "Dağıtım Faaliyeti",
+        "subGroups": [
+          {
+            "id": "dagitim-baglanti",
+            "title": "Bağlantı ve Sistem Kullanım Anlaşmalarına İlişkin Kurul Kararları",
+            "items": []
+          },
+          {
+            "id": "kullanici-tesisi",
+            "title": "Kullanıcı Tarafından Dağıtım Varlıklarının Tesis Edilme Metodolojisine İlişkin Kurul Kararları",
+            "items": []
+          },
+          {
+            "id": "isletme-hizmet",
+            "title": "İşletme Hizmet Protokolü",
+            "items": []
+          },
+          {
+            "id": "dagitim-diger",
+            "title": "Dağıtım Faaliyetine İlişkin Diğer Kurul Kararları",
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "tarifeler",
+        "title": "Tarifeler",
+        "items": []
+      },
+      {
+        "id": "serbest-tuketici",
+        "title": "Serbest Tüketici",
+        "items": []
+      },
+      {
+        "id": "organize-piyasa",
+        "title": "Organize Toptan Satış Piyasaları",
+        "subGroups": [
+          {
+            "id": "osos-kararlar",
+            "title": "OSOS'a İlişkin Kurul Kararları",
+            "items": []
+          },
+          {
+            "id": "duy-110",
+            "title": "DUY'un 110. Maddesi Uyarınca KÜPSM ve 'n' Katsayısının Belirlenmesi Hakkında Karar",
+            "items": []
+          },
+          {
+            "id": "gorevli-avans",
+            "title": "Görevli Tedarik Şirketlerinin Avans Bildirimlerine İlişkin Alınan Kararlar",
+            "items": []
+          },
+          {
+            "id": "organize-diger",
+            "title": "Organize Toptan Satış Piyasalarına İlişkin Diğer Kurul Kararları",
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "piyasa-diger",
+        "title": "Elektrik Piyasasına İlişkin Diğer Kurul Kararları",
+        "subGroups": [
+          {
+            "id": "deprem-kararlar",
+            "title": "6 Şubat 2023 Tarihinde Kahramanmaraş Merkezli Olarak Meydana Gelen Depremlere İlişkin",
+            "items": []
+          },
+          {
+            "id": "diger-kararlar",
+            "title": "Diğer Kurul Kararları",
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "lisanssiz-uretim",
+        "title": "Lisanssız Elektrik Üretimine İlişkin Kurul Kararı",
+        "items": []
+      },
+      {
+        "id": "yekdem",
+        "title": "YEKDEM",
+        "items": []
+      },
+      {
+        "id": "kaynak-destekleme",
+        "title": "Kaynak Bazında Destekleme Bedelinin Belirlenmesine ve Uygulanmasına İlişkin Usul ve Esaslar Kapsamında Alınan Kararlar",
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "tarife",
+    "title": "Elektrik Piyasası Tarife Kurul Kararları",
+    "subGroups": [
+      {
+        "id": "tarife-kararlar",
+        "title": "Elektrik Piyasası Tarife Kurul Kararları",
+        "items": []
+      },
+      {
+        "id": "tarife-tablolar",
+        "title": "Elektrik Faturalarına Esas Tarife Tabloları",
+        "items": []
+      },
+      {
+        "id": "nihai-bedeller",
+        "title": "Nihai Kullanıcılara Uygulanan Diğer Bedeller",
+        "subGroups": [
+          {
+            "id": "guvence-bedeli",
+            "title": "Güvence Bedelleri",
+            "href": "https://www.epdk.gov.tr/Detay/Icerik/3-1327/elektrik-piyasasi-tarife-kurul-kararlari-guvence-bedeli",
+            "items": []
+          },
+          {
+            "id": "kesme-baglama",
+            "title": "Kesme-Bağlama Bedelleri",
+            "href": "https://www.epdk.gov.tr/Detay/Icerik/3-1327/elektrik-piyasasi-tarife-kurul-kararlari-kesme-baglama-bedelleri",
+            "items": []
+          },
+          {
+            "id": "sayac-kontrol",
+            "title": "Sayaç Kontrol Bedeli",
+            "items": []
+          },
+          {
+            "id": "baglanti-bedeli",
+            "title": "Bağlantı Bedeli",
+            "items": []
+          },
+          {
+            "id": "odeme-bildirimi",
+            "title": "Ödeme Bildirimi ve İkinci İhbar Bırakma Bedelleri",
+            "items": []
+          },
+          {
+            "id": "lisanssiz-bedeller",
+            "title": "Lisanssız Elektrik Üretim Yönetmeliği Kapsamındaki Bedeller",
+            "items": []
+          },
+          {
+            "id": "ges-25kw-alti",
+            "title": "25 kW ve Altı Çatı ve Cephe Uygulamalı GES'ler İçin Proje Onay ve Kabul Bedelleri",
+            "items": []
+          },
+          {
+            "id": "ges-25kw-ustu",
+            "title": "25 kW Üstü Lisanssız GES'ler için Proje Onay ve Kabul Bedelleri",
+            "items": []
+          },
+          {
+            "id": "teknik-kalite",
+            "title": "Teknik Kalite Ölçüm Hizmet Bedeli",
+            "items": []
+          },
+          {
+            "id": "osos-veri",
+            "title": "OSOS İlave Veri Talebi Bedeli",
+            "items": []
+          },
+          {
+            "id": "toretosaf",
+            "title": "TORETOSAF",
+            "items": []
+          },
+          {
+            "id": "sayac-soke",
+            "title": "Sayaç Sökme Takma Bedelleri",
+            "items": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "duzenleyici-tarife",
+    "title": "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları",
+    "subGroups": [
+      {
+        "id": "duzenleyici-kararlar",
+        "title": "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları",
+        "items": []
+      },
+      {
+        "id": "usul-esaslar-gen",
+        "title": "Usul Esaslar",
+        "items": []
+      },
+      {
+        "id": "lisans-bedelleri",
+        "title": "Lisans Bedelleri",
+        "items": [
+          {
+            "id": "lisans-bedel-link",
+            "title": "Elektrik Piyasası Kurul Kararları – Lisans Bedelleri",
+            "href": "https://www.epdk.gov.tr/Detay/Icerik/3-1914/elektrik-piyasasi-kurul-kararlari-lisans-bedelleri",
+            "isExternal": true
+          }
+        ]
+      },
+      {
+        "id": "gecis-donemi",
+        "title": "Geçiş Dönemi vb. Eski Kurul Kararları",
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "son-kaynak",
+    "title": "Son Kaynak Tedarik Tarifesine İlişkin Kurul Kararları",
+    "subGroups": [
+      {
+        "id": "son-kaynak-kararlar",
+        "title": "Son Kaynak Tedarik Tarifesine İlişkin Kurul Kararları",
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "duzenleyici-hesap",
+    "title": "Düzenleyici Hesap Planı",
+    "subGroups": [
+      {
+        "id": "edas-hesap",
+        "title": "EDAŞ",
+        "subGroups": [
+          {
+            "id": "edas-hesap-plani",
+            "title": "Hesap Planı",
+            "items": []
+          },
+          {
+            "id": "edas-hesap-acikla",
+            "title": "Hesap Planı Açıklaması",
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "gts-hesap",
+        "title": "GTŞ",
+        "subGroups": [
+          {
+            "id": "gts-hesap-plani",
+            "title": "Hesap Planı",
+            "items": []
+          },
+          {
+            "id": "gts-hesap-acikla",
+            "title": "Hesap Planı Açıklaması",
+            "items": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "edas-kararlar",
+    "title": "EDAŞ (Düzenleyici Tarife)",
+    "subGroups": [
+      {
+        "id": "edas-yatirim",
+        "title": "Yatırım",
+        "items": []
+      },
+      {
+        "id": "edas-gelir-gerek",
+        "title": "Gelir Gereksinimi",
+        "items": []
+      },
+      {
+        "id": "edas-gelir-tavan",
+        "title": "Gelir Tavanı",
+        "items": []
+      },
+      {
+        "id": "edas-genel",
+        "title": "EDAŞ",
+        "items": []
+      },
+      {
+        "id": "edas-hedef-kayip",
+        "title": "EDAŞ Hedef Kayıp Oranları",
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "2006-oncesi",
+    "title": "2006 Öncesi & Diğer Kurumlar",
+    "subGroups": [
+      {
+        "id": "oncesi-tarife",
+        "title": "2006 Öncesi Tarife Kurul Kararları",
+        "items": []
+      },
+      {
+        "id": "eutas-mulga",
+        "title": "EÜAŞ (Mülga TETAŞ)",
+        "items": []
+      },
+      {
+        "id": "teias",
+        "title": "TEİAŞ",
+        "items": []
+      },
+      {
+        "id": "gts-duzenleyici",
+        "title": "GTŞ (Düzenleyici Tarife)",
+        "subGroups": [
+          {
+            "id": "gts-gelir-gerek",
+            "title": "Gelir Gereksinimi",
+            "items": []
+          },
+          {
+            "id": "gts-gelir-tavan",
+            "title": "Gelir Tavanı",
+            "items": []
+          },
+          {
+            "id": "gts-yatirim",
+            "title": "Yatırım",
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "epias",
+        "title": "EPİAŞ",
+        "items": []
+      },
+      {
+        "id": "osb-eb",
+        "title": "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller",
+        "items": []
+      },
+      {
+        "id": "diger-genel",
+        "title": "Diğer",
+        "items": []
+      },
+      {
+        "id": "tarife-usul",
+        "title": "Elektrik Piyasası Tarifeleri Uygulama Usul ve Esasları",
+        "subGroups": [
+          {
+            "id": "dagitim-lisans",
+            "title": "Dağıtım Lisansı Sahibi Tüzel Kişiler ve Görevli Tedarik Şirketlerinin Tarife Uygulamalarına İlişkin Usul Ve Esaslar Son Hali",
+            "items": []
+          },
+          {
+            "id": "arge-giderler",
+            "title": "Elektrik ve Doğalgaz Dağıtım Şirketlerinin Gelir Gereksinimleri İçerisinde Yer Alan Ar-Ge Giderlerine İlişkin Karar",
+            "items": []
+          }
+        ]
+      }
+    ]
+  }
+]

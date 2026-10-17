@@ -1,0 +1,426 @@
+{
+  "categories": [
+    {
+      "id": "mv-switchgears",
+      "name": {
+        "en": "MV Cubicles & HV Switching",
+        "tr": "OG Hücre ve YG Anahtarlama Ürünleri",
+        "de": "MS-Schaltanlagen & HS-Schaltgeräte"
+      },
+      "image": "https://elkoelektrik.com.tr/wp-content/uploads/2023/07/banner.png",
+      "sfaUrl": "/products/elko",
+      "subcategories": []
+    },
+    {
+      "id": "transformer-substations",
+      "name": {
+        "en": "Transformer Substations",
+        "tr": "Trafo Merkezlerimiz",
+        "de": "Transformatorstationen"
+      },
+      "image": "https://elkoelektrik.com.tr/wp-content/uploads/2023/07/trafo.png",
+      "sfaUrl": "/products/elko",
+      "subcategories": []
+    }
+  ],
+  "products": [
+    {
+      "id": "hava-yalitimli-moduler-hucreler",
+      "categoryId": "mv-switchgears",
+      "subcategoryId": null,
+      "title": {
+        "en": "Air Insulated Modular Cubicles (MME Type)",
+        "tr": "Hava Yalıtımlı Modüler Hücreler (MME Tipi)",
+        "de": "Luftisolierte modulare Schaltanlagen (MME Typ)"
+      },
+      "description": {
+        "en": "Air-insulated, metal-enclosed, LSC2A-PI service continuity modular MV cubicles suitable for indoor applications.",
+        "tr": "Hava yalıtımlı, metal mahfazalı, LSC2A-PI servis sürekliliğine sahip, bina içi kullanıma uygun modüler OG hücre tertipleri.",
+        "de": "Luftisolierte, metallgekapselte modulare MS-Schaltanlagen mit LSC2A-PI Servicekontinuität für den Innenbereich."
+      },
+      "longDescription": {
+        "en": "MME type cubicles manufactured by ELKO are air-insulated, metal-enclosed medium voltage switching and control assemblies with LSC2A-PI service continuity class. Suitable for indoor substations and industrial facilities, they offer high reliability and modular configurations for customizable feeder combinations.",
+        "tr": "ELKO tarafında imal edilen MME tipi hücreler; hava yalıtımlı, metal mahfazalı, LSC2A-PI servis sürekliliğine sahip Orta gerilim anahtarlama ve kumanda düzenleridir. Bina içinde kullanılmaya uygun olan bu hücreler, modüler dizaynı ve esnek fider kombinasyonları ile yüksek işletme güvenliği sunar.",
+        "de": "Die von ELKO hergestellten Schaltanlagen vom Typ MME sind luftisolierte, metallgekapselte Mittelspannungs-Schalt- und Steuergeräte der Servicekontinuitätsklasse LSC2A-PI. Sie eignen sich für Innenstationen und Industrieanlagen und bieten hohe Zuverlässigkeit sowie modulare Konfigurationen für anpassbare Abgangskombinationen."
+      },
+      "image": "https://elkoelektrik.com.tr/wp-content/uploads/2023/07/banner.png",
+      "gallery": [
+        "https://elkoelektrik.com.tr/wp-content/uploads/2023/07/banner.png"
+      ],
+      "features": {
+        "en": [
+          "Easy installation and expansion on both sides thanks to modular design",
+          "Mechanical interlocking eliminates incorrect opening/closing operations",
+          "Suitable for remote monitoring and control equipment",
+          "Reliable switching inside SF6 gas",
+          "Easy transport and storage",
+          "Different feeder combinations according to customer requirements"
+        ],
+        "tr": [
+          "Modüler dizayn sayesinde kolay kurulum ve her iki taraf ilaveye uygunluk",
+          "Mekanik kilitlemeler vasıtasıyla hatalı açma/kapama olasılığı ortadan kaldırılmıştır",
+          "Uzaktan izleme ve kumandaya yönelik teçhizat donatımına uygunluk",
+          "SF6 gazı içerisinde güvenilir anahtarlama",
+          "Taşıma ve depolama kolaylığı",
+          "Müşteri isteğine göre değişik fider kombinasyonları"
+        ],
+        "de": [
+          "Einfache Installation und Erweiterbarkeit auf beiden Seiten durch modulares Design",
+          "Mechanische Verriegelungen verhindern Fehlbedienungen beim Öffnen/Schließen",
+          "Geeignet für Fernüberwachungs- und Steuerungsgeräte",
+          "Zuverlässiges Schalten in SF6-Gas",
+          "Einfacher Transport und Lagerung",
+          "Verschiedene Abgangskombinationen nach Kundenwunsch"
+        ]
+      },
+      "specs": {
+        "Service Continuity / Servis Sürekliliği": "LSC2A-PI",
+        "Insulation / Yalıtım": "Air / Hava",
+        "Standards / Standartlar": "IEC 62271-200, IEC 62271-100, IEC 62271-102",
+        "Catalog / Katalog": "https://elkoelektrik.com.tr/wp-content/uploads/2025/09/Katalog-TR-REV.10012025.pdf"
+      },
+      "sfaUrl": "/products/elko/hava-yalitimli-moduler-hucreler"
+    },
+    {
+      "id": "metal-clad-moduler-hucreler",
+      "categoryId": "mv-switchgears",
+      "subcategoryId": null,
+      "title": {
+        "en": "Metal Clad Modular Cubicles (LSC 2B-PM)",
+        "tr": "Metal Clad Modüler Hücreler (LSC 2B-PM)",
+        "de": "Metal Clad modulare Schaltanlagen (LSC 2B-PM)"
+      },
+      "description": {
+        "en": "High-security cubicles at 12-17.5-24-36kV voltage levels with switching equipment mounted on a withdrawable truck and metal partitioning.",
+        "tr": "12-17.5-24-36kV gerilim seviyelerinde, araba üzerine bindirilmiş anahtarlama teçhizatlı ve metal bölmelendirmeli yüksek güvenlikli hücreler.",
+        "de": "Buggy-Mittelspannungsschaltanlage 12-17.5-24-36 kV mit auf Wagen montierter Ausrüstung und Metallschottung."
+      },
+      "longDescription": {
+        "en": "LSC 2B-PM (metal-clad) type cubicles manufactured by ELKO are air-insulated and metal-enclosed systems operating at 12-17.5-24-36kV voltage levels. The switching equipment is mounted on a withdrawable truck, and sections are separated by metal partitions. Type-tested at KEMA, they provide front, side, and rear access, offering the highest level of operator and system safety.",
+        "tr": "ELKO tarafından üretilen yeni tip LSC 2B-PM (metal-clad) hücreler; 12-17,5-24-36kV gerilim seviyesinde, hava yalıtımlı ve metal mahfazalıdır. Anahtarlama teçhizatı bir araba üzerine bindirilmiştir. Bölümler birbirinden metal bölmelendiriciler ile ayrılmıştır. KEMA'da tip deneyleri yapılmış olan bu hücrelere önden, yandan ve arkadan erişim mümkündür.",
+        "de": "Die von ELKO hergestellten LSC 2B-PM (metal-clad) Zellen sind luftisolierte und metallgekapselte Systeme für 12-17,5-24-36kV. Die Schaltgeräte sind auf einem ausfahrbaren Wagen montiert, und die Abteile sind durch Metallschotten getrennt. Bei KEMA typgeprüft, bieten sie Zugriff von vorne, der Seite und von hinten."
+      },
+      "image": "https://elkoelektrik.com.tr/wp-content/uploads/2023/07/mmc2.png",
+      "gallery": [
+        "https://elkoelektrik.com.tr/wp-content/uploads/2023/07/mmc2.png"
+      ],
+      "features": {
+        "en": [
+          "Maximum level of personnel and operational safety",
+          "Highest service continuity level (LSC 2B)",
+          "Easy operation and maintenance",
+          "Suitable for new cubicle additions and modifications",
+          "Fast and safe switching device replacement via withdrawable truck",
+          "Front, side, and rear access option"
+        ],
+        "tr": [
+          "Üst düzeyde personel ve işletme güvenliği",
+          "Üst düzeyde servis sürekliliği (LSC 2B)",
+          "İşletme ve bakım kolaylığı",
+          "Yeni hücre ilavelerine ve düzenlemelerine uygunluk",
+          "Araba sayesinde hızlı ve güvenli anahtarlama teçhizatı değişimi",
+          "Önden, yandan ve arkadan erişim imkanı"
+        ],
+        "de": [
+          "Höchstmaß an Personal- und Betriebssicherheit",
+          "Höchste Servicekontinuität (LSC 2B)",
+          "Einfache Bedienung und Wartung",
+          "Geeignet für nachträgliche Erweiterungen und Modifikationen",
+          "Schneller und sicherer Austausch der Schaltgeräte über ausfahrbaren Wagen",
+          "Zugriffsmöglichkeit von vorne, der Seite und von hinten"
+        ]
+      },
+      "specs": {
+        "Rated Voltage / Nominal Gerilim": "12kV / 17.5kV / 24kV / 36kV",
+        "Service Continuity / Servis Sürekliliği": "LSC 2B-PM",
+        "Access / Erişim": "Front, Side, Rear / Önden, Yandan, Arkadan",
+        "Type Tests / Tip Deneyleri": "KEMA Certified / KEMA Onaylı"
+      },
+      "sfaUrl": "/products/elko/metal-clad-moduler-hucreler"
+    },
+    {
+      "id": "yg-anahtarlama-urunleri",
+      "categoryId": "mv-switchgears",
+      "subcategoryId": null,
+      "title": {
+        "en": "High Voltage Switching Products",
+        "tr": "YG Anahtarlama Ürünleri",
+        "de": "Hochspannungs-Schaltgeräte"
+      },
+      "description": {
+        "en": "Reliable HV switching portfolio including SF6 gas circuit breakers, load break switches, rotary disconnectors, and earthing switches.",
+        "tr": "SF6 gazlı kesiciler, yük ayırıcıları, döner ayırıcılar ve topraklama ayırıcılarından oluşan güvenilir YG anahtarlama portföyü.",
+        "de": "Zuverlässiges HS-Schaltgeräte-Portfolio bestehend aus SF6-Leistungsschaltern, Lasttrennschaltern, Drehtrennschaltern und Erdungsschaltern."
+      },
+      "longDescription": {
+        "en": "ELKO's high-voltage switching product family features SF6 gas insulated circuit breakers, load break switches, disconnectors, and earthing switches. These components are designed with high dielectric strength and robust mechanisms to guarantee safe switching and isolating operations under medium voltage distribution grids.",
+        "tr": "ELKO'nun yüksek gerilim anahtarlama ürün grubu; SF6 gazlı kesiciler, gazlı yük ayırıcıları, döner ayırıcılar ve topraklama ayırıcılarından oluşur. Bu ürünler, yüksek dielektrik dayanımları ve sağlam mekanik tasarımları ile orta gerilim dağıtım şebekelerinde güvenli açma/kapama ve ayırma işlemlerini garanti eder.",
+        "de": "Die Hochspannungs-Schaltgerätefamilie von ELKO umfasst SF6-gasisolierte Leistungsschalter, Lasttrennschalter, Trennschalter und Erdungsschalter. Diese Komponenten zeichnen sich durch hohe dielektrische Festigkeit und robuste Mechanismen aus, um sichere Schalt- und Trennvorgänge in Mittelspannungsverteilungsnetzen zu gewährleisten."
+      },
+      "image": "https://elkoelektrik.com.tr/wp-content/uploads/2023/09/banner5.png",
+      "gallery": [
+        "https://elkoelektrik.com.tr/wp-content/uploads/2023/09/banner5.png",
+        "https://elkoelektrik.com.tr/wp-content/uploads/2023/07/og.png",
+        "https://elkoelektrik.com.tr/wp-content/uploads/2023/07/1221.png",
+        "https://elkoelektrik.com.tr/wp-content/uploads/2023/07/312.png",
+        "https://elkoelektrik.com.tr/wp-content/uploads/2023/07/322121.png",
+        "https://elkoelektrik.com.tr/wp-content/uploads/2023/07/123.png",
+        "https://elkoelektrik.com.tr/wp-content/uploads/2023/07/4343.png",
+        "https://elkoelektrik.com.tr/wp-content/uploads/2023/08/elkokesici.png"
+      ],
+      "features": {
+        "en": [
+          "SF6 Gas Circuit Breaker (ETK) and ELKO Gas Circuit Breaker (EGK) options",
+          "SF6 Gas Load Break Switch (with Earthing Switch - EGYA-24, EGYA-36)",
+          "SF6 Gas Disconnector (with Earthing Switch)",
+          "Rotary Disconnector and Earthing Switch solutions",
+          "Durability and safe insulation complying with international standards"
+        ],
+        "tr": [
+          "SF6 Gazlı Kesici (ETK) ve ELKO Gazlı Kesici (EGK) seçenekleri",
+          "SF6 Gazlı Yük Ayırıcısı (Toprak Bıçaklı - EGYA-24, EGYA-36)",
+          "SF6 Gazlı Ayırıcı (Toprak Bıçaklı)",
+          "Döner Ayırıcı ve Topraklama Ayırıcı çözümleri",
+          "Uluslararası standartlarda dayanıklılık ve güvenli yalıtım"
+        ],
+        "de": [
+          "Optionen für SF6-Leistungsschalter (ETK) und ELKO-Gasschalter (EGK)",
+          "SF6-Lasttrennschalter (mit Erdungsschalter - EGYA-24, EGYA-36)",
+          "SF6-Trennschalter (mit Erdungsschalter)",
+          "Drehtrennschalter und Erdungsschalterlösungen",
+          "Langlebigkeit und sichere Isolierung nach internationalen Standards"
+        ]
+      },
+      "specs": {
+        "Product Range / Ürün Gamı": "Circuit Breakers, Load Break Switches, Earthing Switches / Kesiciler, Yük Ayırıcılar, Topraklama Ayırıcıları",
+        "Arc Quenching / Ark Söndürme": "SF6 Gas / SF6 Gazı",
+        "Voltage Rating / Anma Gerilimi": "24kV / 36kV",
+        "Catalog / Katalog": "https://elkoelektrik.com.tr/wp-content/uploads/2025/09/Katalog-TR-REV.10012025.pdf"
+      },
+      "sfaUrl": "/products/elko/yg-anahtarlama-urunleri"
+    },
+    {
+      "id": "monoblok-beton-kosk-trafo-merkezi",
+      "categoryId": "transformer-substations",
+      "subcategoryId": null,
+      "title": {
+        "en": "Monoblock Concrete Kiosk Transformer Substation",
+        "tr": "Monoblok Beton Köşk Trafo Merkezi",
+        "de": "Monoblock-Betonstation Transformatorstation"
+      },
+      "description": {
+        "en": "Monoblock structures designed up to 36 kV as Distribution Centers and MV/LV Transformer Substations, certified for earthquake resistance by METU.",
+        "tr": "36 kV’a kadar Dağıtım Merkezi ve OG/AG Transformatör Merkezi olarak tasarlanmış, ODTÜ deprem dayanımlı monoblok yapılar.",
+        "de": "Monoblock-Stationen bis 36 kV als Verteilungs- und MS/NS-Transformatorstationen, zertifiziert für Erdbebensicherheit durch die METU."
+      },
+      "longDescription": {
+        "en": "Monoblock concrete kiosks manufactured by ELKO are designed as Distribution Centers and MV/LV Transformer Substations up to 36 kV. They are highly resistant to environmental factors and feature a modular foundation accommodating the bending radius of MV cables. Their structural integrity and earthquake proofness have been certified by Middle East Technical University (METU). Tested for internal arc safety, they can be securely deployed in public areas.",
+        "tr": "ELKO tarafında imal edilen Monoblok beton köşkler; 36 kV’a kadar Dağıtım Merkezi (DM) ve OG/AG Transformatör Merkezi olarak tasarlanmıştır. Çevre koşullarına son derece dayanıklı olan bu yapılar, kablo kıvrılma yarıçaplarına uygun temel tasarımına sahiptir. Depreme karşı dayanıklılığı ODTÜ tarafından belgelenmiş olup, iç ark testleri sayesinde halka açık alanlarda güvenle kullanılır.",
+        "de": "Die von ELKO hergestellten Monoblock-Betonstationen sind als Verteilungszentren und MS/NS-Transformatorstationen bis 36 kV konzipiert. Sie sind äußerst witterungsbeständig und verfügen über einen modularen Keller, der dem Biegeradius von MS-Kabeln entspricht. Ihre strukturelle Integrität und Erdbebensicherheit wurden von der Technischen Universität des Nahen Ostens (METU) zertifiziert. Auf Störlichtbogensicherheit geprüft, können sie sicher in öffentlichen Bereichen aufgestellt werden."
+      },
+      "image": "https://elkoelektrik.com.tr/wp-content/uploads/2023/07/trafo.png",
+      "gallery": [
+        "https://elkoelektrik.com.tr/wp-content/uploads/2023/07/trafo.png"
+      ],
+      "features": {
+        "en": [
+          "High resistance to negative environmental conditions",
+          "Tank/foundation section conforms to cable bending radius",
+          "Easy dispatch and relocation thanks to monoblock design",
+          "Earthquake resistance certified by Middle East Technical University (METU)",
+          "Safety guaranteed with Internal Arc tests (Access A and B)",
+          "Robust body with C35 concrete class and ribbed steel reinforcement"
+        ],
+        "tr": [
+          "Çevre koşullarının olumsuz etkilerine karşı yüksek dayanıklılık",
+          "Tank/temel bölümü kablo kıvrılma yarıçapına uygundur",
+          "Monoblok yapısı sayesinde kolay sevk ve yeniden konumlandırma",
+          "Ortadoğu Teknik Üniversitesi (ODTÜ) onaylı deprem dayanımı",
+          "İç Ark Deneyleri (Erişim A ve B) ile can güvenliği",
+          "C35 sınıf hazır beton ve nervürlü çelik donatılar ile sağlam gövde"
+        ],
+        "de": [
+          "Hohe Beständigkeit gegen negative Umwelteinflüsse",
+          "Kabelkeller-Bereich entspricht dem Biegeradius der Kabel",
+          "Einfacher Transport und Standortwechsel dank Monoblock-Bauweise",
+          "Erdbebensicherheit zertifiziert durch die Technische Universität des Nahen Ostens (METU)",
+          "Personensicherheit gewährleistet durch Störlichtbogenprüfungen (Klasse A und B)",
+          "Robuster Körper aus C35-Beton und gerippter Stahlbewehrung"
+        ]
+      },
+      "specs": {
+        "Voltage Rating / Gerilim Sınıfı": "Up to 36 kV / 36 kV'a kadar",
+        "Concrete Class / Beton Sınıfı": "C35 (TS EN 206-1)",
+        "Steel Class / Çelik Sınıfı": "TS 708",
+        "Seismic / Deprem Dayanımı": "METU Certified / ODTÜ Onaylı"
+      },
+      "sfaUrl": "/products/elko/monoblok-beton-kosk-trafo-merkezi"
+    },
+    {
+      "id": "prefabrik-beton-kosk-trafo-merkezi",
+      "categoryId": "transformer-substations",
+      "subcategoryId": null,
+      "title": {
+        "en": "Prefabricated Concrete Kiosk Transformer Substation",
+        "tr": "Prefabrik Beton Köşk Trafo Merkezi",
+        "de": "Prefabricated Concrete Kiosk Transformer Substation"
+      },
+      "description": {
+        "en": "Modular, flexible and high-volume substations formed by assembling prefabricated concrete components on site.",
+        "tr": "Prefabrik beton yapı elemanlarının sahada birleştirilmesiyle oluşturulan modüler, esnek ve geniş hacimli trafo merkezleri.",
+        "de": "Modulare, flexible und großvolumige Stationen, die durch Montage von Betonfertigteilen vor Ort entstehen."
+      },
+      "longDescription": {
+        "en": "ELKO prefabricated concrete substations are built by joining prefabricated concrete elements on-site. Their modular architecture allows flexible layouts and easy expansions, making them perfect for spacious distribution centers or MV/LV distribution transformer stations. Designed for indoor operation, their structural stability is verified by seismic simulations and static calculations.",
+        "tr": "ELKO prefabrik beton köşkler, prefabrik yapı elemanlarının sahada bir araya getirilmesi ile oluşturulur. Modüler yapısı sayesinde esnek yerleşim planlarına imkan tanır ve kolayca genişletilebilir. İçeriden işletmeli olarak tasarlanan bu köşklerin depreme karşı dayanıklılığı statik hesaplamalarla belgelenmiştir.",
+        "de": "Die vorgefertigten Betonstationen von ELKO werden durch das Zusammenfügen von Betonfertigteilen vor Ort errichtet. Ihre modulare Architektur ermöglicht flexible Grundrisse und einfache Erweiterungen, ideal für geräumige Verteilerzentren oder MS/NS-Transformatorstationen. Konzipiert für den Innenbetrieb, ist ihre strukturelle Stabilität durch seismische Simulationen und statische Berechnungen nachgewiesen."
+      },
+      "image": "https://elkoelektrik.com.tr/wp-content/uploads/2023/07/banner2-1.png",
+      "gallery": [
+        "https://elkoelektrik.com.tr/wp-content/uploads/2023/07/banner2-1.png"
+      ],
+      "features": {
+        "en": [
+          "Modular and flexible installation with prefabricated components",
+          "Enables different layouts and configurations",
+          "Indoor operated type design",
+          "High strength with C35 ready-mix concrete and ribbed steel",
+          "Earthquake resistance verified by simulations and static calculations",
+          "2mm galvanized steel doors and ventilation panels with electrostatic powder paint"
+        ],
+        "tr": [
+          "Prefabrik yapı elemanları ile modüler ve esnek kurulum",
+          "Farklı yerleşim planlarına ve genişletmelere imkan tanır",
+          "İçeriden işletmeli tip tasarım",
+          "C35 hazır beton ve nervürlü çelik ile yüksek mukavemet",
+          "Deprem dayanıklılığı simülasyon ve statik hesaplarla belgelidir",
+          "Kapı ve havalandırmalarda 2mm galvanizli sac ve elektrostatik toz boya"
+        ],
+        "de": [
+          "Modulare und flexible Installation mit Betonfertigteilen",
+          "Ermöglicht verschiedene Layouts und Konfigurationen",
+          "Innenbedienbare Ausführung",
+          "Hohe Festigkeit durch C35 Transportbeton und gerippten Stahl",
+          "Erdbebensicherheit durch Simulationen und statische Berechnungen nachgewiesen",
+          "Türen und Lüftungsgitter aus 2 mm verzinktem Stahl mit elektrostatischer Pulverbeschichtung"
+        ]
+      },
+      "specs": {
+        "Type / Tip": "Indoor Operated / İçeriden İşletmeli",
+        "Concrete Class / Beton Sınıfı": "C35 (TS EN 206-1)",
+        "Steel / Çelik Donatı": "TS 708",
+        "Door Panels / Kapı ve Paneller": "2mm Galvanized Steel / Galvanizli Sac"
+      },
+      "sfaUrl": "/products/elko/prefabrik-beton-kosk-trafo-merkezi"
+    },
+    {
+      "id": "sac-kosk-trafo-merkezi",
+      "categoryId": "transformer-substations",
+      "subcategoryId": null,
+      "title": {
+        "en": "Sheet Metal Kiosk Transformer Substation",
+        "tr": "Sac Köşk Trafo Merkezi",
+        "de": "Blechgehäuse Transformatorstation"
+      },
+      "description": {
+        "en": "ECSS type durable switchgear centers manufactured from galvanized sheet metal without welding, comprising MV, LV, and transformer compartments.",
+        "tr": "ECSS tip, kaynak kullanılmadan galvanizli sacdan imal edilen, OG hücre, AG pano ve dağıtım transformatörü bölümlerinden oluşan dayanıklı şalt merkezleri.",
+        "de": "Robuste Stationen vom Typ ECSS, hergestellt aus verzinktem Stahlblech ohne Schweißnähte, aufgeteilt in MS-, NS- und Transformatorbereiche."
+      },
+      "longDescription": {
+        "en": "ELKO ECSS type sheet metal substations are metal-enclosed MV/LV distribution transformer centers. The enclosure is manufactured from 2mm galvanized sheet steel and electrostatic powder painted. To prevent corrosion, the assembly is constructed entirely without welding. It contains separate compartments for MV Cubicles, LV Panels, and the Distribution Transformer, integrated with equipotential grounding for safety.",
+        "tr": "ELKO sac köşkler, ECSS tip metal mahfazalı OG/AG Dağıtım Transformatör Merkezleridir. Mahfaza, 2mm kalınlığında hazır galvanizli sacdan imal edilir ve elektrostatik toz boya ile boyanır. Paslanmayı önlemek için kaynak kullanılmadan üretilen bu köşkler; OG Hücre, AG Pano ve Dağıtım Transformatörü bölümlerini içerir ve eş potansiyel topraklama ile tam güvenlik sağlar.",
+        "de": "Die Blechgehäusestationen vom Typ ELKO ECSS sind metallgekapselte MS/NS-Verteiltransformatorstationen. Das Gehäuse wird aus 2 mm verzinktem Stahlblech hergestellt und elektrostatisch pulverbeschichtet. Um Korrosion zu verhindern, wird die Struktur komplett schweißnahtfrei montiert. Sie enthält getrennte Bereiche für MS-Schaltanlagen, NS-Verteiler und den Transformator, kombiniert mit einem Potenzialausgleich für maximale Sicherheit."
+      },
+      "image": "https://elkoelektrik.com.tr/wp-content/uploads/2023/07/trafo.png",
+      "gallery": [
+        "https://elkoelektrik.com.tr/wp-content/uploads/2023/07/trafo.png"
+      ],
+      "features": {
+        "en": [
+          "2mm galvanized sheet steel enclosure assembled without welding, electrostatic powder painted",
+          "Outdoor and indoor operated configuration options",
+          "Integrates MV Cubicle, LV Panel, and Transformer compartments",
+          "Full electrical safety with equipotential grounding connections",
+          "Corrosion-resistant protection against harsh weather conditions"
+        ],
+        "tr": [
+          "2mm hazır galvanizli sac ve elektrostatik boyalı kaynak kullanılmayan mahfaza",
+          "Dışarıdan ve içeriden işletilebilen tip seçenekleri",
+          "OG Hücre, AG Pano ve Trafo bölümlerini bir arada barındırır",
+          "Eş potansiyel topraklama ile tam elektriksel güvenlik",
+          "Zorlu iklim koşullarına karşı korozyona dayanıklı koruma"
+        ],
+        "de": [
+          "Gehäuse aus 2 mm verzinktem Stahlblech ohne Schweißnähte, elektrostatisch pulverbeschichtet",
+          "Optionen für Außen- und Innenbedienung",
+          "Integriert MS-Schaltfeld, NS-Verteiler und Transformatorraum",
+          "Vollständige elektrische Sicherheit durch Potenzialausgleich",
+          "Corrosion-resistant protection against harsh weather conditions"
+        ]
+      },
+      "specs": {
+        "Thickness / Sac Kalınlığı": "2 mm",
+        "Structure / Yapı": "Non-welded Galvanized / Kaynaksız Galvaniz",
+        "Operations / İşletim": "Indoor or Outdoor / İçeriden veya Dışarıdan",
+        "Compartments / Bölümler": "MV, LV, Transformer / OG, AG, Trafo"
+      },
+      "sfaUrl": "/products/elko/sac-kosk-trafo-merkezi"
+    },
+    {
+      "id": "mobil-trafo-merkezi",
+      "categoryId": "transformer-substations",
+      "subcategoryId": null,
+      "title": {
+        "en": "Mobile Transformer Substation",
+        "tr": "Mobil Trafo Merkezi",
+        "de": "Mobile Transformatorstation"
+      },
+      "description": {
+        "en": "Mobile substations designed for temporary construction sites, disaster areas, or maintenance bypasses by mounting switchgear and transformers on a trailer.",
+        "tr": "Şalt cihazları ve transformatörün treyler üzerine montajı ile geçici şantiyeler, afet bölgeleri veya bakım arızaları için tasarlanan seyyar trafo merkezleri.",
+        "de": "Mobile Transformatorstationen auf Sattelaufliegern für Baustellen, Katastrophengebiete oder Wartungseinsätze."
+      },
+      "longDescription": {
+        "en": "ELKO mobile transformer substations combine all the electrical apparatus of a substation onto a heavy-duty trailer towed by a suitable vehicle. Designed to ensure electricity continuity during utility repairs, natural disasters, or temporary construction demands, they are custom-built in HV/MV, MV/MV, or MV/LV configurations up to 31.5 MVA.",
+        "tr": "ELKO Mobil Trafo Merkezleri, bir trafo merkezinde bulunması gereken tüm şalt cihazları ve transformatörün uygun kapasitedeki bir treyler üzerine montajı ile seyyar hale getirilmiş sistemlerdir. Arıza, yenileme veya doğal afetlerde enerji sürekliliği sağlamak amacıyla; YG/OG, OG/OG veya OG/AG konfigürasyonlarında 31.5 MVA güce kadar imal edilebilir.",
+        "de": "Die mobilen Transformatorstationen von ELKO vereinen alle Geräte einer Station auf einem robusten Sattelauflieger. Sie sichern die Stromversorgung bei Reparaturen, Naturkatastrophen oder Baustelleneinsätzen und werden in HS/MS-, MS/MS- oder MS/NS-Ausführungen mit Leistungen bis zu 31,5 MVA maßgeschneidert gefertigt."
+      },
+      "image": "https://elkoelektrik.com.tr/wp-content/uploads/2023/07/mobilesub.png",
+      "gallery": [
+        "https://elkoelektrik.com.tr/wp-content/uploads/2023/07/mobilesub.png",
+        "https://elkoelektrik.com.tr/wp-content/uploads/2023/07/8060-1024x683.jpg"
+      ],
+      "features": {
+        "en": [
+          "Ensures power continuity during faults or system upgrades",
+          "Fast energy recovery in case of natural disasters or sudden load increases",
+          "Ideal mobile solution for large construction sites and temporary industrial areas",
+          "HV/MV, MV/MV, and MV/LV design combinations based on requirements",
+          "Manufactured up to a capacity of 31.5 MVA"
+        ],
+        "tr": [
+          "Arıza veya yenileme sırasında enerji sürekliliği sağlar",
+          "Doğal afetlerde veya yük artışlarında hızlı enerji desteği",
+          "Büyük şantiye ve geçici endüstriyel tesisler için ideal seyyar çözüm",
+          "Kullanıcı isteklerine göre YG/OG, OG/OG, OG/AG tasarımlar",
+          "31.5 MVA güce kadar imal edilebilirlik"
+        ],
+        "de": [
+          "Sichert die Stromversorgung bei Ausfällen oder Netzmodernisierungen",
+          "Schnelle Notstromversorgung bei Naturkatastrophen oder Überlastungen",
+          "Ideale mobile Lösung für Großbaustellen und temporäre Industrieanlagen",
+          "HS/MS-, MS/MS- und MS/NS-Ausführungen nach Bedarf",
+          "Hergestellt für Leistungen bis zu 31,5 MVA"
+        ]
+      },
+      "specs": {
+        "Max Capacity / Maksimum Güç": "31.5 MVA",
+        "Configurations / Çıkışlar": "HV/MV, MV/MV, MV/LV / YG/OG, OG/OG, OG/AG",
+        "Mobility / Mobilite": "Trailer Integrated / Treyler Entegre",
+        "Applications / Alanlar": "Disaster Relief, Construction, Maintenance / Afetler, Şantiyeler, Bakım"
+      },
+      "sfaUrl": "/products/elko/mobil-trafo-merkezi"
+    }
+  ]
+}

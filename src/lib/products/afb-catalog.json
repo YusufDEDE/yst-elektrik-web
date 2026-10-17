@@ -1,0 +1,1846 @@
+{
+  "categories": [
+    {
+      "id": "ag-guc-dagitim",
+      "name": {
+        "en": "LV Power Distribution & Control Systems",
+        "tr": "AG Güç Dağıtım ve Kontrol Sistemleri",
+        "de": "NS-Stromverteilung & Steuerungssysteme"
+      },
+      "image": "/assets/images/products/afb/ag-guc-dagitim.jpg",
+      "sfaUrl": "/products/afb",
+      "subcategories": []
+    },
+    {
+      "id": "sebeke-enerji-dagitim",
+      "name": {
+        "en": "Grid Energy Distribution Systems",
+        "tr": "Şebeke Enerji Dağıtım Sistemleri",
+        "de": "Netz-Energieverteilungssysteme"
+      },
+      "image": "/assets/images/products/afb/sebeke-enerji-dagitim.jpg",
+      "sfaUrl": "/products/afb",
+      "subcategories": []
+    },
+    {
+      "id": "trafo-merkezi",
+      "name": {
+        "en": "Substation Enclosure Applications",
+        "tr": "Sac - Beton Trafo Merkezi Uygulamaları",
+        "de": "Umspannwerk-Gehäuseanwendungen"
+      },
+      "image": "/assets/images/products/afb/trafo-merkezi.jpg",
+      "sfaUrl": "/products/afb",
+      "subcategories": []
+    },
+    {
+      "id": "power-plant",
+      "name": {
+        "en": "Power Plant Applications",
+        "tr": "Power Plant Uygulamaları",
+        "de": "Kraftwerksanwendungen"
+      },
+      "image": "/assets/images/products/afb/power-plant.jpg",
+      "sfaUrl": "/products/afb",
+      "subcategories": []
+    },
+    {
+      "id": "ev-charger",
+      "name": {
+        "en": "EV Charger (UMAY)",
+        "tr": "EV Charger (UMAY)",
+        "de": "EV-Ladestationen (UMAY)"
+      },
+      "image": "/assets/images/products/afb/ev-charger.jpg",
+      "sfaUrl": "/products/afb",
+      "subcategories": []
+    }
+  ],
+  "products": [
+    {
+      "id": "1a-dikili-tip-bos-ag-panolari",
+      "categoryId": "ag-guc-dagitim",
+      "subcategoryId": null,
+      "title": {
+        "tr": "1A – Dikili Tip (Boş) AG Panoları",
+        "en": "1A – Free-Standing Type (Empty) LV Panels",
+        "de": "1A – Freistehender Typ (Leer) Niederspannungsverteiler"
+      },
+      "description": {
+        "tr": "1A – Dikili Tip (Boş) AG Panoları - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "1A – Free-Standing Type (Empty) LV Panels - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "1A – Freistehender Typ (Leer) Niederspannungsverteiler - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 1A – Dikili Tip (Boş) AG Panoları, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 1A – Free-Standing Type (Empty) LV Panels offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 1A – Freistehender Typ (Leer) Niederspannungsverteiler ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1778164584-4030.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1778164584-4030.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/1a-dikili-tip-bos-ag-panolari"
+    },
+    {
+      "id": "1b",
+      "categoryId": "ag-guc-dagitim",
+      "subcategoryId": null,
+      "title": {
+        "tr": "1B – Dikili Tip (Montajlı) AG Panoları",
+        "en": "1B – Free-Standing Type (Assembled) LV Panels",
+        "de": "1B – Freistehender Typ (Montiert) Niederspannungsverteiler"
+      },
+      "description": {
+        "tr": "1B – Dikili Tip (Montajlı) AG Panoları - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "1B – Free-Standing Type (Assembled) LV Panels - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "1B – Freistehender Typ (Montiert) Niederspannungsverteiler - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 1B – Dikili Tip (Montajlı) AG Panoları, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 1B – Free-Standing Type (Assembled) LV Panels offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 1B – Freistehender Typ (Montiert) Niederspannungsverteiler ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1776426587-4348.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1776426587-4348.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/1b"
+    },
+    {
+      "id": "1c",
+      "categoryId": "ag-guc-dagitim",
+      "subcategoryId": null,
+      "title": {
+        "tr": "1C – MCC Panoları",
+        "en": "1C – MCC Panels",
+        "de": "1C – MCC Schaltschränke"
+      },
+      "description": {
+        "tr": "1C – MCC Panoları - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "1C – MCC Panels - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "1C – MCC Schaltschränke - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 1C – MCC Panoları, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 1C – MCC Panels offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 1C – MCC Schaltschränke ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1776426606-7333.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1776426606-7333.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/1c"
+    },
+    {
+      "id": "1d_",
+      "categoryId": "ag-guc-dagitim",
+      "subcategoryId": null,
+      "title": {
+        "tr": "1D – eVArQ Marka Komponzasyon Panoları",
+        "en": "1D – eVArQ Brand Komponzasyon Panels",
+        "de": "1D – eVArQ Marke Komponzasyon Schaltschränke"
+      },
+      "description": {
+        "tr": "1D – eVArQ Marka Komponzasyon Panoları - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "1D – eVArQ Brand Komponzasyon Panels - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "1D – eVArQ Marke Komponzasyon Schaltschränke - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 1D – eVArQ Marka Komponzasyon Panoları, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 1D – eVArQ Brand Komponzasyon Panels offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 1D – eVArQ Marke Komponzasyon Schaltschränke ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1776426634-6718.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1776426634-6718.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/1d_"
+    },
+    {
+      "id": "1d_2",
+      "categoryId": "ag-guc-dagitim",
+      "subcategoryId": null,
+      "title": {
+        "tr": "1D – eVArQ Marka Dinamik Kompanzasyon Panoları Küçük Güçlü Tesisler için",
+        "en": "1D – eVArQ Brand Dynamic Compensation Panels for Small Power Facilities",
+        "de": "1D – eVArQ Marke Dynamische Kompensation Schaltschränke für Kleinleistungsanlagen"
+      },
+      "description": {
+        "tr": "1D – eVArQ Marka Dinamik Kompanzasyon Panoları Küçük Güçlü Tesisler için - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "1D – eVArQ Brand Dynamic Compensation Panels for Small Power Facilities - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "1D – eVArQ Marke Dynamische Kompensation Schaltschränke für Kleinleistungsanlagen - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 1D – eVArQ Marka Dinamik Kompanzasyon Panoları Küçük Güçlü Tesisler için, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 1D – eVArQ Brand Dynamic Compensation Panels for Small Power Facilities offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 1D – eVArQ Marke Dynamische Kompensation Schaltschränke für Kleinleistungsanlagen ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1776426662-1775.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1776426662-1775.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/1d_2"
+    },
+    {
+      "id": "1e",
+      "categoryId": "ag-guc-dagitim",
+      "subcategoryId": null,
+      "title": {
+        "tr": "1E – Ameliyathane Panoları",
+        "en": "1E – Operating Room Panels",
+        "de": "1E – Operationssaal Schaltschränke"
+      },
+      "description": {
+        "tr": "1E – Ameliyathane Panoları - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "1E – Operating Room Panels - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "1E – Operationssaal Schaltschränke - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 1E – Ameliyathane Panoları, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 1E – Operating Room Panels offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 1E – Operationssaal Schaltschränke ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1776426725-5299.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1776426725-5299.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/1e"
+    },
+    {
+      "id": "1f",
+      "categoryId": "ag-guc-dagitim",
+      "subcategoryId": null,
+      "title": {
+        "tr": "1F – Güneş Enerji Sistemleri Panoları",
+        "en": "1F – Solar Energy Systems Panels",
+        "de": "1F – Solarenergiesysteme Schaltschränke"
+      },
+      "description": {
+        "tr": "1F – Güneş Enerji Sistemleri Panoları - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "1F – Solar Energy Systems Panels - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "1F – Solarenergiesysteme Schaltschränke - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 1F – Güneş Enerji Sistemleri Panoları, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 1F – Solar Energy Systems Panels offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 1F – Solarenergiesysteme Schaltschränke ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1776426745-6401.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1776426745-6401.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/1f"
+    },
+    {
+      "id": "1g1",
+      "categoryId": "ag-guc-dagitim",
+      "subcategoryId": null,
+      "title": {
+        "tr": "1G1 – Batarya Combiner Panoları",
+        "en": "1G1 – Battery Combiner Panels",
+        "de": "1G1 – Batterie-Combiner Schaltschränke"
+      },
+      "description": {
+        "tr": "1G1 – Batarya Combiner Panoları - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "1G1 – Battery Combiner Panels - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "1G1 – Batterie-Combiner Schaltschränke - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 1G1 – Batarya Combiner Panoları, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 1G1 – Battery Combiner Panels offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 1G1 – Batterie-Combiner Schaltschränke ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1778833563-3995.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1778833563-3995.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/1g1"
+    },
+    {
+      "id": "1G2A",
+      "categoryId": "ag-guc-dagitim",
+      "subcategoryId": null,
+      "title": {
+        "tr": "1G2A - Batarya Kabini (Dahili Tip)",
+        "en": "1G2A - Battery Cabinet (Indoor Type)",
+        "de": "1G2A - Batterieschrank (Innenbereichstyp)"
+      },
+      "description": {
+        "tr": "1G2A - Batarya Kabini (Dahili Tip) - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "1G2A - Battery Cabinet (Indoor Type) - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "1G2A - Batterieschrank (Innenbereichstyp) - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 1G2A - Batarya Kabini (Dahili Tip), üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 1G2A - Battery Cabinet (Indoor Type) offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 1G2A - Batterieschrank (Innenbereichstyp) ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1778911872-1215.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1778911872-1215.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/1G2A"
+    },
+    {
+      "id": "1G2B",
+      "categoryId": "ag-guc-dagitim",
+      "subcategoryId": null,
+      "title": {
+        "tr": "1G2B - Batarya Kabini (Harici Tip)",
+        "en": "1G2B - Battery Cabinet (Outdoor Type)",
+        "de": "1G2B - Batterieschrank (Außenbereichstyp)"
+      },
+      "description": {
+        "tr": "1G2B - Batarya Kabini (Harici Tip) - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "1G2B - Battery Cabinet (Outdoor Type) - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "1G2B - Batterieschrank (Außenbereichstyp) - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 1G2B - Batarya Kabini (Harici Tip), üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 1G2B - Battery Cabinet (Outdoor Type) offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 1G2B - Batterieschrank (Außenbereichstyp) ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1778833539-7995.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1778833539-7995.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/1G2B"
+    },
+    {
+      "id": "1h1",
+      "categoryId": "ag-guc-dagitim",
+      "subcategoryId": null,
+      "title": {
+        "tr": "1H1 - Elektrikli Araç Şarj Besleme Panosu",
+        "en": "1H1 - Electric Vehicle Charger Power Supply Panel",
+        "de": "1H1 - Ladeleistungsschrank für Elektrofahrzeuge Schaltschrank"
+      },
+      "description": {
+        "tr": "1H1 - Elektrikli Araç Şarj Besleme Panosu - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "1H1 - Electric Vehicle Charger Power Supply Panel - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "1H1 - Ladeleistungsschrank für Elektrofahrzeuge Schaltschrank - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 1H1 - Elektrikli Araç Şarj Besleme Panosu, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 1H1 - Electric Vehicle Charger Power Supply Panel offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 1H1 - Ladeleistungsschrank für Elektrofahrzeuge Schaltschrank ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1778163452-8101.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1778163452-8101.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/1h1"
+    },
+    {
+      "id": "1h2",
+      "categoryId": "ag-guc-dagitim",
+      "subcategoryId": null,
+      "title": {
+        "tr": "1H2 - Elektrikli Araç Şarj Cihazı İçin Dinamik Yük Paylaşımı",
+        "en": "1H2 - Dynamic Load Sharing for EV Chargers",
+        "de": "1H2 - Dynamische Lastverteilung für EV-Ladegeräte"
+      },
+      "description": {
+        "tr": "1H2 - Elektrikli Araç Şarj Cihazı İçin Dinamik Yük Paylaşımı - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "1H2 - Dynamic Load Sharing for EV Chargers - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "1H2 - Dynamische Lastverteilung für EV-Ladegeräte - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 1H2 - Elektrikli Araç Şarj Cihazı İçin Dinamik Yük Paylaşımı, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 1H2 - Dynamic Load Sharing for EV Chargers offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 1H2 - Dynamische Lastverteilung für EV-Ladegeräte ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1778163462-3728.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1778163462-3728.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/1h2"
+    },
+    {
+      "id": "2a",
+      "categoryId": "ag-guc-dagitim",
+      "subcategoryId": null,
+      "title": {
+        "tr": "2A - Duvar Tipi Boş AG Panoları",
+        "en": "2A - Wall-Mounted Type Empty LV Panels",
+        "de": "2A - Wandmontierter Typ Leer Niederspannungsverteiler"
+      },
+      "description": {
+        "tr": "2A - Duvar Tipi Boş AG Panoları - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "2A - Wall-Mounted Type Empty LV Panels - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "2A - Wandmontierter Typ Leer Niederspannungsverteiler - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 2A - Duvar Tipi Boş AG Panoları, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 2A - Wall-Mounted Type Empty LV Panels offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 2A - Wandmontierter Typ Leer Niederspannungsverteiler ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1778162385-9989.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1778162385-9989.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/2a"
+    },
+    {
+      "id": "2b",
+      "categoryId": "ag-guc-dagitim",
+      "subcategoryId": null,
+      "title": {
+        "tr": "2B - Duvar Tipi (Montajlı) AG Panoları",
+        "en": "2B - Wall-Mounted Type (Assembled) LV Panels",
+        "de": "2B - Wandmontierter Typ (Montiert) Niederspannungsverteiler"
+      },
+      "description": {
+        "tr": "2B - Duvar Tipi (Montajlı) AG Panoları - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "2B - Wall-Mounted Type (Assembled) LV Panels - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "2B - Wandmontierter Typ (Montiert) Niederspannungsverteiler - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 2B - Duvar Tipi (Montajlı) AG Panoları, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 2B - Wall-Mounted Type (Assembled) LV Panels offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 2B - Wandmontierter Typ (Montiert) Niederspannungsverteiler ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1778162398-5382.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1778162398-5382.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/2b"
+    },
+    {
+      "id": "4a",
+      "categoryId": "sebeke-enerji-dagitim",
+      "subcategoryId": null,
+      "title": {
+        "tr": "4A / Penda Tipi Dahili Panolar",
+        "en": "4A / Penda Tipi Dahili Panolar",
+        "de": "4A / Penda Tipi Dahili Panolar"
+      },
+      "description": {
+        "tr": "4A / Penda Tipi Dahili Panolar - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "4A / Penda Tipi Dahili Panolar - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "4A / Penda Tipi Dahili Panolar - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 4A / Penda Tipi Dahili Panolar, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 4A / Penda Tipi Dahili Panolar offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 4A / Penda Tipi Dahili Panolar ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1776428374-2637.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1776428374-2637.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP54 / IP55",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/4a"
+    },
+    {
+      "id": "4b",
+      "categoryId": "sebeke-enerji-dagitim",
+      "subcategoryId": null,
+      "title": {
+        "tr": "4B / Penda Tipi Harici Panolar",
+        "en": "4B / Penda Tipi Harici Panolar",
+        "de": "4B / Penda Tipi Harici Panolar"
+      },
+      "description": {
+        "tr": "4B / Penda Tipi Harici Panolar - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "4B / Penda Tipi Harici Panolar - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "4B / Penda Tipi Harici Panolar - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 4B / Penda Tipi Harici Panolar, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 4B / Penda Tipi Harici Panolar offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 4B / Penda Tipi Harici Panolar ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1776428558-5252.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1776428558-5252.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP54 / IP55",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/4b"
+    },
+    {
+      "id": "4c-d",
+      "categoryId": "sebeke-enerji-dagitim",
+      "subcategoryId": null,
+      "title": {
+        "tr": "4C-D SAC / Penda Tipi Saha Dağıtım Kutuları tipA, tipB",
+        "en": "4C-D SAC / Penda Tipi Field Distribution Boxes tipA, tipB",
+        "de": "4C-D SAC / Penda Tipi Feldverteilerkästen tipA, tipB"
+      },
+      "description": {
+        "tr": "4C-D SAC / Penda Tipi Saha Dağıtım Kutuları tipA, tipB - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "4C-D SAC / Penda Tipi Field Distribution Boxes tipA, tipB - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "4C-D SAC / Penda Tipi Feldverteilerkästen tipA, tipB - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 4C-D SAC / Penda Tipi Saha Dağıtım Kutuları tipA, tipB, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 4C-D SAC / Penda Tipi Field Distribution Boxes tipA, tipB offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 4C-D SAC / Penda Tipi Feldverteilerkästen tipA, tipB ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1779536819-4083.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1779536819-4083.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP54 / IP55",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/4c-d"
+    },
+    {
+      "id": "4c-d-ctp",
+      "categoryId": "sebeke-enerji-dagitim",
+      "subcategoryId": null,
+      "title": {
+        "tr": "4C-D CTP / Penda Tipi Saha Dağıtım Kutuları tipA, tipB",
+        "en": "4C-D CTP / Penda Tipi Field Distribution Boxes tipA, tipB",
+        "de": "4C-D CTP / Penda Tipi Feldverteilerkästen tipA, tipB"
+      },
+      "description": {
+        "tr": "4C-D CTP / Penda Tipi Saha Dağıtım Kutuları tipA, tipB - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "4C-D CTP / Penda Tipi Field Distribution Boxes tipA, tipB - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "4C-D CTP / Penda Tipi Feldverteilerkästen tipA, tipB - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 4C-D CTP / Penda Tipi Saha Dağıtım Kutuları tipA, tipB, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 4C-D CTP / Penda Tipi Field Distribution Boxes tipA, tipB offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 4C-D CTP / Penda Tipi Feldverteilerkästen tipA, tipB ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1779536331-3254.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1779536331-3254.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP54 / IP55",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/4c-d-ctp"
+    },
+    {
+      "id": "4e-penda-tipi-asop-saha-dağıtım-kutuları",
+      "categoryId": "sebeke-enerji-dagitim",
+      "subcategoryId": null,
+      "title": {
+        "tr": "4E / Penda Tipi ASOP Saha Dağıtım Kutuları",
+        "en": "4E / Penda Tipi ASOP Field Distribution Boxes",
+        "de": "4E / Penda Tipi ASOP Feldverteilerkästen"
+      },
+      "description": {
+        "tr": "4E / Penda Tipi ASOP Saha Dağıtım Kutuları - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "4E / Penda Tipi ASOP Field Distribution Boxes - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "4E / Penda Tipi ASOP Feldverteilerkästen - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 4E / Penda Tipi ASOP Saha Dağıtım Kutuları, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 4E / Penda Tipi ASOP Field Distribution Boxes offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 4E / Penda Tipi ASOP Feldverteilerkästen ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1776428636-4186.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1776428636-4186.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP54 / IP55",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/4e-penda-tipi-asop-saha-dağıtım-kutuları"
+    },
+    {
+      "id": "4f",
+      "categoryId": "sebeke-enerji-dagitim",
+      "subcategoryId": null,
+      "title": {
+        "tr": "4F SAC / Penda Tipi Aydınlatma Panoları",
+        "en": "4F SAC / Penda Tipi Aydınlatma Panels",
+        "de": "4F SAC / Penda Tipi Aydınlatma Schaltschränke"
+      },
+      "description": {
+        "tr": "4F SAC / Penda Tipi Aydınlatma Panoları - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "4F SAC / Penda Tipi Aydınlatma Panels - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "4F SAC / Penda Tipi Aydınlatma Schaltschränke - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 4F SAC / Penda Tipi Aydınlatma Panoları, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 4F SAC / Penda Tipi Aydınlatma Panels offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 4F SAC / Penda Tipi Aydınlatma Schaltschränke ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1779537073-3970.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1779537073-3970.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP54 / IP55",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/4f"
+    },
+    {
+      "id": "4f-ctp",
+      "categoryId": "sebeke-enerji-dagitim",
+      "subcategoryId": null,
+      "title": {
+        "tr": "4F CTP / Penda Tipi Aydınlatma Panoları",
+        "en": "4F CTP / Penda Tipi Aydınlatma Panels",
+        "de": "4F CTP / Penda Tipi Aydınlatma Schaltschränke"
+      },
+      "description": {
+        "tr": "4F CTP / Penda Tipi Aydınlatma Panoları - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "4F CTP / Penda Tipi Aydınlatma Panels - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "4F CTP / Penda Tipi Aydınlatma Schaltschränke - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 4F CTP / Penda Tipi Aydınlatma Panoları, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 4F CTP / Penda Tipi Aydınlatma Panels offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 4F CTP / Penda Tipi Aydınlatma Schaltschränke ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1779536643-9162.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1779536643-9162.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP54 / IP55",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/4f-ctp"
+    },
+    {
+      "id": "5a",
+      "categoryId": "trafo-merkezi",
+      "subcategoryId": null,
+      "title": {
+        "tr": "5A / 1kV Sac Trafo Merkezleri",
+        "en": "5A / 1kV Sheet Metal Substations",
+        "de": "5A / 1kV Blech-Transformatorenstationen"
+      },
+      "description": {
+        "tr": "5A / 1kV Sac Trafo Merkezleri - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "5A / 1kV Sheet Metal Substations - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "5A / 1kV Blech-Transformatorenstationen - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 5A / 1kV Sac Trafo Merkezleri, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 5A / 1kV Sheet Metal Substations offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 5A / 1kV Blech-Transformatorenstationen ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1776428675-4112.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1776428675-4112.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/5a"
+    },
+    {
+      "id": "5b",
+      "categoryId": "trafo-merkezi",
+      "subcategoryId": null,
+      "title": {
+        "tr": "5B / 11kV - 24kV - 36kV Sac Trafo Merkezleri",
+        "en": "5B / 11kV - 24kV - 36kV Sheet Metal Substations",
+        "de": "5B / 11kV - 24kV - 36kV Blech-Transformatorenstationen"
+      },
+      "description": {
+        "tr": "5B / 11kV - 24kV - 36kV Sac Trafo Merkezleri - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "5B / 11kV - 24kV - 36kV Sheet Metal Substations - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "5B / 11kV - 24kV - 36kV Blech-Transformatorenstationen - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 5B / 11kV - 24kV - 36kV Sac Trafo Merkezleri, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 5B / 11kV - 24kV - 36kV Sheet Metal Substations offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 5B / 11kV - 24kV - 36kV Blech-Transformatorenstationen ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1776428709-1947.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1776428709-1947.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/5b"
+    },
+    {
+      "id": "5b-m",
+      "categoryId": "trafo-merkezi",
+      "subcategoryId": null,
+      "title": {
+        "tr": "5B-M / Mobil Sac Trafo Merkezi",
+        "en": "5B-M / Mobile Sheet Metal Substation",
+        "de": "5B-M / Mobile Blech-Transformatorstation"
+      },
+      "description": {
+        "tr": "5B-M / Mobil Sac Trafo Merkezi - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "5B-M / Mobile Sheet Metal Substation - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "5B-M / Mobile Blech-Transformatorstation - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 5B-M / Mobil Sac Trafo Merkezi, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 5B-M / Mobile Sheet Metal Substation offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 5B-M / Mobile Blech-Transformatorstation ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1776753847-7132.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1776753847-7132.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/5b-m"
+    },
+    {
+      "id": "5c",
+      "categoryId": "trafo-merkezi",
+      "subcategoryId": null,
+      "title": {
+        "tr": "5C / Özel Tip Sac Kabinler",
+        "en": "5C / Custom Sheet Metal Enclosures",
+        "de": "5C / Spezial-Blechkabinen"
+      },
+      "description": {
+        "tr": "5C / Özel Tip Sac Kabinler - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "5C / Custom Sheet Metal Enclosures - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "5C / Spezial-Blechkabinen - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 5C / Özel Tip Sac Kabinler, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 5C / Custom Sheet Metal Enclosures offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 5C / Spezial-Blechkabinen ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1776428754-3658.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1776428754-3658.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/5c"
+    },
+    {
+      "id": "5d",
+      "categoryId": "trafo-merkezi",
+      "subcategoryId": null,
+      "title": {
+        "tr": "5D - Beton Köşk Tip Trafo Merkezi",
+        "en": "5D - Concrete Compact Substation",
+        "de": "5D - Beton-Kompaktstation"
+      },
+      "description": {
+        "tr": "5D - Beton Köşk Tip Trafo Merkezi - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "5D - Concrete Compact Substation - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "5D - Beton-Kompaktstation - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 5D - Beton Köşk Tip Trafo Merkezi, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 5D - Concrete Compact Substation offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 5D - Beton-Kompaktstation ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1778164020-3710.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1778164020-3710.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/5d"
+    },
+    {
+      "id": "6a",
+      "categoryId": "power-plant",
+      "subcategoryId": null,
+      "title": {
+        "tr": "6A / E-House",
+        "en": "6A / E-House",
+        "de": "6A / E-House"
+      },
+      "description": {
+        "tr": "6A / E-House - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "6A / E-House - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "6A / E-House - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 6A / E-House, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 6A / E-House offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 6A / E-House ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1778164113-8871.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1778164113-8871.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/6a"
+    },
+    {
+      "id": "6b",
+      "categoryId": "power-plant",
+      "subcategoryId": null,
+      "title": {
+        "tr": "6B / Konteyner",
+        "en": "6B / Konteyner",
+        "de": "6B / Konteyner"
+      },
+      "description": {
+        "tr": "6B / Konteyner - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "6B / Konteyner - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "6B / Konteyner - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 6B / Konteyner, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 6B / Konteyner offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 6B / Konteyner ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1776496221-2985.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1776496221-2985.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/6b"
+    },
+    {
+      "id": "6c",
+      "categoryId": "power-plant",
+      "subcategoryId": null,
+      "title": {
+        "tr": "6C / Römork",
+        "en": "6C / Trailer",
+        "de": "6C / Anhänger"
+      },
+      "description": {
+        "tr": "6C / Römork - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "6C / Trailer - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "6C / Anhänger - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 6C / Römork, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 6C / Trailer offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 6C / Anhänger ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1778164241-1012.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1778164241-1012.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/6c"
+    },
+    {
+      "id": "6d",
+      "categoryId": "power-plant",
+      "subcategoryId": null,
+      "title": {
+        "tr": "6D - Treyler",
+        "en": "6D - Heavy Trailer",
+        "de": "6D - Schweranhänger"
+      },
+      "description": {
+        "tr": "6D - Treyler - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "6D - Heavy Trailer - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "6D - Schweranhänger - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 6D - Treyler, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 6D - Heavy Trailer offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 6D - Schweranhänger ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1778164378-6039.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1778164378-6039.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/6d"
+    },
+    {
+      "id": "umay",
+      "categoryId": "ev-charger",
+      "subcategoryId": null,
+      "title": {
+        "tr": "UMAY / AC EV Charger",
+        "en": "UMAY / AC EV Charger",
+        "de": "UMAY / AC EV Charger"
+      },
+      "description": {
+        "tr": "UMAY / AC EV Charger - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "UMAY / AC EV Charger - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "UMAY / AC EV Charger - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen UMAY / AC EV Charger, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, UMAY / AC EV Charger offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet UMAY / AC EV Charger ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1779364726-5954.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1779364726-5954.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/umay"
+    },
+    {
+      "id": "umay-dc",
+      "categoryId": "ev-charger",
+      "subcategoryId": null,
+      "title": {
+        "tr": "UMAY / DC EV Charger",
+        "en": "UMAY / DC EV Charger",
+        "de": "UMAY / DC EV Charger"
+      },
+      "description": {
+        "tr": "UMAY / DC EV Charger - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "UMAY / DC EV Charger - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "UMAY / DC EV Charger - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen UMAY / DC EV Charger, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, UMAY / DC EV Charger offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet UMAY / DC EV Charger ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1779365555-1945.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1779365555-1945.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/umay-dc"
+    },
+    {
+      "id": "umay_3a",
+      "categoryId": "ev-charger",
+      "subcategoryId": null,
+      "title": {
+        "tr": "UMAY / Şebekeyle Kombine Bataryalı Sistemler",
+        "en": "UMAY / Grid-Combined Battery Systems",
+        "de": "UMAY / Netzgekoppelte Batteriesysteme"
+      },
+      "description": {
+        "tr": "UMAY / Şebekeyle Kombine Bataryalı Sistemler - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "UMAY / Grid-Combined Battery Systems - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "UMAY / Netzgekoppelte Batteriesysteme - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen UMAY / Şebekeyle Kombine Bataryalı Sistemler, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, UMAY / Grid-Combined Battery Systems offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet UMAY / Netzgekoppelte Batteriesysteme ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1778833363-7353.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1778833363-7353.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/umay_3a"
+    },
+    {
+      "id": "umay-yazılım-pulsev",
+      "categoryId": "ev-charger",
+      "subcategoryId": null,
+      "title": {
+        "tr": "UMAY / Yazılım",
+        "en": "UMAY / Software",
+        "de": "UMAY / Software"
+      },
+      "description": {
+        "tr": "UMAY / Yazılım - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "UMAY / Software - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "UMAY / Software - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen UMAY / Yazılım, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, UMAY / Software offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet UMAY / Software ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1779523921-2521.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1779523921-2521.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/umay-yazılım-pulsev"
+    },
+    {
+      "id": "3",
+      "categoryId": "ag-guc-dagitim",
+      "subcategoryId": null,
+      "title": {
+        "tr": "3 – Eaton XENERGY AG Panoları İçin İş Ortaklığı",
+        "en": "3 – Eaton XENERGY LV Panels İçin Partnership",
+        "de": "3 – Eaton XENERGY Niederspannungsverteiler İçin Partnerschaft"
+      },
+      "description": {
+        "tr": "3 – Eaton XENERGY AG Panoları İçin İş Ortaklığı - AFB Enerji kalitesi ve uluslararası standartlarla tasarlanmış yüksek mühendislik ürünü çözümler.",
+        "en": "3 – Eaton XENERGY LV Panels İçin Partnership - High-engineering solutions designed with AFB Energy quality and international standards.",
+        "de": "3 – Eaton XENERGY Niederspannungsverteiler İçin Partnerschaft - Hochtechnologische Lösungen, entwickelt mit AFB Energy Qualität und internationalen Standards."
+      },
+      "longDescription": {
+        "tr": "AFB Enerji tarafından endüstriyel tesisler, enerji altyapıları ve modern yapılar için geliştirilen 3 – Eaton XENERGY AG Panoları İçin İş Ortaklığı, üstün güvenlik seviyesi, yüksek dayanıklılık ve modüler montaj avantajları sunar. Uluslararası test raporları ve tip testi sertifikasyonlarına sahip olan bu sistem, operasyonel sürekliliği güvence altına alır.",
+        "en": "Developed by AFB Energy for industrial plants, energy infrastructures, and modern buildings, 3 – Eaton XENERGY LV Panels İçin Partnership offers superior safety, high durability, and modular assembly advantages. Certified with international test reports and type tests, it secures operational continuity.",
+        "de": "Entwickelt von AFB Energy für Industrieanlagen, Energieinfrastrukturen und moderne Gebäude, bietet 3 – Eaton XENERGY Niederspannungsverteiler İçin Partnerschaft ein Höchstmaß an Sicherheit, Langlebigkeit und modulare Montagevorteile. Zertifiziert mit internationalen Prüfberichten und Typprüfungen sichert es die Betriebskontinuität."
+      },
+      "image": "https://afbenerji.com/resimler/urunler/product-image-1778164584-4030.png",
+      "gallery": [
+        "https://afbenerji.com/resimler/urunler/product-image-1778164584-4030.png"
+      ],
+      "features": {
+        "tr": [
+          "Uluslararası standartlara (IEC / EN) tam uyumluluk",
+          "Modüler ve esnek genişletilebilir mekanik tasarım",
+          "Yüksek korozyon direnci ve dayanıklı boya kaplaması",
+          "Kolay montaj, kablolama ve hızlı bakım imkanı"
+        ],
+        "en": [
+          "Full compliance with international standards (IEC / EN)",
+          "Modular and flexibly expandable mechanical design",
+          "High corrosion resistance and durable paint finish",
+          "Easy installation, wiring, and fast maintenance capability"
+        ],
+        "de": [
+          "Volle Konformität mit internationalen Standards (IEC / EN)",
+          "Modulares und flexibel erweiterbares mechanisches Design",
+          "Hohe Korrosionsbeständigkeit und langlebige Lackierung",
+          "Einfache Montage, Verkabelung und schnelle Wartbarkeit"
+        ]
+      },
+      "specs": {
+        "Standard / Standart": "IEC 61439-1/2",
+        "Protection Class / Koruma Sınıfı": "IP31 / IP41 / IP54",
+        "Material / Malzeme": "Galvanized Steel / Galvaniz Sac",
+        "Manufacturer / Üretici": "AFB ENERJİ"
+      },
+      "sfaUrl": "/products/afb/3"
+    }
+  ]
+}

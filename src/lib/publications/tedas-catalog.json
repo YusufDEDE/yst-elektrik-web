@@ -1,0 +1,768 @@
+[
+  {
+    "id": "strateji",
+    "code": "1",
+    "title": "Strateji Geliştirme Dairesi Başkanlığı",
+    "items": [
+      {
+        "id": "1.1",
+        "code": "1.1",
+        "title": "TEDAŞ-MLZ/94-001.C YÜKSEK BASINÇLI SODYUM BUHARLI LAMBALAR TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/90ccbe51-b4a2-48e2-9eb9-d191c1c213d6.pdf"
+      },
+      {
+        "id": "1.2",
+        "code": "1.2",
+        "title": "TEDAŞ-MLZ/2006-002.D YG SF6 GAZI YALITIMLI METAL MAHFAZALI ANAHTARLAMA VE KONTROL DÜZENLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/b2a96c5d-175c-4b20-aa26-47cb6fa9c61b.pdf"
+      },
+      {
+        "id": "1.3",
+        "code": "1.3",
+        "title": "TEDAŞ-MLZ/96-004.A ALÇAK GERİLİM DEVRE KESİCİLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/aa8b2343-44d5-48a0-9fd0-69342f9641f0.pdf",
+        "note": "01.07.2026 tarihinde yürürlükten kaldırılacaktır."
+      },
+      {
+        "id": "1.4",
+        "code": "1.4",
+        "title": "TEDAŞ-MLZ/96-004.B ALÇAK GERİLİM DEVRE KESİCİLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/ad9601af-ffa2-40f0-8c1d-7c14b71254f2.pdf",
+        "note": "01.07.2026 tarihinden itibaren kullanımı zorunludur."
+      },
+      {
+        "id": "1.5",
+        "code": "1.5",
+        "title": "TEDAŞ-MLZ/96-005.A BAĞIMSIZ EL KUMANDALI ALÇAK GERİLİM SİGORTALI YÜK AYIRICILARI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/cc062af0-123d-4dc9-8711-476d4e191409.pdf"
+      },
+      {
+        "id": "1.6",
+        "code": "1.6",
+        "title": "TEDAŞ-MLZ/2003-006.B ALÇAK GERİLİM DAĞITIM PANOLARI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/cc6ffb86-7888-4606-a962-c706c7ef6722.pdf"
+      },
+      {
+        "id": "1.7",
+        "code": "1.7",
+        "title": "TEDAŞ-MLZ/2003-006.C ALÇAK GERİLİM DAĞITIM PANOLARI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/a98ec6b0-eac6-4b41-902c-ce4013ede17f.pdf"
+      },
+      {
+        "id": "1.8",
+        "code": "1.8",
+        "title": "TEDAŞ-MLZ/2003-006.D(TASLAK) ALÇAK GERİLİM DAĞITIM PANOLARI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/b83c7f82-525d-4047-b7cb-60e7a89afb8a.pdf"
+      },
+      {
+        "id": "1.9",
+        "code": "1.9",
+        "title": "TEDAŞ-MLZ/95-007.E YG HAVA YALITIMLI METAL MAHFAZALI MODÜLER ANAHTARLAMA VE KONTROL DÜZENLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/cd72b33d-c5c8-41e2-8c8b-87f0d207d0eb.pdf"
+      },
+      {
+        "id": "1.10",
+        "code": "1.10",
+        "title": "TEDAŞ-MLZ/95-008.B ORTA GERİLİM KESİCİLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/74bf3fd7-ab67-40f8-a50e-58b3c01d4881.pdf"
+      },
+      {
+        "id": "1.11",
+        "code": "1.11",
+        "title": "TEDAŞ-MLZ/95-009.B YOL AYDINLATMA ARMATÜRLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/0594705a-0eff-4776-ba6d-713a73b7e6cc.pdf"
+      },
+      {
+        "id": "1.12",
+        "code": "1.12",
+        "title": "TEDAŞ-MLZ/96-010.B YÜKSEK GERİLİM AKIM TRANSFORMATÖRLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/f06c3ae0-ecf1-4d63-b2d4-b800593497e3.pdf"
+      },
+      {
+        "id": "1.13",
+        "code": "1.13",
+        "title": "TEDAŞ-MLZ/96-011.B YG GERİLİM TRANSFORMATÖRLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/38f5fa2d-3901-410f-9b45-91fecfc5d10e.pdf"
+      },
+      {
+        "id": "1.14",
+        "code": "1.14",
+        "title": "TEDAŞ-MLZ/95-012.F GENLEŞME DEPOLU TİP OG/AG DAĞITIM GÜÇ TRANSFORMATÖRLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/2369b836-6a86-41ef-90c7-48a442372aff.pdf"
+      },
+      {
+        "id": "1.15",
+        "code": "1.15",
+        "title": "TEDAŞ-MLZ/95-013.B ORTA GERİLİM GÜÇ TRANSFORMATÖRLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/fa9ec33e-de08-4719-be9e-14f810847dc9.pdf"
+      },
+      {
+        "id": "1.16",
+        "code": "1.16",
+        "title": "TEDAŞ-MLZ/96-014.A ÖRGÜLÜ TAM ALÜMİNYUM İLETKENLER VE ÇELİK ÖZLÜ ÖRGÜLÜ ALÜMİNYUM İLETKENLER TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/933098f4-1dd4-4ec5-90f5-b6fb3a9b0dee.pdf"
+      },
+      {
+        "id": "1.17",
+        "code": "1.17",
+        "title": "TEDAŞ-MLZ/96-015.A 0,6/1 kV ALÇAK GERİLİM ENERJİ KABLOLARI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/7a4591e0-fa5b-4e5a-b8fb-0dc0dcaab949.pdf"
+      },
+      {
+        "id": "1.18",
+        "code": "1.18",
+        "title": "TEDAŞ-MLZ/96-016 DAĞITIM HATLARI ASKI VE GERGİ ZİNCİR İZOLATÖR TAKIMLARI HIRDAVATI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/abd8946e-5e1d-46f6-822e-9dd0ccdc4bcd.pdf"
+      },
+      {
+        "id": "1.19",
+        "code": "1.19",
+        "title": "TEDAŞ-MLZ/96-017.B YÜKSEK GERİLİM AYIRICILARI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/4b794a79-bb7b-47e9-94fa-19f7bb4413f7.pdf"
+      },
+      {
+        "id": "1.20",
+        "code": "1.20",
+        "title": "TEDAŞ-MLZ/96-018.B ORTA GERİLİM ÇAPRAZ BAĞLI POLİETİLEN (XLPE) YALITKANLI ENERJİ KABLOLARI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/28aa41af-9956-481b-b73e-dc10fed2cbf3.pdf"
+      },
+      {
+        "id": "1.21",
+        "code": "1.21",
+        "title": "TEDAŞ-MLZ/96-019.B YG SİSTEMLERİ İÇİN ARK ARALIĞI BULUNMAYAN METAL OKSİT KOMPOZİT SİLİKON PARAFUDR TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/d2dcea0d-d76b-484a-864b-454a76335633.pdf"
+      },
+      {
+        "id": "1.22",
+        "code": "1.22",
+        "title": "TEDAŞ-MLZ/96-020 ORTA GERİLİM MESNET İZOLATÖRLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/5af9320c-7a42-4ebc-b720-5a14406a366a.pdf"
+      },
+      {
+        "id": "1.23",
+        "code": "1.23",
+        "title": "TEDAŞ-MLZ/96.021 ORTA GERİLİM SİSTEMLERİ İÇİN GEÇİT İZOLATÖRLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/e57c2304-6fab-4e03-81a1-3787dc5ec403.pdf"
+      },
+      {
+        "id": "1.24",
+        "code": "1.24",
+        "title": "TEDAŞ-MLZ/96-022 HAVA HATTI ZİNCİR İZOLATÖRLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/d987adf0-dfa0-4cff-91ac-def200ec7365.pdf"
+      },
+      {
+        "id": "1.25",
+        "code": "1.25",
+        "title": "TEDAŞ-MLZ/96-023 OG HAVA HATTI MESNET İZOLATÖRLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/83e5b78f-0ef7-4d84-8298-cafc77917875.pdf"
+      },
+      {
+        "id": "1.26",
+        "code": "1.26",
+        "title": "TEDAŞ-MLZ/99-024.B ERİYEN TELLİ YÜKSEK GERİLİM SİGORTALARI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/348262e0-ac35-46b8-a500-bc00c2202fdf.pdf"
+      },
+      {
+        "id": "1.27",
+        "code": "1.27",
+        "title": "TEDAŞ-MLZ/96-025.A HAVAİ HATLAR İÇİN EMPRENYELİ AĞAÇ TEL DİREKLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/04514a6c-8ff8-4835-a096-e5779bbfc83e.pdf"
+      },
+      {
+        "id": "1.28",
+        "code": "1.28",
+        "title": "TEDAŞ-MLZ/96-026.A YG ŞÖNT KONDANSATÖR BANKLARI VE TEÇHİZATI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/79627b6b-ab04-4fe6-aaf4-0d0a9f66b9f4.pdf"
+      },
+      {
+        "id": "1.29",
+        "code": "1.29",
+        "title": "TEDAŞ-MLZ/96-027.C SEKONDER RÖLELER TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/7de497ed-4505-4cd8-83c8-a5bdd97b1e0e.pdf"
+      },
+      {
+        "id": "1.30",
+        "code": "1.30",
+        "title": "TEDAŞ-MLZ/96-027.D SEKONDER RÖLELER TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/4da8f61a-71c8-4c6f-a69c-511b27603c99.pdf",
+        "note": "31.12.2026 tarihinden itibaren kullanımı zorunludur."
+      },
+      {
+        "id": "1.31",
+        "code": "1.31",
+        "title": "TEDAŞ-MLZ/96-030 OG SİSTEMLERİ İÇİN ŞÖNT KAPASİTÖR ÖLÇÜ-KUMANDA-KORUMA PANOSU TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/50f96208-5271-4647-9980-94be4b971c0e.pdf"
+      },
+      {
+        "id": "1.32",
+        "code": "1.32",
+        "title": "TEDAŞ-MLZ/99-031.B SARGILARI EPOKSİ REÇİNE İLE ÖRTÜLÜ KURU TİP OG/AG DAĞITIM GÜÇ TRANSFORMATÖRLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/a14262a3-7536-476a-9800-06e1134ab741.pdf"
+      },
+      {
+        "id": "1.33",
+        "code": "1.33",
+        "title": "TEDAŞ-MLZ/99-032.E HERMETİK TİP OG/AG DAĞITIM GÜÇ TRANSFORMATÖRLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/2f4dae98-2506-443b-8cf7-7ad30961dc5e.pdf"
+      },
+      {
+        "id": "1.34",
+        "code": "1.34",
+        "title": "TEDAŞ-MLZ/99-033.B OG KABLO YARDIMCI DONANIMLARI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/bf708c49-0a85-4c1d-84a2-7702f20dffd3.pdf"
+      },
+      {
+        "id": "1.35",
+        "code": "1.35",
+        "title": "TEDAŞ-MLZ/99-34 SANTRİFÜJ BETONARME DİREK İMALATI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/8aef4429-1647-4a50-9a9e-a44250bc486f.pdf"
+      },
+      {
+        "id": "1.36",
+        "code": "1.36",
+        "title": "TEDAŞ-MLZ/2000-038 CAM ELYAFI TAKVİYELİ POLYESTER (KOMPOZİT) DİREK, TRAVERS VE KONSOLLAR TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/8891587d-8d97-47dd-be50-c60e3e50212e.pdf"
+      },
+      {
+        "id": "1.37",
+        "code": "1.37",
+        "title": "TEDAŞ-MLZ/2002-039 SARGILARI EPOKSİ REÇİNE İLE ÖRTÜLÜ KURU TİP OG/OG GÜÇ TRANSFORMATÖRLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/b20ff0f3-59ed-412b-bac0-2939d2a91d8d.pdf"
+      },
+      {
+        "id": "1.38",
+        "code": "1.38",
+        "title": "TEDAŞ-MLZ/2002-040 BAKIR VE ALÜMİNYUM BARALAR TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/fe2f0794-09a6-4e28-9f64-2fbfc5578364.pdf"
+      },
+      {
+        "id": "1.39",
+        "code": "1.39",
+        "title": "TEDAŞ-MLZ/2002-042.B ALÇAK GERİLİM DİKEY TİP SİGORTALI YÜK AYIRICILARI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/132f5b48-51fb-4da4-8a59-cf06f1419852.pdf"
+      },
+      {
+        "id": "1.40",
+        "code": "1.40",
+        "title": "TEDAŞ-MLZ/2002-043.B YÜKSEK GERİLİM HAVAİ HAT VE YERALTI ŞEBEKELERİ İÇİN ARIZA AKIMI GÖSTERGE DÜZENLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/59dc7fec-9843-4dc0-b4f9-7f7bc601236c.pdf"
+      },
+      {
+        "id": "1.41",
+        "code": "1.41",
+        "title": "TEDAŞ-MLZ/2003-044.B ALÇAK GERİLİM BIÇAKLI SİGORTA VE DEĞİŞTİRME CİHAZI (ELLİK) TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/c665aeae-1a35-4856-8f79-d3075a540e38.pdf"
+      },
+      {
+        "id": "1.42",
+        "code": "1.42",
+        "title": "TEDAŞ-MLZ/2004-045.A AG AKIM TRANSFORMATÖRLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/3725507b-ed82-4dc3-afbc-4d7982fed946.pdf"
+      },
+      {
+        "id": "1.43",
+        "code": "1.43",
+        "title": "TEDAŞ-MLZ/2004-046.B ALÇAK GERİLİM SAHA DAĞITIM KUTULARI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/6465e4d8-a093-4e4e-bb73-dcde522bc30d.pdf",
+        "note": "01.07.2026 tarihinde yürürlükten kaldırılacaktır."
+      },
+      {
+        "id": "1.44",
+        "code": "1.44",
+        "title": "TEDAŞ-MLZ/2004-046.C ALÇAK GERİLİM SAHA DAĞITIM KUTULARI",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/22bc1de9-d626-4de9-aa8b-8c23231cfab4.pdf",
+        "note": "01.07.2026 tarihinden itibaren kullanımı zorunludur."
+      },
+      {
+        "id": "1.45",
+        "code": "1.45",
+        "title": "TEDAŞ-MLZ/2004-047.B HAVAİ HAT OTOMATİK TEKRAR KAPAMALI KESİCİ (RECLOSER), HAVAİ HAT OTOMATİK YÜK AYIRICISI (SECTIONALIZER) VE DONANIMLARI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/fd2ef278-8ce7-46b1-bc16-e65e3a2e79f9.pdf"
+      },
+      {
+        "id": "1.46",
+        "code": "1.46",
+        "title": "TEDAŞ-MLZ/2004-048 GALVANİZLİ TOPRAKLAMA MALZEMELERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/5f2933cf-d26a-4df1-9236-5e37c46a9b71.pdf"
+      },
+      {
+        "id": "1.47",
+        "code": "1.47",
+        "title": "TEDAŞ-MLZ/2004-049 ÖRGÜLÜ BAKIR İLETKEN TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/275301ba-04fb-47d7-a294-b4b9bdcefbd5.pdf"
+      },
+      {
+        "id": "1.48",
+        "code": "1.48",
+        "title": "TEDAŞ-MLZ/2005-050 YERALTINA GÖMÜLEN ENERJİ KABLOLARI İÇİN KABLO MUHAFAZA BORU VE EK PARÇALARI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/20f4eca9-8080-4a31-812e-e34162ab59e2.pdf"
+      },
+      {
+        "id": "1.49",
+        "code": "1.49",
+        "title": "TEDAŞ-MLZ/2005-051.A 0,6/1 kV, ASKI TELLİ, DEMET BİÇİMLİ, YALITILMIŞ ALÜMİNYUM İLETKENLİ, HAVA HATTI (AER) GÜÇ KABLOLARI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/799ccdf2-ff8c-45e5-909a-f413dd07bbd7.pdf"
+      },
+      {
+        "id": "1.50",
+        "code": "1.50",
+        "title": "TEDAŞ-MLZ/2006-052.B PREFABRİK DAĞITIM MERKEZİ VE YG/AG DAĞITIM TRANSFORMATÖR MERKEZİ BİNALARI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/aec1c378-8f53-4dd1-8852-a1d2e397b7dd.pdf",
+        "note": "01.01.2025 tarihinden itibaren zorunlu maddeler yürürlüğe girmiştir."
+      },
+      {
+        "id": "1.51",
+        "code": "1.51",
+        "title": "TEDAŞ-MLZ/2006-053 YERALTI OG/AG DAĞITIM TRANSFORMATÖR MERKEZLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/e5d0a4ee-358e-49d5-a015-bbf06e1730b6.pdf",
+        "note": "01.01.2025 tarihinden itibaren zorunlu maddeler yürürlüğe girmiştir."
+      },
+      {
+        "id": "1.52",
+        "code": "1.52",
+        "title": "TEDAŞ-MLZ/2009-055 36 kV HAVA HATLARI İÇİN KOMPOZİT SİLİKON ASKI VE GERGİ İZOLATÖRLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/b3b1400b-3148-4eb1-9e36-bb1f63e95201.pdf"
+      },
+      {
+        "id": "1.53",
+        "code": "1.53",
+        "title": "TEDAŞ-MLZ/2009-056.A AG KABLO YARDIMCI DONANIMLARI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/63333b01-c88b-4904-b93a-2728a98a8d59.pdf"
+      },
+      {
+        "id": "1.54",
+        "code": "1.54",
+        "title": "TEDAŞ-MLZ/2010-057.D LED IŞIK KAYNAKLI YOL AYDINLATMA ARMATÜRLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/a622503e-7866-4736-b558-6ce0e05d959b.pdf",
+        "note": "Bu şartnameye göre sertifika geçerlilik süresi 01.07.2026 tarihinde sona erecektir."
+      },
+      {
+        "id": "1.55",
+        "code": "1.55",
+        "title": "TEDAŞ-MLZ/2010-057.E LED IŞIK KAYNAKLI YOL AYDINLATMA ARMATÜRLERİ TEKNİK ŞARTNAMESİ",
+        "url": "#",
+        "note": "Şartnamenin (68). maddesinde ve 3.Teklifle Birlikte Verilecek Bilgi ve Belgeler başlığının 5. maddesinde düzenleme yapılmıştır.",
+        "children": [
+          {
+            "id": "1.55.1",
+            "code": "1.55.1",
+            "title": "TEDAŞ-MLZ/2010-057.E LED IŞIK KAYNAKLI YOL AYDINLATMA ARMATÜRLERİ TEKNİK ŞARTNAMESİ",
+            "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/e468e501-565b-4ebc-aefb-9f3a10fb797e.pdf"
+          },
+          {
+            "id": "1.55.2",
+            "code": "1.55.2",
+            "title": "EK-6: LED ARMATÜRLERİN SINIFLARININ BELİRLENMESİ VE ONAYLANMASINA İLİŞKİN TEKNİK KILAVUZ",
+            "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/e3c8c552-1583-4fb4-83db-248f22c0c941.pdf"
+          }
+        ]
+      },
+      {
+        "id": "1.56",
+        "code": "1.56",
+        "title": "TEDAŞ-MLZ/2012-058 ALÇAK GERİLİM SAYAÇ OTOMASYON PANOSU (ASOP) TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/dc2a4d94-704a-4677-abfa-bf81821980c0.pdf"
+      },
+      {
+        "id": "1.57",
+        "code": "1.57",
+        "title": "TEDAŞ-MLZ/95-060.B METAL MAHFAZALI KOMPAKT TİP OG/AG TRANSFORMATÖR MERKEZLERİ TEKNİK ŞARTNAMESİ (MMH-gaz'lı)",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/0817b82a-844c-476e-bc19-3a86e69cfc8e.pdf",
+        "note": "01.01.2025 tarihinden itibaren zorunlu maddeler yürürlüğe girmiştir."
+      },
+      {
+        "id": "1.58",
+        "code": "1.58",
+        "title": "TEDAŞ-MLZ/2015-061 FOTOVOLTAİK SİSTEMLER İÇİN DC ELEKTRİK KABLOLARI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/2355ee2d-8a5d-478e-aa0b-1e105f91be19.pdf"
+      },
+      {
+        "id": "1.59",
+        "code": "1.59",
+        "title": "TEDAŞ-MLZ/2017-062.A ELEKTRONİK ELEKTRİK SAYAÇLARI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/ecd9bd00-e520-478a-9ba1-88175e24cca6.pdf",
+        "note": "01.01.2026 tarihinde yürürlükten kaldırılacaktır."
+      },
+      {
+        "id": "1.60",
+        "code": "1.60",
+        "title": "TEDAŞ-MLZ/2017-062.B ELEKTRONİK ELEKTRİK SAYAÇLARI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/b6d0302c-e0a3-41a9-a013-04aa9bcaa07c.pdf",
+        "note": "01.01.2026 tarihinden itibaren kullanımı zorunludur."
+      },
+      {
+        "id": "1.61",
+        "code": "1.61",
+        "title": "TEDAŞ-MLZ/2018-063 ENERJİ ANALİZÖRÜ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/a211662b-eb38-4c3e-a3a6-d4737b1809ef.pdf",
+        "note": "Şartnamenin 1.4.3.2. maddesindeki boyutlar 300x120x96 mm olarak güncellenmiştir."
+      },
+      {
+        "id": "1.62",
+        "code": "1.62",
+        "title": "TEDAŞ-MLZ/2019-064.B HABERLEŞME ÜNİTESİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/03552753-b35c-4f56-8a34-2e1d0e36d878.pdf",
+        "note": "01.01.2026 tarihinden itibaren kullanımı zorunludur."
+      },
+      {
+        "id": "1.63",
+        "code": "1.63",
+        "title": "TEDAŞ-MLZ/2019-064.A işaretli Haberleşme Ünitesi Teknik Şartnamesi ve Ekleri",
+        "url": "#",
+        "children": [
+          {
+            "id": "1.63.1",
+            "code": "1.63.1",
+            "title": "TEDAŞ-MLZ2019-064.A Haberleşme Ünitesi Teknik Şartnamesi",
+            "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/c2e708a0-dd3b-485f-bab6-4f2709c97ec4.pdf",
+            "note": "01.01.2026 tarihinde yürürlükten kalkacaktır."
+          },
+          {
+            "id": "1.63.2",
+            "code": "1.63.2",
+            "title": "Master Komut Seti",
+            "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/bd8006f9-d5ed-4b24-9006-6205b0d46e76.xlsx"
+          },
+          {
+            "id": "1.63.3",
+            "code": "1.63.3",
+            "title": "Kalite Komut Seti",
+            "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/53c8c1d0-0f30-4e78-b7b6-4ab2fbebc703.xlsx"
+          },
+          {
+            "id": "1.63.4",
+            "code": "1.63.4",
+            "title": "Sayaç Komut Seti",
+            "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/95c76b00-5308-41bd-b363-4cf507d5d202.xlsx"
+          }
+        ]
+      },
+      {
+        "id": "1.64",
+        "code": "1.64",
+        "title": "TEDAŞ-MLZ/2018-065.A AKÜ-REDRESÖR GRUBU TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/7c8597f8-7c19-4d63-8972-9f6a52f7635f.pdf"
+      },
+      {
+        "id": "1.65",
+        "code": "1.65",
+        "title": "TEDAŞ-MLZ/2018-066.A KAREKOD TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/d3506fc5-65dd-4a76-9de6-6588a82d640b.pdf",
+        "note": "21.11.2023 tarihinde malzeme poz kırılım numaraları ve öznitelik bilgileri güncellenmiştir."
+      },
+      {
+        "id": "1.66",
+        "code": "1.66",
+        "title": "TEDAŞ-MLZ/2017-067 OG KOMPOZİT SİLİKON MESNET İZOLATÖRLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/4182f129-b0a8-4adc-937f-4a716326bff9.pdf"
+      },
+      {
+        "id": "1.67",
+        "code": "1.67",
+        "title": "TEDAŞ-MLZ/2019-068 İZOLASYON MALZEMELERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/8a73dc87-2654-4117-8914-d7aeecc3905f.pdf"
+      },
+      {
+        "id": "1.68",
+        "code": "1.68",
+        "title": "TEDAŞ-MLZ/2019-068.A İZOLASYON MALZEMELERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/59a7465c-9e6c-4a50-b969-8d3c34be881f.pdf",
+        "note": "01.07.2026 tarihinden itibaren kullanımı zorunludur."
+      },
+      {
+        "id": "1.69",
+        "code": "1.69",
+        "title": "TEDAŞ-MLZ/2020-069 BETON MAHFAZALI KOMPAKT TİP YG/AG DAĞITIM TRANSFORMATÖR MERKEZLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/30f715e1-a0e1-445d-8064-e7ddf34f4c5b.pdf",
+        "note": "01.01.2025 tarihinden itibaren zorunlu maddeler yürürlüğe girmiştir."
+      },
+      {
+        "id": "1.70",
+        "code": "1.70",
+        "title": "TEDAŞ-MLZ/2020-070 TRANSFORMATÖR YALITIM YAĞI VE SIVILARI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/1ab7147f-c26f-4ef9-9e45-e12c9c3775e7.pdf"
+      },
+      {
+        "id": "1.71",
+        "code": "1.71",
+        "title": "TEDAŞ-MLZ/2021-071 OG ÖRTÜLÜ İLETKENLER VE İLETKEN AKSESUARLARI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/ec961ae3-5ac6-4189-b229-38448899e263.pdf"
+      },
+      {
+        "id": "1.72",
+        "code": "1.72",
+        "title": "TEDAŞ-MLZ/2020-072 AKILLI AYIRICI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/f278f56f-803c-478d-94d9-eaf6741869c6.pdf"
+      },
+      {
+        "id": "1.73",
+        "code": "1.73",
+        "title": "TEDAŞ-MLZ/2020-074 ASTRONOMİK ZAMAN RÖLESİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/7d80bc59-14d6-4418-b815-2b4e1cd745dc.docx",
+        "note": "01/08/2021 tarihinden itibaren kullanımı zorunludur."
+      },
+      {
+        "id": "1.74",
+        "code": "1.74",
+        "title": "TEDAŞ-MLZ/2022-076 İLETKEN BAĞLAYICILARI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/1e91ff75-8ade-4d62-ad8a-60cea8b7695d.pdf"
+      },
+      {
+        "id": "1.75",
+        "code": "1.75",
+        "title": "TEDAŞ-MLZ/2022-077 ALÇAK GERİLİM PARAFUDR TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/398347e2-faed-4d87-96e5-e6adf6f287ce.pdf"
+      },
+      {
+        "id": "1.76",
+        "code": "1.76",
+        "title": "TEDAŞ-MLZ/2022-078 MOBİL YG/AG DAĞITIM TRANSFORMATÖR MERKEZLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/e60f637d-c6a7-4c05-acf6-d5181c8e365f.pdf"
+      },
+      {
+        "id": "1.77",
+        "code": "1.77",
+        "title": "TEDAŞ-MLZ/2022-079 HAVAİ HAT MESNET İZOLATÖRLERİ ve AER KABLOLARI İÇİN AKSESUARLAR TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/a6522ca6-a302-48bb-ba11-2f2c89b7c165.pdf"
+      },
+      {
+        "id": "1.78",
+        "code": "1.78",
+        "title": "TEDAŞ-MLZ/2024-080 REAKTİF GÜÇ MERKEZİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/d44de0ae-83d9-4c50-be54-2ae569d944f0.pdf"
+      },
+      {
+        "id": "1.79",
+        "code": "1.79",
+        "title": "TEDAŞ-MLZ/2024-081 HABERLEŞME (HEAD-END) YAZILIMI TEKNİK ŞARTNAMESİ",
+        "url": "#",
+        "children": [
+          {
+            "id": "1.79.1",
+            "code": "1.79.1",
+            "title": "TEDAŞ-MLZ/2024-081 Haberleşme (Head-End) Yazılımı Teknik Şartnamesi",
+            "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/36426e31-b0a5-4a8c-8eba-8f35768eca6c.pdf"
+          },
+          {
+            "id": "1.79.2",
+            "code": "1.79.2",
+            "title": "Ek-A MASS Haberleşme Protokolü ve Ek-B MASS Entegrasyon Dokümanı (Standart API)",
+            "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/e4d17ceb-6936-45b2-92ef-c425d7b7fa5a.rar"
+          },
+          {
+            "id": "1.79.3",
+            "code": "1.79.3",
+            "title": "EK-C Birlikte Çalışabilirlik Teknik Kılavuzu",
+            "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/1b9679c3-e286-4c65-a715-2f1ac001ba1e.pdf",
+            "note": "31.10.2025 tarihi itibariyle yürürlüğe girecektir."
+          }
+        ]
+      },
+      {
+        "id": "1.80",
+        "code": "1.80",
+        "title": "TEDAŞ-MLZ/2024-082 MODÜLER MODEM TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/b0497fc7-ab8b-4503-b4a3-c3ce82d36817.pdf",
+        "note": "01.01.2026 tarihinden itibaren kullanımı zorunlu olacaktır."
+      },
+      {
+        "id": "1.81",
+        "code": "1.81",
+        "title": "TEDAŞ-MLZ/2025-083 KONTAKTÖRLER TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/d52ca6e3-3db0-4c50-be6a-d2a6ae508968.pdf",
+        "note": "01.07.2026 tarihinden itibaren kullanımı zorunlu olacaktır."
+      },
+      {
+        "id": "1.82",
+        "code": "1.82",
+        "title": "TEDAŞ-MLZ/2025-084 ELEKTRİKSEL YALITIM KAPLAMASI TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/8d916d07-3313-469d-88c5-1ff93e85648d.pdf",
+        "note": "01.07.2026 tarihinden itibaren kullanımı zorunlu olacaktır."
+      },
+      {
+        "id": "1.83",
+        "code": "1.83",
+        "title": "TEDAŞ-MLZ/2025-085 AG HAVAİ HAT İZOLATÖRLERİ TEKNİK ŞARTNAMESİ",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/ee5f2bce-40b1-4576-bb45-d2013ec2d7eb.pdf",
+        "note": "01.07.2026 tarihinden itibaren kullanımı zorunlu olacaktır."
+      }
+    ]
+  },
+  {
+    "id": "mali",
+    "code": "2",
+    "title": "Mali İşler Dairesi Başkanlığı",
+    "items": [
+      {
+        "id": "2.1",
+        "code": "2.1",
+        "title": "Akaryakıt Temini Teknik Şartnamesi 2016",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/30b40c65-f287-440d-89d2-b7d5c370671e.pdf"
+      },
+      {
+        "id": "2.2",
+        "code": "2.2",
+        "title": "Binek Araçların Yerli Muhteva Oranları",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/e2025115-f877-417b-83c0-93d5838b90de.pdf"
+      },
+      {
+        "id": "2.3",
+        "code": "2.3",
+        "title": "Hizmet Alımı Yoluyla Çalıştırılacak Araçlara Ait İdari ve Teknik Şartname ve Sözleşme 2013",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/1d95ce65-1a64-46d5-a4c8-bd5916084be7.rar"
+      },
+      {
+        "id": "2.4",
+        "code": "2.4",
+        "title": "Hizmet Alımı Yoluyla Çalıştırılacak Araçlara Ait İdari ve Teknik Şartname ve Sözleşme 2014",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/8ee3d167-8bec-471d-b915-639e2b8c9bd1.rar"
+      },
+      {
+        "id": "2.5",
+        "code": "2.5",
+        "title": "Hizmet Alımı Yoluyla Çalıştırılacak Araçlara Ait İdari, Teknik Şartname ve Sözleşme (Yayında)",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/0c52ff80-1370-45a7-8fe4-4d653779a236.rar"
+      },
+      {
+        "id": "2.6",
+        "code": "2.6",
+        "title": "Hizmet Satış Araç Gereç Kira Bedelleri Genelgesi",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/6ec9f80d-797c-4a85-aed0-b3140b8944a2.rar"
+      },
+      {
+        "id": "2.7",
+        "code": "2.7",
+        "title": "Hizmet Satışı Araç Gereç Kira Bedelleri 2013",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/2cef4ffd-1377-40b6-bcd4-bfb3b54dd2b3.rar"
+      },
+      {
+        "id": "2.8",
+        "code": "2.8",
+        "title": "Motorlu Araç Sürücüsü Hizmet Alım Şartnamesi",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/098325d0-f94e-411c-bca6-57cadab28467.rar"
+      },
+      {
+        "id": "2.9",
+        "code": "2.9",
+        "title": "Teklif İsteme Şartnamesi",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/5580cb8a-5eab-405e-b893-bf0c8051c49f.doc"
+      }
+    ]
+  },
+  {
+    "id": "yatirimlar",
+    "code": "3",
+    "title": "Yatırımlar İzleme Dairesi Başkanlığı",
+    "items": [
+      {
+        "id": "3.1",
+        "code": "3.1",
+        "title": "Aydınlatma (Tip Proje) 2014",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/a330a7bb-726c-44cb-89ff-22ed88f20146.rar"
+      },
+      {
+        "id": "3.2",
+        "code": "3.2",
+        "title": "Elektrik Dağıtım Tesisleri Malzeme Montaj Demontaj Birim Fiyat Tarifleri Kitabı (Ocak-2011)",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/1a7233f2-7358-429f-8bc5-303a8ed22222.rar"
+      },
+      {
+        "id": "3.3",
+        "code": "3.3",
+        "title": "Elektrik Dağıtım Tesisleri Teklif Birim Fiyat Tarifleri Kitabı (03.01.2013)",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/b4e928b7-ee98-4434-a5c1-8bd65b1b0ba1.rar"
+      },
+      {
+        "id": "3.4",
+        "code": "3.4",
+        "title": "ENH AG-AW Bağıntıları (Yayın 2014-1)",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/fe9322c3-9d61-4828-91a8-91520821a9ba.rar"
+      },
+      {
+        "id": "3.5",
+        "code": "3.5",
+        "title": "ENH İmalat ve Montaj Şartnameleri",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/8945b0de-ae88-4d8d-bf40-3a16f89368a3.rar"
+      },
+      {
+        "id": "3.6",
+        "code": "3.6",
+        "title": "Mod Tipi Binalar (Haziran 2014)",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/3de54711-8cdb-4fe6-a4fc-cf76c3670f6c.rar"
+      },
+      {
+        "id": "3.7",
+        "code": "3.7",
+        "title": "PRAO Arayüz Programı (Kullanım Klavuzu)",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/6884b6d4-2061-48b5-9169-3666ed610397.zip"
+      },
+      {
+        "id": "3.8",
+        "code": "3.8",
+        "title": "PRAO Arayüz Programı (Program 2005)",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/2e626875-5dd4-4616-9bc0-358bd93c09a8.zip"
+      },
+      {
+        "id": "3.9",
+        "code": "3.9",
+        "title": "Proje Yapımı Teknik Klavuzlar (Temmuz 2014)",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/4ce00353-22a9-42f6-bccb-5f76161e2a26.rar"
+      },
+      {
+        "id": "3.10",
+        "code": "3.10",
+        "title": "Proje Yapımı Teknik Şartnameler (2014)",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/13904582-9f2b-4fcd-b339-3d410c8bcfbd.rar"
+      },
+      {
+        "id": "3.11",
+        "code": "3.11",
+        "title": "Proje Yapımı Yardımcı Yayınlar",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/6c5dfd59-d884-4275-bf40-a2ad1ac4e5a1.rar"
+      },
+      {
+        "id": "3.12",
+        "code": "3.12",
+        "title": "Raven Swallow Direk Klavuzu",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/4d607b5e-0feb-4bdc-acbe-441770faa0c5.zip"
+      }
+    ]
+  },
+  {
+    "id": "varlik",
+    "code": "4",
+    "title": "Varlık Yönetimi Dairesi Başkanlığı",
+    "items": [
+      {
+        "id": "4.1",
+        "code": "4.1",
+        "title": "İstisna Kapsamında Kamulaştırma Haritası Plan Tadilatı (2013)",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/96106d84-f999-473c-a52e-3a339befe43a.rar"
+      },
+      {
+        "id": "4.2",
+        "code": "4.2",
+        "title": "Taşınmaz Temin İşlemlerinin Yürütülmesine Yönelik Teknik Şartname",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/39424387-f82d-46cf-bbb6-e07e8f59e25d.rar"
+      },
+      {
+        "id": "4.3",
+        "code": "4.3",
+        "title": "Kamulaştırma İşlemleriyle İlgili Diğer Dökümanlar Revize (Mart 2018)",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/2015c4e3-2369-4f27-84c6-fa082f00c395.rar"
+      },
+      {
+        "id": "4.4",
+        "code": "4.4",
+        "title": "KİK Kapsamında Kamulaştırma Haritası Plan Tadilatı Kamulaştırma İşlemleri (2013)",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/b564521e-6d98-4f0c-bf40-26754ac5a81d.rar"
+      },
+      {
+        "id": "4.5",
+        "code": "4.5",
+        "title": "Parsel Bazlı Kamulaştırma Haritası İhale Dokümanları (21.07.2014)",
+        "url": "https://www.tedas.gov.tr/FileUpload/MediaFolder/017c6371-7423-443f-b8e7-1b09d93549a7.rar"
+      }
+    ]
+  }
+]
