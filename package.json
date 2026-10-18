@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "docker:build": "bash scripts/build.sh",
+    "docker:run": "bash scripts/run.sh",
+    "docker:up": "npm run docker:build && npm run docker:run"
   },
   "dependencies": {
     "daisyui": "^5.7.50",
